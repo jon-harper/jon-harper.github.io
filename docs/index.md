@@ -5,11 +5,9 @@ authors: Jon Harper
 date: 2022-06-16
 ---
 
-Hello. This is a central place to post or link to my various projects and articles. 
+Hello. My name is Jon Harper. This is a central place to post or link to my various projects and articles. 
 
 ## About Me
-
-My name is Jon Harper.
 
 I'm an IT-oriented problem solver. Things I love:
 
@@ -32,7 +30,7 @@ I actively maintain a few medium-to-large projects and have many more smaller on
 
 ### [Clock 3](projects/clock3.md)
 
-I designed, prototyped, and continue to develop an enclosed 3D printer.
+I designed, prototyped, and continue to develop an enclosed, high-speed 3D printer.
 
 ### [OmniBox](projects/omnibox.md)
 
