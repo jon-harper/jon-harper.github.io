@@ -28,7 +28,7 @@ My online handle is generally [jonspaceharper](contact.md).
 
 ## Projects
 
-I actively maintain a few medium-to-large projects and have many more smaller ones in a completed state.
+I actively maintain a few medium-to-large projects and have many more smaller ones.
 
 ### [Clock 3](projects/clock3.md)
 
