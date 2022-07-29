@@ -5,13 +5,12 @@ authors: Jon Harper
 date: 2022-06-17
 ---
 
-Below are links to social media where I can be contacted and my profiles on other, technically-oriented sites. The Instagram account is 3D printing and cat-focused, honest.
+Below are links to social media where I can be contacted and my profiles on other, technically-oriented sites.
 
 ## Professional Social Media
 
 - LinkedIn: [jonspaceharper](https://www.linkedin.com/in/jonspaceharper/)
 - Reddit: [u/jonspaceharper](https://www.reddit.com/user/jonspaceharper/)
-- Instagram: [@jonspaceharper](https://www.instagram.com/jonspaceharper/)
 
 ## Public Efforts and Projects
 

@@ -15,8 +15,9 @@ nav:
     - about.md
     - contact.md
   - Projects:
-    - projects/clock3.md
     - projects/omnibox.md
+    - projects/clock3.md
+    - projects/clockmaker.md
     # - projects/eva_contrib_extras.md
     - Thingiverse Designs:
       - ReFiller Filament Roller: "https://www.thingiverse.com/thing:4605360"
