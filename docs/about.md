@@ -11,13 +11,19 @@ In February of 2021, I began designing an enclosed 3D printer. 16 months and 3 m
 
 ## Background
 
-I grew up surrounded by computers, as my mom has a desktop publishing/operations management business. At sixteen, I knew the Microsoft Office suite, Photoshop, and how to maintain and troubleshoot a small business network.
+I grew up surrounded by the computers of my mom's desktop publishing and operations management business. At sixteen, I knew the Microsoft Office suite, Photoshop, and how to maintain and troubleshoot a small business network.
 
 I studied Computer Science and Literature at UTD for several years. Life took me in another direction, but I continued to cultivate a love of C++ and problem solving. I spent several years studying and experimenting with UI/UX, iconography, and typography in my spare time. Later, I learned Python to handle quick projects and prototype new user interfaces.
 
 ## Interests
 
-Aside from a passion for 3D printing, I enjoy following the growth and change of the C++ programming language standard, as well as the more abstract nuances of the language. I peruse [Stack Overflow](https://stackoverflow.com/users/4732082/jonspaceharper) still to find interesting problems and solutions. I am an avid fan of history, reading, and writing.
+### Software Development
+
+I enjoy following the growth and change of the C++ programming language standard, as well as the more abstract nuances of the language. I visit [Stack Overflow](https://stackoverflow.com/users/4732082/jonspaceharper) to find interesting problems and solutions.
+
+### General
+
+I am an avid fan of history, reading, and writing.
 
 ## Professional Experience
 
@@ -31,11 +37,11 @@ While technical work is my focus, I have extensive experience in the service ind
 
 ### Teaching and Training
 
-I learned that I have a love of teaching and training. During my time with Starbucks, I trained an estimated 25-40 current and former Starbucks Partners, some of whom went on to become Store Managers (SMs). Other trainers often asked me to introduce new partners to how the espresso bar works or to explain specific maintenance and cleaning tasks. I also often helped nervous partners with their speech in Drive Thru or while calling drinks in the cafe so that they could be heard over the ambient noise.
+I love teaching and training. During my time with Starbucks, I: trained an estimated 25-40 current and former Starbucks Partners, some of whom went on to become Store Managers (SMs). Other trainers often asked me to introduce new partners to how the espresso bar works or to explain specific maintenance and cleaning tasks. I also often helped nervous partners with their speech in Drive Thru or while calling drinks in the cafe so that they could be heard over the ambient noise.
 
 ### Problem Solving
 
-Tasks are often presented to me that are out of the ordinary. 
+I am often presented tasks that are out of the ordinary. 
 
 - As a Shift Supervisor at Souper! Salad! and in conjuction with my SM and District Manager, my store was tasked with trialing a training program; I was asked to lead this effort as a trainer.
 - After becoming Assistant Store Manager at Souper! Salad!, I developed two cost tracking spreadsheets that were later used company-wide or adapted for use company-wide.

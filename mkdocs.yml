@@ -1,27 +1,52 @@
-site_name: jonspaceharper
-site_description: Articles and thoughts by Jon Harper
+site_name: Jon Harper
+site_description: Projects, articles, and thoughts by Jon Harper
 site_author: Jon Harper
 site_url: https://jon-harper.github.io
 
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+  palette:
+    # scheme: slate
+    primary: blue
+    accent: orange
+  font:
+    text: Lato
+    code: Source Code Pro
+  icon:
+    logo: material/printer-3d-nozzle
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/jonspaceharper
+    - icon: fontawesome/brands/github
+      link: https://github.com/jon-harper
+    - icon: fontawesome/brands/stack-overflow
+      link: https://stackoverflow.com/users/4732082/jonspaceharper
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/jonspaceharper
+    - icon: fontawesome/brands/reddit
+      link: https://reddit.com/user/jonspaceharper
 
 nav:
   - index.md
-  - General:
-    - about.md
-    - contact.md
+  - about.md
+  - contact.md
   - Projects:
     - projects/omnibox.md
     - projects/clock3.md
     - projects/clockmaker.md
-    - Thingiverse Designs:
-      - ReFiller Filament Roller: "https://www.thingiverse.com/thing:4605360"
-      - Tactical, Belt-Mounted Sriracha Dispenser: "https://www.thingiverse.com/thing:5418923"
-      - All Designs: "https://www.thingiverse.com/jonspaceharper/designs"
+    - Thingiverse Designs: "https://www.thingiverse.com/jonspaceharper/designs"
     - GitHub Repositories: "https://github.com/jon-harper?tab=repositories"
   # - articles.md
 

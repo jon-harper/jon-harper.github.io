@@ -1,5 +1,5 @@
 ---
-title: Main Page
+title: Overview
 summary: Blog landing page.
 authors: Jon Harper
 date: 2022-06-16
@@ -40,7 +40,7 @@ A combination of documented journey into enclosed 3D printing and tools for the 
 
 ### Others
 
-You can find other projects on my [GitHub]("https://github.com/jon-harper?tab=repositories") or [Thingiverse](https://www.thingiverse.com/jonspaceharper/designs) profiles.
+You can find other projects on my [GitHub]("https://github.com/jon-harper?tab=repositories") and [Thingiverse](https://www.thingiverse.com/jonspaceharper/designs) profiles.
 
 <!--## Articles
 
