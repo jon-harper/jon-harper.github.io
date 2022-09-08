@@ -32,7 +32,16 @@ A modular, 3D-printable electronics case for 3D printers.
 
 ### [Clock 3](projects/clock3.md)
 
-An enclosed, CoreXY 3D printer in the advanced prototype stage. Clock 3 is often used to generate new ideas for The Clockmaker Project.
+An advanced prototype of a enclosed, CoreXY 3D printer. Clock 3 is often used to generate new ideas for The Clockmaker Project.
+
+This project includes:
+- More than 100 unique printed parts
+- Integrated HEPA and activated charcoal filtration
+
+Tools adapted from Clock 3:
+- [clock-face](https://github.com/jon-harper/clock-face): a modified Klipper display to show enclosure temperature
+- [clock3-klipper](https://github.com/jon-harper/clock3-klipper): Klipper configuration management via git repository
+- [Clock3Scripts](https://github.com/jon-harper/Clock3Scripts): Fusion 360 Python plugin for automatical bill of materials generation
 
 ### [The Clockmaker Project](projects/clockmaker.md)
 
