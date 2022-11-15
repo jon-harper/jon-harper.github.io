@@ -1,4 +1,4 @@
-site_name: Jon Harper
+site_name: Jon Harper (jonspaceharper)
 site_description: Projects, articles, and thoughts by Jon Harper
 site_author: Jon Harper
 site_url: https://jon-harper.github.io
@@ -13,7 +13,7 @@ theme:
     primary: blue
     accent: orange
   font:
-    text: Lato
+    text: Roboto
     code: Source Code Pro
   icon:
     logo: material/printer-3d-nozzle
@@ -27,23 +27,31 @@ markdown_extensions:
 
 extra:
   social:
+    - icon: simple/kofi
+      link: https://ko-fi.com/jonspaceharper
+      name: Support me on Ko-Fi!
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/jonspaceharper
+      name: LinkedIn profile
     - icon: fontawesome/brands/github
       link: https://github.com/jon-harper
+      name: GitHub profile
     - icon: fontawesome/brands/stack-overflow
       link: https://stackoverflow.com/users/4732082/jonspaceharper
+      name: Stack Overflow profile
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/jonspaceharper
+      name: jonspaceharper on Twitter
     - icon: fontawesome/brands/reddit
       link: https://reddit.com/user/jonspaceharper
+      name: u/jonspaceharper on Reddit
 
 nav:
   - index.md
   - about.md
   - contact.md
   - Projects:
-    - projects/omnibox.md
+    - OmniBox: "https://jon-harper.github.io/OmniBox"
     - projects/clock3.md
     - projects/clockmaker.md
     - Thingiverse Designs: "https://www.thingiverse.com/jonspaceharper/designs"

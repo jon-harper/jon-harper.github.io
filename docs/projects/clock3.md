@@ -17,8 +17,6 @@ Clock 3 has specific [development goals](https://jon-harper.github.io/clock-3/ab
 - Ease of Servicing
 - Flexibility, Safety, and Stability
 
-It is currently past the prototype stage and in a steady cycle if iterative fixes and improvements.
-
 ## Details
 
 - [Project Page and Documentation](https://jon-harper.github.io/clock-3)
@@ -28,5 +26,5 @@ It is currently past the prototype stage and in a steady cycle if iterative fixe
 
 There is a complete, working prototype and a Bill of Materials (BOM) generation script. Significant work is complete to document setup and configuration.
 
-Fusion 360 data corruption issues are currently delaying the release of CAD files and a full BOM.
+Fusion 360 data corruption issues have halted further work for now.
 

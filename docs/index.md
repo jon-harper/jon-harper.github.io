@@ -39,6 +39,7 @@ This project includes:
 - Integrated HEPA and activated charcoal filtration
 
 Tools adapted from Clock 3:
+
 - [clock-face](https://github.com/jon-harper/clock-face): a modified Klipper display to show enclosure temperature
 - [clock3-klipper](https://github.com/jon-harper/clock3-klipper): Klipper configuration management via git repository
 - [Clock3Scripts](https://github.com/jon-harper/Clock3Scripts): Fusion 360 Python plugin for automatical bill of materials generation

@@ -11,11 +11,13 @@ Below are links to social media where I can be contacted and my profiles on othe
 
 :fontawesome-brands-linkedin: LinkedIn: [jonspaceharper](https://linkedin.com/jonspaceharper)
 
-:fontawesome-brands-twitter: Twitter: [jonspaceharper](https://www.linkedin.com/in/jonspaceharper/)
+:fontawesome-brands-twitter: Twitter: [jonspaceharper](https://twitter.com/jonspaceharper)
 
 :fontawesome-brands-reddit: Reddit: [u/jonspaceharper](https://www.reddit.com/user/jonspaceharper/)
 
 ## Public Efforts and Projects
+
+### General
 
 :fontawesome-brands-github: GitHub: [jon-harper](https://github.com/jon-harper/)
 
@@ -23,3 +25,6 @@ Below are links to social media where I can be contacted and my profiles on othe
 
 Thingiverse: [jonspaceharper](https://www.thingiverse.com/jonspaceharper/designs)
 
+### OmniBox
+
+:fontawesome-brands-twitter: Twitter: [TheOmniBox](https://twitter.com/TheOmniBox)

@@ -9,12 +9,12 @@ The Clockmaker Project is a central repository of tools, ideas, and information 
 
 ## Goals
 
-- Share commonly used tools for enclosures and enclosed printing.
-- Document experiences and methods for enclosures and printing materials that require an enclosure.
+- Share commonly used tools for enclosures and enclosed printers.
+- Document experiences and methods controlling internal temperature through ventilation and insulation.
 
 ## Details
 
-- [Project Page and Documentation](https://jon-harper.github.io/clockmaker-project)
+<!-- - [Project Page and Documentation](https://jon-harper.github.io/clockmaker-project) -->
 - [GitHub](https://github.com/jon-harper/clockmaker-project)
 
 ## Status
