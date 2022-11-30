@@ -1,22 +1,26 @@
-site_name: Jon Harper (jonspaceharper)
+site_name: Jonathan (Jon) Harper
 site_description: Projects, articles, and thoughts by Jon Harper
 site_author: Jon Harper
 site_url: https://jon-harper.github.io
+edit_uri: ""
+copyright: Copyright &copy; 2022 Jonathan Harper
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.sections
+
   palette:
     # scheme: slate
     primary: blue
     accent: orange
   font:
-    text: Roboto
+    text: Noto Sans
     code: Source Code Pro
-  icon:
-    logo: material/printer-3d-nozzle
+  
+  logo: img/doug.png
 
 markdown_extensions:
   - admonition
@@ -24,6 +28,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+plugins:
+  # - search
+  - glightbox
 
 extra:
   social:
@@ -32,19 +39,21 @@ extra:
       name: Support me on Ko-Fi!
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/jonspaceharper
-      name: LinkedIn profile
+      name: LinkedIn Profile
     - icon: fontawesome/brands/github
       link: https://github.com/jon-harper
-      name: GitHub profile
+      name: "GitHub: jon-harper"
     - icon: fontawesome/brands/stack-overflow
       link: https://stackoverflow.com/users/4732082/jonspaceharper
-      name: Stack Overflow profile
+      name: "Stack Overflow: jonspaceharper"
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/jonspaceharper
-      name: jonspaceharper on Twitter
+      name: "Twitter: jonspaceharper"
     - icon: fontawesome/brands/reddit
       link: https://reddit.com/user/jonspaceharper
-      name: u/jonspaceharper on Reddit
+      name: "Reddit: u/jonspaceharper"
+extra_css:
+  - assets/stylesheets/extra.css
 
 nav:
   - index.md
