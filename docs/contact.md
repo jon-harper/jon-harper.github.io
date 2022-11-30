@@ -11,7 +11,7 @@ Below are links to social media where I can be contacted and my profiles on othe
 
 :fontawesome-brands-linkedin: LinkedIn: [jonspaceharper](https://linkedin.com/jonspaceharper)
 
-:fontawesome-brands-twitter: Twitter: [jonspaceharper](https://twitter.com/jonspaceharper)
+<!-- :fontawesome-brands-twitter: Twitter: [jonspaceharper](https://twitter.com/jonspaceharper) -->
 
 :fontawesome-brands-reddit: Reddit: [u/jonspaceharper](https://www.reddit.com/user/jonspaceharper/)
 
