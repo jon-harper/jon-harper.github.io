@@ -8,10 +8,7 @@ copyright: Copyright &copy; 2022 Jonathan Harper
 theme:
   name: material
   custom_dir: overrides
-  features:
-    - navigation.instant
-    - navigation.sections
-
+  logo: img/doug.png
   palette:
     # scheme: slate
     primary: blue
@@ -19,8 +16,9 @@ theme:
   font:
     text: Noto Sans
     code: Source Code Pro
-  
-  logo: img/doug.png
+  features:
+    - navigation.instant
+    - navigation.sections
 
 markdown_extensions:
   - admonition
@@ -28,9 +26,13 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - neoteroi.cards
+
 plugins:
   # - search
-  - glightbox
+  - glightbox:
+      skip_classes:
+        - skip-lightbox
 
 extra:
   social:
@@ -38,7 +40,7 @@ extra:
       link: https://ko-fi.com/jonspaceharper
       name: Support me on Ko-Fi!
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/jonspaceharper
+      link: https://linkedin.com/in/jonspaceharper
       name: LinkedIn Profile
     - icon: fontawesome/brands/github
       link: https://github.com/jon-harper
@@ -55,8 +57,10 @@ extra:
     - icon: simple/mastodon
       link: https://mastodon.online/@jonspaceharper
       name: "Mastodon: jonspaceharper@mastodon.online"
+
 extra_css:
   - assets/stylesheets/extra.css
+  - assets/stylesheets/neoteroi.css
 
 nav:
   - index.md

@@ -1,0 +1,14 @@
+[
+    {
+      "title": "GitHub",
+      "content": "Lorem ipsum dolor sit amet.",
+      "image": ".icons/material/github",
+      "url": "https://github.com/jon-harper"
+    },
+    {
+      "title": "LinkedIn",
+      "content": "Lorem ipsum dolor sit amet.",
+      "image": ".icons/material/github",
+      "url": "https://linkedin.com/in/jonspaceharper"
+    }
+]

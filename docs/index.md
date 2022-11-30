@@ -26,11 +26,59 @@ You can find out more on my [about page](about.md). My [contact page](contact.md
 
 I actively maintain several projects.
 
-- [OmniBox](projects/omnibox.md): modular 3D-printed electronics case
-- [Clock 3](projects/clock3.md): prototype enclosed 3D printer
-- [The Clockmaker Project](projects/clockmaker.md): tools and guides for enclosed 3D printing
-
-### Others
+<div class="nt-cards nt-grid cols-3">
+    <div class="nt-card">
+        <a href="projects/omnibox/">
+            <div>
+                <div class="nt-card-image tags">
+                    <img src="../img/omnibox.png" class="skip-lightbox">
+                </div>
+                <div class="nt-card-content">
+                <p class="nt-card-title"> 
+                    OmniBox
+                </p>
+                <p class="nt-card-text">
+                    A modular, 3D-printable electronics case for 3D printers.
+                </p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="nt-card">
+        <a href="projects/clock3/">
+            <div>
+                <div class="nt-card-image tags">
+                    <img src="../img/clock3.png" class="skip-lightbox">
+                </div>
+                <div class="nt-card-content">
+                <p class="nt-card-title"> 
+                    Clock 3
+                </p>
+                <p class="nt-card-text">
+                    A prototype enclosed 3D printer used as a testbed for new ideas.
+                </p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="nt-card">
+        <a href="projects/clock3/">
+            <div>
+                <div class="nt-card-image tags">
+                    <img src="../img/omnibox.png" class="skip-lightbox">
+                </div>
+                <div class="nt-card-content">
+                <p class="nt-card-title"> 
+                    The Clockmaker Project
+                </p>
+                <p class="nt-card-text">
+                    Tools and guides for enclosed 3D printing.
+                </p>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
 
 You can find other projects on my [GitHub]("https://github.com/jon-harper?tab=repositories") and [Thingiverse](https://www.thingiverse.com/jonspaceharper/designs) profiles.
 
