@@ -63,10 +63,17 @@ nav:
   - about.md
   - contact.md
   - Projects:
-    - OmniBox: "https://jon-harper.github.io/OmniBox"
-    - projects/clock3.md
+    - OmniBox:
+      - projects/omnibox.md
+      # - projects/omnibox_gallery.md
+      - Documentation Link: "https://jon-harper.github.io/OmniBox"
+    - Clock3:
+      - projects/clock3.md
+      # - projects/clock3_gallery.md
+      - Documentation Link: "https://jon-harper.github.io/clock-3"
     - projects/clockmaker.md
+
+  - External Links:
     - Thingiverse Designs: "https://www.thingiverse.com/jonspaceharper/designs"
     - GitHub Repositories: "https://github.com/jon-harper?tab=repositories"
-  # - articles.md
 

@@ -5,18 +5,20 @@ authors: Jon Harper
 date: 2022-07-29
 ---
 
-The Clockmaker Project is a central repository of tools, ideas, and information in my journey to enclosed 3D printing.
+The Clockmaker Project is a repository of tools and guides for enclosed 3D printing.
 
 ## Goals
 
-- Share commonly used tools for enclosures and enclosed printers.
-- Document experiences and methods controlling internal temperature through ventilation and insulation.
-
-## Details
-
-<!-- - [Project Page and Documentation](https://jon-harper.github.io/clockmaker-project) -->
-- [GitHub](https://github.com/jon-harper/clockmaker-project)
+- Share tools for building and using enclosures;
+- Adapt Clock 3's filtration for general use;
+- Consolidate other Clock 3 features in one place; and
+- Document tools for wire harness fabrication.
 
 ## Status
 
 This project is still in initial stages.
+
+## Links
+
+<!-- - [Project Page and Documentation](https://jon-harper.github.io/clockmaker-project) -->
+- [GitHub](https://github.com/jon-harper/clockmaker-project)

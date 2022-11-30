@@ -5,25 +5,31 @@ authors: Jon Harper
 date: 2022-07-02
 ---
 
-I have diverse interests that converged around enclosures and 3D printing in 2019. I started with a used, clone-of-a-clone 3D printer and a willingness to learn and experiment. A few months later, I started designing a wooden enclosure. My work has grown and focused modular, easy to service printers and enclosures.
+![What I Don't Look Like](img/doug.png){ data-title="I Sorta Look Like This" width="250px" align="right" }
 
-In February of 2021, I began designing an enclosed 3D printer. 16 months and 3 major designs later, my prototype first printed ABS plastic in a fully enclosed environment, complete with air filtration and temperature control.
+My interests converged around enclosed 3D printing in 2019. I started with a used, clone-of-a-clone 3D printer and a willingness to learn and experiment.
+
+Three months later, I started work on a wooden enclosure with the goal of printing ABS. Long past that milestone, my free time now focuses on designing and documenting modular, easy to service printers, wiring harnesses, and enclosures.
 
 ## Background
 
-I grew up surrounded by the computers of my mom's desktop publishing and operations management business. At sixteen, I knew the Microsoft Office suite, Photoshop, and how to maintain and troubleshoot a small business network.
+I grew up surrounded by the minutiae of a family page layout and publishing business. At sixteen, I knew the Microsoft Office suite, Photoshop, and how to maintain and troubleshoot a small business network.
 
-I studied Computer Science and Literature at UTD for several years. Life took me in another direction, but I continued to cultivate a love of C++ and problem solving. I spent several years studying and experimenting with UI/UX, iconography, and typography in my spare time. I later learned Python 3 to handle quick scripts and prototype new user interfaces.
+I studied Computer Science and Literature at The University of Texas at Dallas. Life took me in another direction, but I carried with me a love of C++ and problem solving. I spent years studying and experimenting with UI/UX, iconography, and typography in my spare time. I later learned Python 3 to handle quick scripts and prototype new user interfaces.
 
 ## Interests
 
 ### Software Development
 
-I enjoy following the growth and change of the C++ programming language standard, as well as the more abstract nuances of the language. I occasionally still visit [Stack Overflow](https://stackoverflow.com/users/4732082/jonspaceharper) to find interesting problems and solutions.
+I enjoy the growth and change of the C++ programming language standard, as well as the more abstract nuances of the language. I occasionally still visit [Stack Overflow](https://stackoverflow.com/users/4732082/jonspaceharper) to find interesting problems and solutions.
+
+I have a slightly absurd fascination with the Windows Explorer tree and the COM architecture behind it.
 
 ### General
 
-I am an avid fan of history, reading, and writing.
+I am an avid fan of history, reading, and writing. My taste in music is varied, but tends towards downtempo.
+
+I enjoy clear and concise page layouts, good use of fonts, and minimalism in design.
 
 ## Professional Experience
 
@@ -38,13 +44,16 @@ I am often presented tasks that are out of the ordinary.
 
 ### Service Industry
 
-I gained extensive experience in the service industry, including 12 years with :simple-starbucks: Starbucks Coffee Company. Along the way, I developed a strong empathy for the customer and met lifelong friends. I also gained experience in a number of areas:
+I have nearly 20 years of experience in the service industry, including 12 years with Starbucks Coffee Company. Along the way, I developed a strong empathy for the customer and met lifelong friends. I also gained experience in a number of areas:
 
-- Ordering and Inventory Management: responsible under two managers at different stores over a period of five years for weekly delivery order, backroom layout, and inventory levels.
-- Calm Efficiency: working in high-volume Starbucks stores requires constant, uninterrupted focus and attention to detail.
-- Cultivating and Uplifting Others: today's trainee succeeds or fails based on the support they are given. No one new should ever feel they are without someone to ask for help.
+- Ordering and Inventory Management: for five years and at two different stores, I had responsibility for the weekly delivery order, backroom layout, and inventory levels.
+- Efficiency & Calm: working in high-volume Starbucks stores requires constant focus and attention to detail.
+- Cultivating and Uplifting Others: a trainee succeeds or fails based on the support they are given. No one new should ever feel they are without someone to ask for help.
 
 ### Teaching and Training
 
-I love teaching and training. During my time with Starbucks, I: trained an estimated 25-40 current and former Starbucks Partners, some of whom went on to become Store Managers (SMs). Other trainers often asked me to introduce new partners to how the espresso bar works or to explain specific maintenance and cleaning tasks. I also often helped nervous partners with their speech in Drive Thru or while calling drinks in the cafe so that they could be heard over the ambient noise.
+I love teaching and training.
 
+During my time with Starbucks, I trained an somewhere between twenty-five and forty current and former Starbucks Partners, some of whom went on to become Store Managers. Other trainers often asked me to introduce new partners to the espresso bar or specific maintenance and cleaning tasks. 
+
+I often coached nervous partners with their speech in Drive Thru and how to call drinks in the cafe to be heard over the ambient noise.

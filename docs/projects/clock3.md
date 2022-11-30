@@ -1,30 +1,60 @@
 ---
-title: Clock 3
+title: Clock 3 Overview
 summary: An enclosed, CoreXY 3D printer.
 authors: Jon Harper
 date: 2022-06-16
 ---
 
-Clock 3 is a fully enclosed, CoreXY 3D printer with ambient temperature control and air filtration.
+A prototype enclosed, CoreXY 3D printer. It is now used to generate new ideas for The Clockmaker Project.
 
-![clock 3 benchy](assets/clock3_benchy.jpg)
+![Clock 3 Benchy](assets/clock3_benchy.jpg){ data-title="Clock 3 and an ABS Benchy" data-description="A Benchy printed in ABS plastic during Winter, 2021. This milestone demonstrated working kinematics, insulation, and air filtration"}
 
 ## Goals
 
-Clock 3 has specific [development goals](https://jon-harper.github.io/clock-3/about/goals/) that it has largely achieved:
+Clock 3 achieved several [development goals](https://jon-harper.github.io/clock-3/about/goals/):
 
 - Ease of Sourcing
 - Ease of Servicing
 - Flexibility, Safety, and Stability
 
-## Details
+## Features
 
-- [Project Page and Documentation](https://jon-harper.github.io/clock-3)
-- [GitHub](https://github.com/jon-harper/clock-3)
+Project Features:
 
+- More than 100 unique printed parts;
+- Integrated design for HEPA and activated charcoal filtration;
+- Python-scripted Bill of Materials generation; and
+- Extensive wiring documentation and planning.
+
+Printer Features:
+
+- CoreXY kinematics;
+- Large print volume;
+- Double-paned enclosure window;
+- Top service hatch;
+- Floor service hatches; and
+- Externally-driven stepper drivers.
+
+Other Features:
+
+- Step-by-step assembly guide;
+- Thoroughly documented development;
+- Daily changelog; and
+- Git-based Klipper configuration.
 ## Status
 
-There is a complete, working prototype and a Bill of Materials (BOM) generation script. Significant work is complete to document setup and configuration.
+Fusion 360 data corruption halted immediate further work, but directly led to the development of [OmniBox][omnibox] and [The Clockmaker Project][clockmaker].
 
-Fusion 360 data corruption issues have halted further work for now.
+## Links
 
+- [:material-book-open-variant: Project Page and Documentation](https://jon-harper.github.io/clock-3)
+- [:material-github: GitHub](https://github.com/jon-harper/clock-3)
+
+Additional tools from this project:
+
+- [:material-git: clock-face](https://github.com/jon-harper/clock-face): a modified Klipper display to show enclosure temperature
+- [:material-git: clock3-klipper](https://github.com/jon-harper/clock3-klipper): Klipper configuration delegation via git
+- [:material-git: Clock3Scripts](https://github.com/jon-harper/Clock3Scripts): Fusion 360 Python plugin for automatical bill of materials generation
+
+[omnibox]: omnibox.md
+[clockmaker]: clockmaker.md
