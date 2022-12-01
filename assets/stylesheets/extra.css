@@ -57,6 +57,47 @@
     margin-top: 15px;
 }
 
+.nt-card>a {
+    color:var(--md-default-fg-color)
+}
+.nt-card>a>div {
+    cursor:pointer
+}
 .nt-card {
+    padding:5px;
+    margin-bottom:.5rem
+}
+.nt-card-title {
+    font-size:1rem;
+    font-weight:bold;
+    margin:4px 0 8px 0;
+    line-height:22px
+}
+/* .nt-card-content {
+    padding:.4rem .8rem .8rem .8rem
+} */
+.nt-card-text {
+font-size:14px;
+padding:0;
+margin:0
+}
+.nt-card .nt-gallery-image {
     text-align: center;
+    border-radius: 5px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 200px;
+}
+
+.nt-card .nt-gallery-image img {
+    height:200px;
+    margin-top:5px
+}
+
+.nt-card .nt-gallery-title {
+    text-align: center;
+    /* font-weight: 400; */
+    font-size: 0.9em;
+    font-weight: 700;
 }
