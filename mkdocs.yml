@@ -38,7 +38,6 @@ plugins:
 extra:
   social:
     - icon: simple/kofi
-      img:  ./img/kofi.png
       link: https://ko-fi.com/jonspaceharper
       name: Support me on Ko-Fi!
     - icon: fontawesome/brands/linkedin
@@ -50,15 +49,9 @@ extra:
     - icon: fontawesome/brands/stack-overflow
       link: https://stackoverflow.com/users/4732082/jonspaceharper
       name: "Stack Overflow: jonspaceharper"
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/jonspaceharper
-      name: "Twitter: jonspaceharper"
     - icon: fontawesome/brands/reddit
       link: https://reddit.com/user/jonspaceharper
       name: "Reddit: u/jonspaceharper"
-    - icon: simple/mastodon
-      link: https://mastodon.online/@jonspaceharper
-      name: "Mastodon: jonspaceharper@mastodon.online"
 
 extra_css:
   - assets/stylesheets/neoteroi.css
@@ -67,16 +60,9 @@ extra_css:
 nav:
   - index.md
   - about.md
-  - contact.md
   - Projects:
-    - OmniBox:
-      - projects/omnibox.md
-      # - projects/omnibox_gallery.md
-      - Documentation Link: "https://jon-harper.github.io/OmniBox"
-    - Clock3:
-      - projects/clock3.md
-      # - projects/clock3_gallery.md
-      - Documentation Link: "https://jon-harper.github.io/clock-3"
+    - projects/omnibox.md
+    - projects/clock3.md
     - projects/clockmaker.md
 
   - External Links:

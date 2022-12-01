@@ -2,6 +2,10 @@
 <div class="nt-cards nt-grid cols-{{ columns }}">
 {%- endmacro %}
 
+{% macro end_grid() -%}
+</div>
+{%- endmacro %}
+
 {% macro add_card(title='', content='', image='', url='') -%}
 <div>
     <div class="nt-card">
@@ -9,8 +13,8 @@
             <a href="{{ url }}" title="{{ title | e }}">
         {% endif  %}
         {% if image != '' %}
-            <div class="nt-card-image tags">
-                <img src="{{ image }}" class="skip-lightbox">
+            <div class="nt-card-image">
+                <img src="{{ image }}" class="skip-lightbox" height="105px">
             </div>
         {% endif %}
         <div class="nt-card-content">
@@ -24,6 +28,19 @@
 </div>
 {%- endmacro %}
 
-{% macro end_grid() -%}
+{% macro add_image(title='', content='', image='') -%}
+<div>
+    <div class="nt-card">
+        <div class="nt-gallery-image">
+        {% if content != '' %}
+            <img src="{{ image }}" data-title="{{ title }}" data-description="{{ content }}">
+        {% else %}
+            <img src="{{ image }}" data-title="{{ title }}"">
+        {% endif %}
+        </div>
+        <div class="nt-gallery-content">
+            <p class="nt-gallery-title">{{ title }} </p>
+        </div>
+    </div>
 </div>
 {%- endmacro %}

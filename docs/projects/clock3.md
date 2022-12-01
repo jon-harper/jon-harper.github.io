@@ -1,21 +1,32 @@
 ---
-title: Clock 3 Overview
+title: Clock 3
 summary: An enclosed, CoreXY 3D printer.
 authors: Jon Harper
 date: 2022-06-16
 ---
-
-A prototype enclosed, CoreXY 3D printer. It is now used to generate new ideas for The Clockmaker Project.
+{% import 'assets/macros/cards.md' as cards with context %}
 
 ![Clock 3 Benchy](assets/clock3_benchy.jpg){ data-title="Clock 3 and an ABS Benchy" data-description="A Benchy printed in ABS plastic during Winter, 2021. This milestone demonstrated working kinematics, insulation, and air filtration"}
 
+Clock 3 is a prototype enclosed, CoreXY 3D printer. It is now used to generate new ideas for The Clockmaker Project.
+
 ## Goals
+
+<!-- ![front render](../img/clock3/render1.png){width="300px"}
+
+![side render with the panel off](../img/clock3/render2.png){width="300px"} -->
 
 Clock 3 achieved several [development goals](https://jon-harper.github.io/clock-3/about/goals/):
 
 - Ease of Sourcing
 - Ease of Servicing
 - Flexibility, Safety, and Stability
+
+## Status
+
+Fusion 360 data corruption halted immediate further work, but directly led to the development of [OmniBox][omnibox] and [The Clockmaker Project][clockmaker].
+
+![all printed parts on a table](../img/clock3/all_parts.jpg){ width="640px" data-title="Over 100 Unique Printed Parts" data-description="Nearly all of these parts were designed between September of 2021 and May of 2022" }
 
 ## Features
 
@@ -33,7 +44,7 @@ Printer Features:
 - Double-paned enclosure window;
 - Top service hatch;
 - Floor service hatches; and
-- Externally-driven stepper drivers.
+- Externally-mounted stepper motors.
 
 Other Features:
 
@@ -41,13 +52,9 @@ Other Features:
 - Thoroughly documented development;
 - Daily changelog; and
 - Git-based Klipper configuration.
-## Status
-
-Fusion 360 data corruption halted immediate further work, but directly led to the development of [OmniBox][omnibox] and [The Clockmaker Project][clockmaker].
 
 ## Links
 
-{% import 'assets/macros/cards.md' as cards with context %}
 {{ cards.start_grid(3) }}
 {{ cards.add_card(title="Project Page & Documentation", content="", image="../../img/clock3.png", url="https://jon-harper.github.io/clock-3") }}
 {{ cards.add_card(title="GitHub Repository", content="", image="../../img/github.png", url="https://github.com/jon-harper/clock-3") }}
@@ -58,6 +65,16 @@ Additional tools from this project:
 - [:material-git: clock-face](https://github.com/jon-harper/clock-face): a modified Klipper display to show enclosure temperature
 - [:material-git: clock3-klipper](https://github.com/jon-harper/clock3-klipper): Klipper configuration delegation via git
 - [:material-git: Clock3Scripts](https://github.com/jon-harper/Clock3Scripts): Fusion 360 Python plugin for automatical bill of materials generation
+
+## Gallery
+
+{{ cards.start_grid(2) }}
+{{ cards.add_image(title="Front Render", image="../../img/clock3/render1.png") }}
+{{ cards.add_image(title="Side Render", image="../../img/clock3/render2.png") }}
+{{ cards.add_image(title="Exterior, June '22", image="../../img/clock3/june22_1.jpg") }}
+{{ cards.add_image(title="Printing PLA, June '22", image="../../img/clock3/june22_2.jpg") }}
+{{ cards.end_grid() }}
+
 
 [omnibox]: omnibox.md
 [clockmaker]: clockmaker.md

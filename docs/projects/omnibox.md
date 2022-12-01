@@ -1,6 +1,6 @@
 ---
-title: OmniBox Overview
-summary: A modulare, 3D-printed control case for 3D printers.
+title: OmniBox
+summary: A modular, 3D-printed control case for 3D printers.
 authors: Jon Harper
 date: 2022-11-30
 ---
