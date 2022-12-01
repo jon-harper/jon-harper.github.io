@@ -52,6 +52,9 @@ extra:
     - icon: fontawesome/brands/reddit
       link: https://reddit.com/user/jonspaceharper
       name: "Reddit: u/jonspaceharper"
+    - icon: simple/mastodon
+      link: https://mastodon.online/@jonspaceharper
+      name: "Mastodon: jonspaceharper@mastodon.online"
 
 extra_css:
   - assets/stylesheets/neoteroi.css
