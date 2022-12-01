@@ -57,7 +57,7 @@
     margin-top: 15px;
 }
 
-.nt-card>a {
+/* .nt-card>a {
     color:var(--md-default-fg-color)
 }
 .nt-card>a>div {
@@ -72,15 +72,8 @@
     font-weight:bold;
     margin:4px 0 8px 0;
     line-height:22px
-}
-/* .nt-card-content {
-    padding:.4rem .8rem .8rem .8rem
 } */
-.nt-card-text {
-font-size:14px;
-padding:0;
-margin:0
-}
+
 .nt-card .nt-gallery-image {
     text-align: center;
     border-radius: 5px;
@@ -95,9 +88,15 @@ margin:0
     margin-top:5px
 }
 
+.nt-gallery-content {
+    padding:.4rem
+}
+
 .nt-card .nt-gallery-title {
     text-align: center;
     /* font-weight: 400; */
     font-size: 0.9em;
     font-weight: 700;
+    margin:4px 0 8px 0;
+    line-height:20px
 }

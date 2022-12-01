@@ -33,9 +33,9 @@
     <div class="nt-card">
         <div class="nt-gallery-image">
         {% if content != '' %}
-            <img src="{{ image }}" data-title="{{ title }}" data-description="{{ content }}">
+            <img src="{{ image }}" data-title="{{ title | e}}" data-description="{{ content | e}}">
         {% else %}
-            <img src="{{ image }}" data-title="{{ title }}"">
+            <img src="{{ image }}" data-title="{{ title | e }}"">
         {% endif %}
         </div>
         <div class="nt-gallery-content">
