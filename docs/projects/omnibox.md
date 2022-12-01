@@ -33,9 +33,12 @@ As of December 2022, OmniBox is on its sixth public release, v0.9.9. It is stabl
 
 ## Links
 
-- [:material-book-open-variant: Project Page and Documentation](https://jon-harper.github.io/OmniBox)
-- [:material-github: GitHub](https://github.com/jon-harper/OmniBox)
-- [:simple-twitter: Twitter](https://twitter.com/TheOmniBox)
+{% import 'assets/macros/cards.md' as cards with context %}
+{{ cards.start_grid(3) }}
+{{ cards.add_card(title="Project Page & Documentation", content="", image="../../img/omnibox_logo.png", url="https://jon-harper.github.io/OmniBox") }}
+{{ cards.add_card(title="GitHub Repository", content="", image="../../img/github.png", url="https://github.com/jon-harper/OmniBox") }}
+{{ cards.add_card(title="Twitter @TheOmniBox", content="", image="../../img/twitter.png", url="https://twitter.com/TheOmniBox") }}
+{{ cards.end_grid() }}
 
 [clock3]: clock3.md
 [clockmaker]: clockmaker.md

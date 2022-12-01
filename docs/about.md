@@ -5,7 +5,7 @@ authors: Jon Harper
 date: 2022-07-02
 ---
 
-![What I Don't Look Like](img/doug.png){ data-title="I Sorta Look Like This" width="250px" align="right" }
+![What I May or May Not Look Like](img/doug.png){ data-title="I Kinda Look Like This" data-description="Sorta." width="250px" align="right" }
 
 My interests converged around enclosed 3D printing in 2019. I started with a used, clone-of-a-clone 3D printer and a willingness to learn and experiment.
 

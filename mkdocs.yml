@@ -30,6 +30,7 @@ markdown_extensions:
 
 plugins:
   # - search
+  - macros
   - glightbox:
       skip_classes:
         - skip-lightbox
@@ -37,6 +38,7 @@ plugins:
 extra:
   social:
     - icon: simple/kofi
+      img:  ./img/kofi.png
       link: https://ko-fi.com/jonspaceharper
       name: Support me on Ko-Fi!
     - icon: fontawesome/brands/linkedin
@@ -59,8 +61,8 @@ extra:
       name: "Mastodon: jonspaceharper@mastodon.online"
 
 extra_css:
-  - assets/stylesheets/extra.css
   - assets/stylesheets/neoteroi.css
+  - assets/stylesheets/extra.css
 
 nav:
   - index.md

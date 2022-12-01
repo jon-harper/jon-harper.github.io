@@ -5,10 +5,7 @@ authors: Jon Harper
 date: 2022-06-16
 ---
 
-Hello. My name is Jon Harper. My online handle is generally [jonspaceharper](contact.md).
-
-This site a central place to post or link to my various projects and articles.
-
+![What I May or May Not Look Like](img/doug.png){ data-title="I Kinda Look Like This" data-description="Sorta." width="250px" align="right" }
 ## About Me
 
 I'm an IT-oriented problem solver. Things I love:
@@ -24,61 +21,12 @@ You can find out more on my [about page](about.md). My [contact page](contact.md
 
 ## Projects
 
-I actively maintain several projects.
-
-<div class="nt-cards nt-grid cols-3">
-    <div class="nt-card">
-        <a href="projects/omnibox/">
-            <div>
-                <div class="nt-card-image tags">
-                    <img src="../img/omnibox.png" class="skip-lightbox">
-                </div>
-                <div class="nt-card-content">
-                <p class="nt-card-title"> 
-                    OmniBox
-                </p>
-                <p class="nt-card-text">
-                    A modular, 3D-printable electronics case for 3D printers.
-                </p>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="nt-card">
-        <a href="projects/clock3/">
-            <div>
-                <div class="nt-card-image tags">
-                    <img src="../img/clock3.png" class="skip-lightbox">
-                </div>
-                <div class="nt-card-content">
-                <p class="nt-card-title"> 
-                    Clock 3
-                </p>
-                <p class="nt-card-text">
-                    A prototype enclosed 3D printer used as a testbed for new ideas.
-                </p>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="nt-card">
-        <a href="projects/clock3/">
-            <div>
-                <div class="nt-card-image tags">
-                    <img src="../img/omnibox.png" class="skip-lightbox">
-                </div>
-                <div class="nt-card-content">
-                <p class="nt-card-title"> 
-                    The Clockmaker Project
-                </p>
-                <p class="nt-card-text">
-                    Tools and guides for enclosed 3D printing.
-                </p>
-                </div>
-            </div>
-        </a>
-    </div>
-</div>
+{% import 'assets/macros/cards.md' as cards with context %}
+{{ cards.start_grid(3) }}
+{{ cards.add_card(title="OmniBox", content="A modular, 3D-printable electronics case for 3D printers.", image="../img/omnibox_logo.png", url="projects/omnibox/") }}
+{{ cards.add_card(title="Clock 3", content="A prototype enclosed 3D printer used as a testbed for new ideas.", image="../img/clock3.png", url="projects/clock3/") }}
+{{ cards.add_card(title="The Clockmaker Project", content="Tools and guides for enclosed 3D printing.", image="../img/clockmaker.png", url="projects/clockmaker/") }}
+{{ cards.end_grid() }}
 
 You can find other projects on my [GitHub]("https://github.com/jon-harper?tab=repositories") and [Thingiverse](https://www.thingiverse.com/jonspaceharper/designs) profiles.
 

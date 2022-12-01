@@ -47,8 +47,11 @@ Fusion 360 data corruption halted immediate further work, but directly led to th
 
 ## Links
 
-- [:material-book-open-variant: Project Page and Documentation](https://jon-harper.github.io/clock-3)
-- [:material-github: GitHub](https://github.com/jon-harper/clock-3)
+{% import 'assets/macros/cards.md' as cards with context %}
+{{ cards.start_grid(3) }}
+{{ cards.add_card(title="Project Page & Documentation", content="", image="../../img/clock3.png", url="https://jon-harper.github.io/clock-3") }}
+{{ cards.add_card(title="GitHub Repository", content="", image="../../img/github.png", url="https://github.com/jon-harper/clock-3") }}
+{{ cards.end_grid() }}
 
 Additional tools from this project:
 
