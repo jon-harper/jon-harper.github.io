@@ -57,23 +57,6 @@
     margin-top: 15px;
 }
 
-/* .nt-card>a {
-    color:var(--md-default-fg-color)
-}
-.nt-card>a>div {
-    cursor:pointer
-}
-.nt-card {
-    padding:5px;
-    margin-bottom:.5rem
-}
-.nt-card-title {
-    font-size:1rem;
-    font-weight:bold;
-    margin:4px 0 8px 0;
-    line-height:22px
-} */
-
 .nt-card .nt-gallery-image {
     text-align: center;
     border-radius: 5px;
@@ -99,4 +82,12 @@
     font-weight: 700;
     margin:4px 0 8px 0;
     line-height:20px
+}
+
+.gslide-desc {
+    font-family: var(--md-body-font);
+}
+
+.gslide-title {
+    font-family: var(--md-header-font);
 }
