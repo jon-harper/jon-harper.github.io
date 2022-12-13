@@ -27,19 +27,18 @@ You can find out more on my [about page](about.md).
 {{ cards.add_card(title="The Clockmaker Project", content="Tools and guides for enclosed 3D printing.", image="../img/clockmaker.png", url="projects/clockmaker/") }}
 {{ cards.end_grid() }}
 
-## Public Efforts and Other Projects
+## Public Efforts and Other Works
 
 {{ cards.start_grid(3) }}
-{{ cards.add_card(title="GitHub", content="/jon-harper", image="../img/github.png", url="https://github.com/jon-harper/") }}
-{{ cards.add_card(title="Stack Overflow", content="/users/4732082/jonspaceharper", image="../img/stackoverflow.png", url="https://stackoverflow.com/users/4732082/jonspaceharper") }}
-{{ cards.add_card(title="Thingiverse", content="/jonspaceharper", image="../img/thingiverse.png", url="https://www.thingiverse.com/jonspaceharper/designs") }}
+{{ cards.add_card(title="GitHub", content="", image="../img/github.png", url="https://github.com/jon-harper/") }}
+{{ cards.add_card(title="Stack Overflow", content="", image="../img/stackoverflow.png", url="https://stackoverflow.com/users/4732082/jonspaceharper") }}
+{{ cards.add_card(title="Thingiverse", content="", image="../img/thingiverse.png", url="https://www.thingiverse.com/jonspaceharper/designs") }}
 {{ cards.end_grid() }}
 
 ## Contact
 
 {% import 'assets/macros/cards.md' as cards with context %}
 {{ cards.start_grid(3) }}
-{{ cards.add_card(title="LinkedIn", content="in/jonspaceharper", image="../img/linkedin.png", url="https://linkedin.com/in/jonspaceharper") }}
-{{ cards.add_card(title="Reddit", content="u/jonspaceharper", image="../img/reddit.png", url="https://www.reddit.com/user/jonspaceharper") }}
-{{ cards.add_card(title="Twitter", content="@TheOmniBox", image="../img/twitter.png", url="https://twitter.com/TheOmniBox") }}
+{{ cards.add_card(title="LinkedIn", content="", image="../img/linkedin.png", url="https://linkedin.com/in/jonspaceharper") }}
+{{ cards.add_card(title="Reddit", content="", image="../img/reddit.png", url="https://www.reddit.com/user/jonspaceharper") }}
 {{ cards.end_grid() }}
