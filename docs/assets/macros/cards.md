@@ -11,18 +11,26 @@
     <div class="nt-card">
         {% if url != '' %}
             <a href="{{ url }}" title="{{ title | e }}">
+        {% else %}
+            <div>
         {% endif  %}
         {% if image != '' %}
             <div class="nt-card-image">
-                <img src="{{ image }}" class="skip-lightbox" height="105px">
+                <img src="{{ image }}" class="skip-lightbox">
             </div>
         {% endif %}
-        <div class="nt-card-content">
-            <p class="nt-card-title">{{ title }} </p>
-        </div>
-        <p class="nt-card-text">{{ content }}</p>
+        {% if content != '' %}
+            <div class="nt-card-content">
+                <p class="nt-card-title">{{ title }}</p>
+                <p class="nt-card-text">{{ content }}</p>
+            </div>
+        {% else %}
+            <p class="nt-card-title">{{ title }}</p>
+        {% endif %}
         {% if url != '' %}
             </a>
+        {% else %}
+            </div>
         {% endif %}
     </div>
 </div>
@@ -35,7 +43,7 @@
         {% if content != '' %}
             <img src="{{ image }}" data-title="{{ title | e}}" data-description="{{ content | e}}">
         {% else %}
-            <img src="{{ image }}" data-title="{{ title | e }}"">
+            <img src="{{ image }}" data-title="{{ title | e }}">
         {% endif %}
         </div>
         <div class="nt-gallery-content">

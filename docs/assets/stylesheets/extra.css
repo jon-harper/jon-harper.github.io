@@ -1,3 +1,4 @@
+/* Hack is our titling font. */
 @font-face {
   font-family: 'Hack';
   src: url('../fonts/hack-regular.woff2?sha=3114f1256') format('woff2'), url('../fonts/hack-regular.woff?sha=3114f1256') format('woff');
@@ -31,7 +32,7 @@
 }
 
 [data-md-color-scheme="slate"] {
-    --md-hue: 205; 
+    --md-hue: 205; /* slightly more blue than default */
   }  
 
 .md-header__title, h1{
@@ -49,12 +50,42 @@
     vertical-align: middle;
 }
   
+/* Social links icons */
 .jh-social {
     margin: auto;
     display: flex;
     align-items: baseline;
     padding: 0px;
     margin-top: 15px;
+}
+
+/* Card grids */
+
+.nt-card .nt-card-image
+{
+    min-height: 80px;
+    vertical-align: baseline;
+}
+
+.nt-card .nt-card-image img {
+    height: 64px;
+}
+
+/* .nt-card .nt-card-content {
+    min-height: 125px;
+} */
+
+.nt-card .nt-card-content {
+    min-height: 125px;
+}
+
+.nt-card .nt-card-title {
+    text-align: center;
+    font-size: 1rem;
+}
+
+.nt-card .nt-card-text {
+    font-size: 0.7rem;
 }
 
 .nt-card .nt-gallery-image {
@@ -64,11 +95,11 @@
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 200px;
+    margin-top:5px;
 }
 
 .nt-card .nt-gallery-image img {
     height:200px;
-    margin-top:5px
 }
 
 .nt-gallery-content {
@@ -84,6 +115,7 @@
     line-height:20px
 }
 
+/* Glightbox settings */
 .gslide-desc {
     font-family: var(--md-body-font);
 }
