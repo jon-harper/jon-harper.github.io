@@ -39,7 +39,7 @@ As of December 2022, OmniBox is on its sixth public release, v0.9.9. It is stabl
 {{ cards.start_grid(3) }}
 {{ cards.add_card(title="Omnibox Project Page", content="Documentation and project details", image="../../img/omnibox_logo.png", url="https://jon-harper.github.io/OmniBox") }}
 {{ cards.add_card(title="GitHub Repository", content="Project management, source, & issue tracking", image="../../img/github.png", url="https://github.com/jon-harper/OmniBox") }}
-{{ cards.add_card(title="Twitter @TheOmniBox", content="Updates, content, and support", image="../../img/twitter.png", url="https://twitter.com/TheOmniBox") }}
+<!-- {{ cards.add_card(title="Twitter @TheOmniBox", content="Updates, content, and support", image="../../img/twitter.png", url="https://twitter.com/TheOmniBox") }} -->
 {{ cards.end_grid() }}
 
 ## Gallery

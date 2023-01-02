@@ -37,9 +37,6 @@ plugins:
 
 extra:
   social:
-    - icon: simple/kofi
-      link: https://ko-fi.com/jonspaceharper
-      name: Support me on Ko-Fi!
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/jonspaceharper
       name: LinkedIn Profile
@@ -52,9 +49,12 @@ extra:
     - icon: fontawesome/brands/reddit
       link: https://reddit.com/user/jonspaceharper
       name: "Reddit: u/jonspaceharper"
-    - icon: simple/mastodon
-      link: https://mastodon.online/@jonspaceharper
-      name: "Mastodon: jonspaceharper@mastodon.online"
+    - icon: fontawesome/regular/newspaper
+      link: https://post.news/jonspaceharper
+      name: "Post.news: jonspaceharper"
+    - icon: simple/kofi
+      link: https://ko-fi.com/jonspaceharper
+      name: Support me on Ko-Fi!
 
 extra_css:
   - assets/stylesheets/neoteroi.css

@@ -7,15 +7,19 @@ date: 2022-07-02
 
 ![What I May or May Not Look Like](img/doug.png){ data-title="I Kinda Look Like This" data-description="Sorta." width="250px" align="right" }
 
-My interests converged around enclosed 3D printing in 2019. I started with a used, clone-of-a-clone 3D printer and a willingness to learn and experiment.
+In 2019, I acquired a used, clone-of-a-clone 3D printer. My interest in a new hobby turned quickly to making practical solutions. First, I gave my dryer a new, printed handle and retired the metal coat hanger from its role.
 
-Three months later, I started work on a wooden enclosure with the goal of printing ABS. Long past that milestone, my free time now focuses on designing and documenting modular, easy to service printers, wiring harnesses, and enclosures.
+Three months later, I began design work on a wooden enclosure with the goal of printing ABS. The enclosure didn't work out, but the fascination with practical tools that are easy to service lives on.
+
+My free time now focuses on designing and documenting modular, easy to service 3D printers, wiring harnesses, and enclosures.
 
 ## Background
 
-I grew up surrounded by the minutiae of a family page layout and publishing business. At sixteen, I knew the Microsoft Office suite, Photoshop, and how to maintain and troubleshoot a small business network.
+My family has a page layout and publishing business. By sixteen, I my working knowledge covered the Microsoft Office suite, Photoshop, and how to maintain and troubleshoot a small business network.
 
-I studied Computer Science and Literature at The University of Texas at Dallas. Life took me in another direction, but I carried with me a love of C++ and problem solving. I spent years studying and experimenting with UI/UX, iconography, and typography in my spare time. I later learned Python 3 to handle quick scripts and prototype new user interfaces.
+I studied Computer Science and Literature at The University of Texas at Dallas. Life took me in another direction, but I carried with me a love of C++ and problem solving. In the years since, I studied UI/UX design, iconography, and typography in my spare time. I later learned Python 3 to handle quick scripts and prototype new user interfaces.
+
+During this time, I developed several tools in C++ using the Qt Framework. I picked up Doxygen along the way to document my work. In the late '10s, my interests keyed in on embedded applications. This dovetailed well when 3D printing became a hobby, along with a knowledge of Python.
 
 ## Interests
 
