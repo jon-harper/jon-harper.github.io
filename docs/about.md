@@ -15,11 +15,13 @@ My free time now focuses on designing and documenting modular, easy to service 3
 
 ## Background
 
-My family has a page layout and publishing business. By sixteen, I my working knowledge covered the Microsoft Office suite, Photoshop, and how to maintain and troubleshoot a small business network.
+My family has a page layout and publishing business. By sixteen, my working knowledge covered the Microsoft Office suite, Photoshop, and how to maintain and troubleshoot a small business network.
 
-I studied Computer Science and Literature at The University of Texas at Dallas. Life took me in another direction, but I carried with me a love of C++ and problem solving. In the years since, I studied UI/UX design, iconography, and typography in my spare time. I later learned Python 3 to handle quick scripts and prototype new user interfaces.
+I studied Computer Science and Literature at The University of Texas at Dallas. Life took me in another direction, but I cultivated an ongoing love of C++ and problem solving. In the years since, I studied UI design and UX, iconography, and typography. I learned Python around 2010 to prototype user interfaces and write simple desktop scripts.
 
-During this time, I developed several tools in C++ using the Qt Framework. I picked up Doxygen along the way to document my work. In the late '10s, my interests keyed in on embedded applications. This dovetailed well when 3D printing became a hobby, along with a knowledge of Python.
+During the early-to-mid 2010s, I developed several tools in C++ using the Qt Framework. I picked up Doxygen as a cross-platform solution for documenting both C++ and Python. In the late '10s, my interests keyed in on embedded applications. This dovetailed well when 3D printing became a hobby, along with a knowledge of Python.
+
+Along with 3D design, composing documentation in Markdown (and a bit of HTML/CSS) is part of my day-to-day.
 
 ## Interests
 
@@ -27,15 +29,17 @@ During this time, I developed several tools in C++ using the Qt Framework. I pic
 
 I enjoy the growth and change of the C++ programming language standard, as well as the more abstract nuances of the language. I occasionally still visit [Stack Overflow](https://stackoverflow.com/users/4732082/jonspaceharper) to find interesting problems and solutions.
 
-I have a slightly absurd fascination with the Windows Explorer tree and the COM architecture behind it.
+I have a peculiar fascination with the Windows Explorer tree and the COM architecture behind it. I've extended this interest to my library--Don Box makes excellent bedtime reading.
 
 ### General
 
-I am an avid fan of history, reading, and writing. My taste in music is varied, but tends towards downtempo.
+I am an avid fan of history, reading, and general wordsmithing.
 
-I enjoy clear and concise page layouts, good use of fonts, and minimalism in design.
+I enjoy good use of fonts and icons and minimalism in design.
 
 ## Professional Experience
+
+My work experience crosses between IT and the service industry. I have a strong belief in cross-training and "walking in the other person's shoes for a day" as a result.
 
 ### Problem Solving, Troubleshooting, & Analysis
 
