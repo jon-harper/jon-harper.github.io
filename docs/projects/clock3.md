@@ -7,50 +7,46 @@ date: 2022-06-16
 
 ![Clock 3 Benchy](assets/clock3_benchy.jpg){ data-title="Clock 3 and an ABS Benchy" data-description="A Benchy printed in ABS plastic during Winter, 2021. This milestone demonstrated working kinematics, insulation, and air filtration"}
 
-Clock 3 is a prototype enclosed, CoreXY 3D printer. It is now used to generate new ideas for The Clockmaker Project.
+Clock 3 is a prototype enclosed, CoreXY 3D printer. It is now used to generate new ideas for [The Clockmaker Project](clockmaker.md).
 
 ## Goals
 
-<!-- ![front render](../img/clock3/render1.png){width="300px"}
-
-![side render with the panel off](../img/clock3/render2.png){width="300px"} -->
-
 Clock 3 achieved several [development goals](https://jon-harper.github.io/clock-3/about/goals/):
 
-- Ease of Sourcing
-- Ease of Servicing
-- Flexibility, Safety, and Stability
+- It is easily sourced.
+- It is easy to service.
+- The design proves the concept is viable.
 
 ## Status
 
-Fusion 360 data corruption halted immediate further work, but directly led to the development of [OmniBox][omnibox] and [The Clockmaker Project][clockmaker].
+Model corruption halted immediate further work, but directly led to the development of [OmniBox][omnibox] and [The Clockmaker Project][clockmaker].
 
 ![all printed parts on a table](../img/clock3/all_parts.jpg){ width="640px" data-title="Over 100 Unique Printed Parts" data-description="Nearly all of these parts were designed between September of 2021 and May of 2022" }
 
 ## Features
 
-Project Features:
+### Project Features
 
-- More than 100 unique printed parts;
-- Integrated design for HEPA and activated charcoal filtration;
+- Over 100 unique printed part designs;
+- Integrated HEPA and activated charcoal filtration;
 - Python-scripted Bill of Materials generation; and
-- Extensive wiring documentation and planning.
+- Extensive wiring documentation.
 
-Printer Features:
+### Printer Features
 
 - CoreXY kinematics;
-- Large print volume;
-- Double-paned enclosure window;
-- Top service hatch;
-- Floor service hatches; and
+- Large print volume (300mm x 300mm x 350mm);
+- Double-paned and air-gapped front window;
+- Polyisocyanurate (PIR) foam-insulated panels;
+- Top service hatch and floor service hatches; and
 - Externally-mounted stepper motors.
 
-Other Features:
+### Other Features
 
 - Step-by-step assembly guide;
-- Thoroughly documented development;
+- Fully documented assembly;
 - Daily changelog; and
-- Git-based Klipper configuration.
+- git-based Klipper configuration.
 
 ## Links
 
