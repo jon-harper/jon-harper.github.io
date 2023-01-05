@@ -4,7 +4,6 @@ summary: An enclosed, CoreXY 3D printer.
 authors: Jon Harper
 date: 2022-06-16
 ---
-{% import 'assets/macros/cards.md' as cards with context %}
 
 ![Clock 3 Benchy](assets/clock3_benchy.jpg){ data-title="Clock 3 and an ABS Benchy" data-description="A Benchy printed in ABS plastic during Winter, 2021. This milestone demonstrated working kinematics, insulation, and air filtration"}
 
@@ -55,10 +54,7 @@ Other Features:
 
 ## Links
 
-{{ cards.start_grid(3) }}
-{{ cards.add_card(title="Project Page", content="", image="../../img/clock3.png", url="https://jon-harper.github.io/clock-3") }}
-{{ cards.add_card(title="GitHub Repository", content="", image="../../img/github.png", url="https://github.com/jon-harper/clock-3") }}
-{{ cards.end_grid() }}
+[cards lightbox=false cols=3(docs/assets/clock3_links.yml)]
 
 Additional tools from this project:
 
@@ -68,13 +64,7 @@ Additional tools from this project:
 
 ## Gallery
 
-{{ cards.start_grid(2) }}
-{{ cards.add_image(title="Front Render", image="../../img/clock3/render1.png") }}
-{{ cards.add_image(title="Side Render", image="../../img/clock3/render2.png") }}
-{{ cards.add_image(title="Exterior, June '22", image="../../img/clock3/june22_1.jpg") }}
-{{ cards.add_image(title="Printing PLA, June '22", image="../../img/clock3/june22_2.jpg") }}
-{{ cards.end_grid() }}
-
+[cards lightbox=true cols=2(docs/assets/clock3_gallery.yml)]
 
 [omnibox]: omnibox.md
 [clockmaker]: clockmaker.md
