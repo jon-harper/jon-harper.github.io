@@ -10,12 +10,10 @@ theme:
   custom_dir: overrides
   logo: img/doug.png
   palette:
-    # scheme: slate
     primary: blue
     accent: orange
   font:
     text: Noto Sans
-    code: Source Code Pro
   features:
     - navigation.instant
     - navigation.sections
@@ -29,8 +27,6 @@ markdown_extensions:
   - neoteroi.cards
 
 plugins:
-  # - search
-  - macros
   - glightbox:
       skip_classes:
         - skip-lightbox
