@@ -1,9 +1,0 @@
-cards:
-  - title: "GitHub"
-    content: "Lorem ipsum dolor sit amet."
-    image: "img/github.png",
-    url: "https://github.com/jon-harper"
-  - title: "LinkedIn"
-    content: "Lorem ipsum dolor sit amet.",
-    image: "img/linkedin.png"
-    url: "https://linkedin.com/in/jonspaceharper"

@@ -1,0 +1,8 @@
+- title: "Omnibox Documentation"
+  content: "Documentation and project details"
+  image: "../img/omnibox_logo.png"
+  url: "https://jon-harper.github.io/OmniBox"
+- title: "GitHub Repository"
+  content: "Project source, & issue tracking"
+  image: "../img/github.png"
+  url: "https://github.com/jon-harper/OmniBox"
