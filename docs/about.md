@@ -7,9 +7,9 @@ date: 2022-07-02
 
 ![What I May or May Not Look Like](img/doug.png){ data-title="I Kinda Look Like This" data-description="Sorta." width="250px" align="right" }
 
-In 2019, I acquired a used, clone-of-a-clone 3D printer. My interest in a new hobby turned quickly to making practical solutions. First, I gave my dryer a new, printed handle and retired the metal coat hanger from its role.
+In 2019, I acquired a used 3D printer. I took quickly to making practical solutions. I gave my dryer a 3D printed handle and retired the metal coat hanger from its role, created a [wall-mount for my hair trimmer](https://www.printables.com/model/354664-corded-electric-hair-trimmer-holder) and a [mount for the blades, too](https://www.printables.com/model/354663-wahl-hair-clipper-guard-holder).
 
-Three months later, I began design work on a wooden enclosure with the goal of printing ABS. The enclosure didn't work out, but the fascination with practical tools that are easy to service lives on.
+Six months later, I completed a  wooden enclosure with the goal of printing ABS. That particular enclosure didn't work out, but the fascination with practical tools that are easy to service lives on.
 
 My free time now focuses on designing and documenting modular, easy to service 3D printers, wiring harnesses, and enclosures.
 
