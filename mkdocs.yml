@@ -64,7 +64,7 @@ nav:
   - resume.md
   - Projects:
     - projects/omnibox.md
-    - E34M1: "https://jon-harper.github.io/E34M1/"
+    - projects/e34m1.md
     - projects/clockmaker.md
     - projects/clock3.md
 

@@ -10,3 +10,6 @@
   content: "Tools and guides for enclosed 3D printing."
   image: "img/clockmaker.png"
   url: "projects/clockmaker/"
+- title: "E34M1"
+  content: "EVA 3 toolhead adapted for the ZeroG Mercury One"
+  url: "projects/e34m1"
