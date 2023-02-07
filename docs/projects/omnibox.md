@@ -31,7 +31,7 @@ OmniBox focuses on reusability, ease of service, and exceptional documentation. 
 
 ## Status
 
-As of December 2022, OmniBox is on its sixth public release, v0.9.9. It is stable enough for everday use but remains under active development.
+As of February 2023, OmniBox has six public releases; v0.9.9 is the most recent. It remains in active development, with a new release under development.
 
 ## Links
 

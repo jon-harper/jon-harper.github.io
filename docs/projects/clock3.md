@@ -9,6 +9,8 @@ date: 2022-06-16
 
 Clock 3 is a prototype enclosed, CoreXY 3D printer. It is now used to generate new ideas for [The Clockmaker Project](clockmaker.md).
 
+Some work on Clock 3 is still ongoing. The CoreXY system is now modeled after the Mercury One belt path; this enables the use of the [E34M1](e34m1.md) toolhead.
+
 ## Goals
 
 Clock 3 achieved several [development goals](https://jon-harper.github.io/clock-3/about/goals/):
