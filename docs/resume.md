@@ -3,7 +3,7 @@ title: Resume
 summary: Jonathan Harper Resume / Curriculum Vitae
 authors: Jon Harper
 date: 2022-06-16
-# hide: toc
+hide: toc
 ---
 
 # Resume: Jonathan Harper
@@ -56,13 +56,19 @@ Samples of my Stack Overflow contributions:
 
 **Career Sabbatical** (December 2021-December 2022)
 
+TODO
+
 **Top Shelf Solutions** (2002-2021)
+
+TODO
 
 **Starbucks Coffee** (2005-2011, 2016-2021)
 
+TODO
+
 **Souper! Salad!** (2003-2005)
 
-### Other Experience
+TODO
 
 ### Education
 
@@ -70,9 +76,8 @@ Samples of my Stack Overflow contributions:
 
 - Major: Computer Science/English
 
-### Additional Interests
+<!-- ### Additional Interests
 
 - Aerospace engineering & fluid dynamics
 - Additive manufacturing & functional 3D printing
-- Applications of materials science in industry
-- 
+- Applications of materials science in industry -->
