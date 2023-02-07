@@ -24,6 +24,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.details
+  - pymdownx.superfences
   - neoteroi.cards
 
 plugins:
@@ -59,12 +61,10 @@ extra_css:
 nav:
   - index.md
   - about.md
+  - resume.md
   - Projects:
     - projects/omnibox.md
-    - projects/clock3.md
+    - E34M1: "https://jon-harper.github.io/E34M1/"
     - projects/clockmaker.md
-
-  - External Links:
-    - Thingiverse Designs: "https://www.thingiverse.com/jonspaceharper/designs"
-    - GitHub Repositories: "https://github.com/jon-harper?tab=repositories"
+    - projects/clock3.md
 

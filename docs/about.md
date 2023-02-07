@@ -7,6 +7,8 @@ date: 2022-07-02
 
 ![What I May or May Not Look Like](img/doug.png){ data-title="I Kinda Look Like This" data-description="Sorta." width="250px" align="right" }
 
+!!! note "[Looking for my resume?](resume.md)"
+
 In 2019, I acquired a used 3D printer. I took quickly to making practical solutions. I gave my dryer a 3D printed handle and retired the metal coat hanger from its role, created a [wall-mount for my hair trimmer](https://www.printables.com/model/354664-corded-electric-hair-trimmer-holder) and a [mount for the blades, too](https://www.printables.com/model/354663-wahl-hair-clipper-guard-holder).
 
 Six months later, I completed a  wooden enclosure with the goal of printing ABS. That particular enclosure didn't work out, but the fascination with practical tools that are easy to service lives on.
