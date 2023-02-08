@@ -43,7 +43,9 @@ I enjoy good use of fonts and icons and minimalism in design.
 
 My work experience crosses between IT and the service industry. I have a strong belief in cross-training and "walking in the other person's shoes for a day" as a result.
 
-### Problem Solving, Troubleshooting, & Analysis
+See [my resume](resume.md) for more.
+
+<!-- ### Problem Solving, Troubleshooting, & Analysis
 
 I am often presented tasks that are out of the ordinary. 
 
@@ -66,4 +68,4 @@ I love teaching and training.
 
 During my time with Starbucks, I trained an somewhere between twenty-five and forty current and former Starbucks Partners, some of whom went on to become Store Managers. Other trainers often asked me to introduce new partners to the espresso bar or specific maintenance and cleaning tasks. 
 
-I often coached nervous partners with their speech in Drive Thru and how to call drinks in the cafe to be heard over the ambient noise.
+I often coached nervous partners with their speech in Drive Thru and how to call drinks in the cafe to be heard over the ambient noise. -->
