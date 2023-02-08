@@ -19,7 +19,7 @@ My free time now focuses on designing and documenting modular, easy to service 3
 
 My family has a page layout and publishing business. By sixteen, my working knowledge covered the Microsoft Office suite, Photoshop, and how to maintain and troubleshoot a small business network.
 
-I studied Computer Science and Literature at The University of Texas at Dallas. Life took me in another direction, but I cultivated an ongoing love of C++ and problem solving. In the years since, I studied UI design and UX, iconography, and typography. I learned Python around 2010 to prototype user interfaces and write simple desktop scripts.
+I studied Computer Science and English at The University of Texas at Dallas. Life took me in another direction, but I cultivated an ongoing love of C++ and problem solving. In the years since, I studied UI design and UX, iconography, and typography. I learned Python around 2010 to prototype user interfaces and write simple desktop scripts.
 
 During the early-to-mid 2010s, I developed several tools in C++ using the Qt Framework. I picked up Doxygen as a cross-platform solution for documenting both C++ and Python. In the late '10s, my interests keyed in on embedded applications. This dovetailed well when 3D printing became a hobby, along with a knowledge of Python.
 

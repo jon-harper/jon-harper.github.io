@@ -21,11 +21,16 @@ theme:
 markdown_extensions:
   - admonition
   - attr_list
+  - abbr
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.details
-  - pymdownx.superfences
   - neoteroi.cards
 
 plugins:
