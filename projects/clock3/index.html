@@ -8,8 +8,7 @@
 <meta content="Projects, articles, and thoughts by Jon Harper" name="description"/>
 <meta content="Jon Harper" name="author"/>
 <link href="https://jon-harper.github.io/projects/clock3/" rel="canonical"/>
-<link href="../omnibox/" rel="prev"/>
-<link href="../clockmaker/" rel="next"/>
+<link href="../clockmaker/" rel="prev"/>
 <link href="../../assets/images/favicon.png" rel="icon"/>
 <meta content="mkdocs-1.4.2, mkdocs-material-9.0.1" name="generator"/>
 <title>Clock 3 - Jonathan (Jon) Harper</title>
@@ -116,14 +115,19 @@
         About Me
       </a>
 </li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../resume/">
+        Resume
+      </a>
+</li>
 <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
-<input checked="" class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" id="__nav_3" type="checkbox"/>
-<label class="md-nav__link" for="__nav_3">
+<input checked="" class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" id="__nav_4" type="checkbox"/>
+<label class="md-nav__link" for="__nav_4">
           Projects
           <span class="md-nav__icon md-icon"></span>
 </label>
 <nav aria-label="Projects" class="md-nav" data-md-level="1">
-<label class="md-nav__title" for="__nav_3">
+<label class="md-nav__title" for="__nav_4">
 <span class="md-nav__icon md-icon"></span>
           Projects
         </label>
@@ -131,6 +135,16 @@
 <li class="md-nav__item">
 <a class="md-nav__link" href="../omnibox/">
         OmniBox
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../e34m1/">
+        E34M1
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../clockmaker/">
+        The Clockmaker Project
       </a>
 </li>
 <li class="md-nav__item md-nav__item--active">
@@ -162,6 +176,25 @@
 <a class="md-nav__link" href="#features">
     Features
   </a>
+<nav aria-label="Features" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#project-features">
+    Project Features
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#printer-features">
+    Printer Features
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#other-features">
+    Other Features
+  </a>
+</li>
+</ul>
+</nav>
 </li>
 <li class="md-nav__item">
 <a class="md-nav__link" href="#links">
@@ -175,36 +208,6 @@
 </li>
 </ul>
 </nav>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../clockmaker/">
-        The Clockmaker Project
-      </a>
-</li>
-</ul>
-</nav>
-</li>
-<li class="md-nav__item md-nav__item--section md-nav__item--nested">
-<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" id="__nav_4" type="checkbox"/>
-<label class="md-nav__link" for="__nav_4">
-          External Links
-          <span class="md-nav__icon md-icon"></span>
-</label>
-<nav aria-label="External Links" class="md-nav" data-md-level="1">
-<label class="md-nav__title" for="__nav_4">
-<span class="md-nav__icon md-icon"></span>
-          External Links
-        </label>
-<ul class="md-nav__list" data-md-scrollfix="">
-<li class="md-nav__item">
-<a class="md-nav__link" href="https://www.thingiverse.com/jonspaceharper/designs">
-        Thingiverse Designs
-      </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="https://github.com/jon-harper?tab=repositories">
-        GitHub Repositories
-      </a>
 </li>
 </ul>
 </nav>
@@ -237,6 +240,25 @@
 <a class="md-nav__link" href="#features">
     Features
   </a>
+<nav aria-label="Features" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#project-features">
+    Project Features
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#printer-features">
+    Printer Features
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#other-features">
+    Other Features
+  </a>
+</li>
+</ul>
+</nav>
 </li>
 <li class="md-nav__item">
 <a class="md-nav__link" href="#links">
@@ -257,43 +279,41 @@
 <article class="md-content__inner md-typeset">
 <h1>Clock 3</h1>
 <p><a class="glightbox" data-desc-position="bottom" data-description="A Benchy printed in ABS plastic during Winter, 2021. This milestone demonstrated working kinematics, insulation, and air filtration" data-height="auto" data-title="Clock 3 and an ABS Benchy" data-width="100%" href="../assets/clock3_benchy.jpg"><img alt="Clock 3 Benchy" data-description="A Benchy printed in ABS plastic during Winter, 2021. This milestone demonstrated working kinematics, insulation, and air filtration" data-title="Clock 3 and an ABS Benchy" src="../assets/clock3_benchy.jpg"/></a></p>
-<p>Clock 3 is a prototype enclosed, CoreXY 3D printer. It is now used to generate new ideas for The Clockmaker Project.</p>
+<p>Clock 3 is a prototype enclosed, CoreXY 3D printer. It is now used to generate new ideas for <a href="../clockmaker/">The Clockmaker Project</a>.</p>
+<p>Some work on Clock 3 is still ongoing. The CoreXY system is now modeled after the Mercury One belt path; this enables the use of the <a href="../e34m1/">E34M1</a> toolhead.</p>
 <h2 id="goals">Goals</h2>
-<!-- ![front render](../img/clock3/render1.png){width="300px"}
-
-![side render with the panel off](../img/clock3/render2.png){width="300px"} -->
 <p>Clock 3 achieved several <a href="https://jon-harper.github.io/clock-3/about/goals/">development goals</a>:</p>
 <ul>
-<li>Ease of Sourcing</li>
-<li>Ease of Servicing</li>
-<li>Flexibility, Safety, and Stability</li>
+<li>It is easily sourced.</li>
+<li>It is easy to service.</li>
+<li>The design proves the concept is viable.</li>
 </ul>
 <h2 id="status">Status</h2>
-<p>Fusion 360 data corruption halted immediate further work, but directly led to the development of <a href="../omnibox/">OmniBox</a> and <a href="../clockmaker/">The Clockmaker Project</a>.</p>
+<p>Model corruption halted immediate further work, but directly led to the development of <a href="../omnibox/">OmniBox</a> and <a href="../clockmaker/">The Clockmaker Project</a>.</p>
 <p><a class="glightbox" data-desc-position="bottom" data-description="Nearly all of these parts were designed between September of 2021 and May of 2022" data-height="auto" data-title="Over 100 Unique Printed Parts" data-width="100%" href="../../img/clock3/all_parts.jpg"><img alt="all printed parts on a table" data-description="Nearly all of these parts were designed between September of 2021 and May of 2022" data-title="Over 100 Unique Printed Parts" src="../../img/clock3/all_parts.jpg" width="640px"/></a></p>
 <h2 id="features">Features</h2>
-<p>Project Features:</p>
+<h3 id="project-features">Project Features</h3>
 <ul>
-<li>More than 100 unique printed parts;</li>
-<li>Integrated design for HEPA and activated charcoal filtration;</li>
+<li>Over 100 unique printed part designs;</li>
+<li>Integrated HEPA and activated charcoal filtration;</li>
 <li>Python-scripted Bill of Materials generation; and</li>
-<li>Extensive wiring documentation and planning.</li>
+<li>Extensive wiring documentation.</li>
 </ul>
-<p>Printer Features:</p>
+<h3 id="printer-features">Printer Features</h3>
 <ul>
 <li>CoreXY kinematics;</li>
-<li>Large print volume;</li>
-<li>Double-paned enclosure window;</li>
-<li>Top service hatch;</li>
-<li>Floor service hatches; and</li>
+<li>Large print volume (300mm x 300mm x 350mm);</li>
+<li>Double-paned and air-gapped front window;</li>
+<li>Polyisocyanurate (PIR) foam-insulated panels;</li>
+<li>Top service hatch and floor service hatches; and</li>
 <li>Externally-mounted stepper motors.</li>
 </ul>
-<p>Other Features:</p>
+<h3 id="other-features">Other Features</h3>
 <ul>
 <li>Step-by-step assembly guide;</li>
-<li>Thoroughly documented development;</li>
+<li>Fully documented assembly;</li>
 <li>Daily changelog; and</li>
-<li>Git-based Klipper configuration.</li>
+<li>git-based Klipper configuration.</li>
 </ul>
 <h2 id="links">Links</h2>
 <div class="nt-cards nt-grid cols-3">
@@ -355,7 +375,7 @@
 </main>
 <footer class="md-footer">
 <nav aria-label="" class="md-footer__inner md-grid">
-<a aria-label="Previous: OmniBox" class="md-footer__link md-footer__link--prev" href="../omnibox/" rel="prev">
+<a aria-label="Previous: The Clockmaker Project" class="md-footer__link md-footer__link--prev" href="../clockmaker/" rel="prev">
 <div class="md-footer__button md-icon">
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
 </div>
@@ -364,21 +384,8 @@
 <span class="md-footer__direction">
                 Previous
               </span>
-              OmniBox
-            </div>
-</div>
-</a>
-<a aria-label="Next: The Clockmaker Project" class="md-footer__link md-footer__link--next" href="../clockmaker/" rel="next">
-<div class="md-footer__title">
-<div class="md-ellipsis">
-<span class="md-footer__direction">
-                Next
-              </span>
               The Clockmaker Project
             </div>
-</div>
-<div class="md-footer__button md-icon">
-<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"></path></svg>
 </div>
 </a>
 </nav>
