@@ -9,39 +9,39 @@ date: 2022-07-02
 
 !!! note "[Looking for my resume?](resume.md)"
 
-In 2019, I acquired a used 3D printer. I took quickly to making practical solutions. I gave my dryer a 3D printed handle and retired the metal coat hanger from its role, created a [wall-mount for my hair trimmer](https://www.printables.com/model/354664-corded-electric-hair-trimmer-holder) and a [mount for the blades, too](https://www.printables.com/model/354663-wahl-hair-clipper-guard-holder).
+I first acquired a 3D printer in late 2019, and along with it, an interest in CAD. My dryer received a new, 3D-printed handle while I retired the metal coat hanger from its prior duties. I soon designed a [wall-mount for my hair trimmer](https://www.printables.com/model/354664-corded-electric-hair-trimmer-holder) and a [mount for the blades](https://www.printables.com/model/354663-wahl-hair-clipper-guard-holder), too.
 
-Six months later, I completed a  wooden enclosure with the goal of printing ABS. That particular enclosure didn't work out, but the fascination with practical tools that are easy to service lives on.
-
-My free time now focuses on designing and documenting modular, easy to service 3D printers, wiring harnesses, and enclosures.
+Printing functional parts naturally fostered an interest in engineering plastics (such as ABS) that must be printed in enclosures. Six months later, I completed a wooden enclosure, and I continue to explore the possibilities of printing new materials. My free time now focuses on designing and documenting modular, easy to service 3D printers, wiring harnesses, and enclosures.
 
 ## Background
 
-My family has a page layout and publishing business. By sixteen, my working knowledge covered the Microsoft Office suite, Photoshop, and how to maintain and troubleshoot a small business network.
+My family has a page layout and publishing business. By sixteen, I had a working knowledge of the Microsoft Office suite, Photoshop, and how to maintain and troubleshoot a small business network.
 
-I studied Computer Science and English at The University of Texas at Dallas. Life took me in another direction, but I cultivated an ongoing love of C++ and problem solving. In the years since, I studied UI design and UX, iconography, and typography. I learned Python around 2010 to prototype user interfaces and write simple desktop scripts.
+I studied Computer Science and English at The University of Texas at Dallas, where I cultivated a love of C++ and problem solving. In the years since, I extended my interest to UI design, iconography, and typography. I began developing in Python in 2010 to prototype user interfaces and automate everyday tasks.
 
-During the early-to-mid 2010s, I developed several tools in C++ using the Qt Framework. I picked up Doxygen as a cross-platform solution for documenting both C++ and Python. In the late '10s, my interests keyed in on embedded applications. This dovetailed well when 3D printing became a hobby, along with a knowledge of Python.
+During the early-to-mid 2010s, I developed several tools in C++ using the Qt Framework. After looking for a cross-platform solution for documenting both C++ and Python, I learned Doxygen.
 
-Along with 3D design, composing documentation in Markdown (and a bit of HTML/CSS) is part of my day-to-day.
+My background in page layout, interest in UX, and writing experience created a fascination with good documentation. I love the content-rich, clean documentation of the [Qt Project](https://doc.qt.io/qt.html) and the language-oriented natural feel of [cppreference](https://en.cppreference.com/w/).
+
+**I strive to make documentation that I want to use.**
+
+In 2021, I stepped away from my two longtime roles to spend one year preparing for a career pivot to documentation and design. I naturaly documented the projects that resulted, from an [enclosed 3D printer](projects/clock3.md)--that is still a prototype--to the [3D printer electronics case](projects/omnibox.md) that has dozens of users.
+
+Along with 3D design, composing documentation with Markdown (and a bit of HTML & CSS) is part of my day-to-day.
 
 ## Interests
 
 ### Software Development
 
-I enjoy the growth and change of the C++ programming language standard, as well as the more abstract nuances of the language. I occasionally still visit [Stack Overflow](https://stackoverflow.com/users/4732082/jonspaceharper) to find interesting problems and solutions.
+I enjoy studying the growth and change of the C++ programming language standard, as well as the detailed nuances of the language. I still visit [Stack Overflow](https://stackoverflow.com/users/4732082/jonspaceharper) to find interesting problems and solutions.
 
-I have a peculiar fascination with the Windows Explorer tree and the COM architecture behind it. I've extended this interest to my library--Don Box makes excellent bedtime reading.
+I have a fascination with the Windows Explorer tree and the COM architecture behind it. I've extended this interest to my book library--Don Box makes excellent bedtime reading.
 
 ### General
 
-I am an avid fan of history, reading, and general wordsmithing.
+I enjoy good use of fonts and icons and minimalism in design. I am an avid fan of history, reading, and general wordsmithing. Aeronautical engineering, particularly aerospace, is a longtime area of interest.
 
-I enjoy good use of fonts and icons and minimalism in design.
-
-## Professional Experience
-
-My work experience crosses between IT and the service industry. I have a strong belief in cross-training and "walking in the other person's shoes for a day" as a result.
+My work experience crosses between IT and the service industry. As a result, I have a strong belief in cross-training and "walking in the other person's shoes".
 
 See [my resume](resume.md) for more.
 
