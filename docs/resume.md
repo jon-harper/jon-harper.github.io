@@ -8,37 +8,37 @@ hide: toc
 
 # Resume: Jonathan Harper
 
-## Contact
+### Contact
 
-- Email: [jonspaceharper@gmail.com](mailto:jonspaceharper@gmail.com)
-- LinkedIn: [jonspaceharper](https://linkedin.com/in/jonspaceharper)
+:material-email: [jonspaceharper@gmail.com](mailto:jonspaceharper@gmail.com)
 
-## Qualifications
+:material-linkedin: [jonspaceharper](https://linkedin.com/in/jonspaceharper)
+
+### Qualifications
 
 - Skilled writer who strives for precision & brevity.
-- Excels at teaching, translating jargon, and writing to the audience's level.
+- Excels at teaching concepts, translating jargon, and writing for the audience.
 - Broad technical background knowledge:
-    - Software development (C++, Python)
-    - Content versioning (git, SharePoint)
-    - Graphic design (Adobe Photoshop & Illustrator, GIMP)
     - Page layout/desktop publishing (Microsoft Word, Adobe Acrobat, Markdown, CSS)
+    - Graphic design (Adobe Photoshop & Illustrator, GIMP)
+    - Content versioning (git, SharePoint)
+    - Software development (C++, Python)
+    - Documentation generation (Doxygen, mkdocs)
     - Rapid prototyping & CAD (FDM 3D printing, Fusion 360)
     - Point-of-sale technical support
     - Sales and inventory management
+    - Networks and system administration
 - Actively learns and seeks new solutions, ideas, and techniques.
 
 ## Samples of Work
 
-### Documentation Projects
-
-!!! note inline end "[GitHub Profile](https://github.com/jon-harper)"
+------
+### Documentation
 
 - **[OmniBox](https://jon-harper.github.io/OmniBox)**: 3D printer electronics case; extensive documentation includes illustrations and full assembly instructions.
 - **[E34M1](https://jon-harper.github.io/E34M1/)**: modified 3D printer toolhead; documentation has a lightweight layout for a small project.
 
 ### Technical Q&A
-
-!!! note inline end "[Stack Overflow profile](https://stackoverflow.com/users/4732082/jonspaceharper)"
 
 Samples of my Stack Overflow contributions:
 
@@ -49,46 +49,92 @@ Samples of my Stack Overflow contributions:
 - Answer: ["PyQt: is there an better way to set objectName in code?"](https://stackoverflow.com/questions/50726510/pyqt-is-there-an-better-way-to-set-objectname-in-code)
 - Answer: ["What is the asterisk for in signal and slot connections?"](https://stackoverflow.com/questions/38456924/what-is-the-asterisk-for-in-signal-and-slot-connections/38457771)
 
+### Public Profiles
+
+* [:material-github: GitHub Profile](https://github.com/jon-harper)
+* [:material-stack-overflow: Stack Overflow Profile](https://stackoverflow.com/users/4732082/jonspaceharper)
+
 ## Experience
 
 ### Career History
 
-**Career Sabbatical** (December 2021-December 2022)
+**Career Sabbatical** (December 2021 - January 2023)
 
-- Stepped away to focus on choosing career direction.
+!!! warning "TODO"
 
-**Top Shelf Solutions** (2002-2021)
+------
+**Top Shelf Solutions** (2002 - 2021)
+
+Served in dual roles for a family desktop publishing business.
 
 *Assistant Operations Manager*
 
-- Branding conformity
-- Design meeting covers meeting client branding guidelines
-- Document and presentation page layout and editing
-- Individualized meeting materials
-- Executive biography composition
-- Proofreading and copy editing executive summaries
-- Preparation/shipping of meeting materials
-- Document versioning
+- Designed meeting covers, headers, and other templates to satisfy branding guidelines.
+- Developed generic templates to simplify material generation for new clients.
+- Edited and proofread both internal and external materials for style, content, and branding comformity.
+- Followed client technologies and current IT trends.
+- Responsible for all personalized meeting materials.
+- Composed and edited SVP & C-level executive biographies.
+- Provided quality control for printed matter.
+- Assisted in preparation and shipping of meeting materials.
 
 *IT Manager*
 
-- Oversaw full lifecycle of a small business network
-- Responsible for backups, upgrades, & failover plans
-- Oversaw network through local administration and RAID arrays to cloud integration
-- Assisted with client IT needs
-- Migrated client (The Harvard Group) to SharePoint in 2011-2012
+- Oversaw the  lifecycle of a small business network over nearly 20 years:
+    - Responsible for backups, failover plans, and disaster restoration.
+    - Managed transition from local office server to cloud-based solutions.
+    - Provided all other IT needs for a 5- to 8-seat office network.
+- Assisted with client IT needs:
+    - Migrated client (The Harvard Group) to Office 365 and SharePoint in 2011-2012.
+    - Transitioned phone and video conferencing IT services to lower overhead and add new capabilities.
+    - Documented each transition process, including installation and how-to guides.
+    - Provided phone and email support to remote users and investigated network and software issues.
 
-**Starbucks Coffee** (2005-2011, 2016-2021)
+------
+
+**Starbucks Coffee** (2005-2012, 2016-2021)
 
 *Barista* & *Shift Supervisor*
 
+In addition to the duties of a Barista:
+
+- In 2006, headed a maintenance & cleanliness team for a new Store Manager.
+    - Labeled and organized all back-of-house inventory.
+    - Ensured all equipment regularly calibrated and cleaned; instructed others in care.
+- From 2005-2010, managed weekly store bulk order and overall inventory under two (2) store managers:
+    - Used spreadsheets to track 3- and 6-week rolling usage averages.
+    - Lowered controllable costs and excess inventory; cut order placement time by half.
+    - Nearly eliminated controllable product shortages.
+- In 2007-2008, assisted Watters & 121 store opening:
+    - Trained new staff in mid-to-late 2017.
+    - Ordered and ensured arrival of base supplies and inventory for store opening.
+    - Planned and implemented both front- and back-of-house storage layout.
+- Served as a trainer from 2006 on, training over two dozen new hires.
+
+------
+
+**Souper! Salad!/Grandy's** (2005-2010)
+
+Contracted by San Antonio-based IT department as a first-call technician for DFW area:
+
+- Cut response time significantly and saved overnight trips by department staff.
+- Able to take calls normally handled by corporate staff due to familiarity with legacy Radiant Systems platform.
+- Assisted in migrating multiple sites from dialup to DSL; later assisted in migration to EVDO-based wireless service.
+- After Grandy's acquisition in 2008, assisted in transitioning several restaurants to Radiant Systems and wireless internet service.
+
+------
+
 **Souper! Salad!** (2003-2005)
 
-*Assistant Manager* (2004-2005)
+*Assistant Manager* (2004-2005) / *Shift Supervisor* (2004) / *Waiter* (2003-2004)
 
-*Shift Supervisor* (2003-2004)
+In addition to normal management and wait staff duties:
 
-*Waiter* (2003)
+- Acted as lead trainer for training pilot program and prepared Executive Summary for Board presentation.
+- Assisted in cutting food costs by 5% of gross sales while responsible for daily inventory orders.
+- Consolidated multiple sales and ordering tracking spreadsheets for District Manager.
+- Tasked with designing a consolidated maintenance spreadsheet for Dallas and Fort Worth districts.
+- Derivative spreadsheets were later rolled out company-wide.
 
 ### Education
 
@@ -97,7 +143,15 @@ Samples of my Stack Overflow contributions:
 - Major: Computer Science/English
 
 ### Additional Interests
+#### Hobbies
 
-- The C++ language, history, and evolution
+- The C++ language (including history and evolution)
+- Functional 3D printing and computer-aided design (CAD)
+- User interface design, typography, and iconography
+- Problem solving with Python
+
+#### Interests
+
 - Aerospace engineering & fluid dynamics
-- Additive manufacturing & functional 3D printing
+- Data storage, compression, and management
+- Emerging technologies
