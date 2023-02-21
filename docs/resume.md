@@ -6,13 +6,16 @@ date: 2022-06-16
 hide: toc
 ---
 
-# Resume: Jonathan Harper
+# Resume: Jonathan (Jon) Harper
 
 ### Contact
 
-:material-email: [jonspaceharper@gmail.com](mailto:jonspaceharper@gmail.com)
+<div markdown class="jh-grid-container jh-grid-3 jh-link-grid">
 
-:material-linkedin: [jonspaceharper](https://linkedin.com/in/jonspaceharper)
+[:material-linkedin: LinkedIn](https://linkedin.com/in/jonspaceharper)
+
+[:material-email: E-mail](mailto:jonspaceharper@@@gmail)
+</div>
 
 ### Qualifications
 
@@ -51,8 +54,9 @@ Samples of my Stack Overflow contributions:
 
 ### Public Profiles
 
-* [:material-github: GitHub Profile](https://github.com/jon-harper)
-* [:material-stack-overflow: Stack Overflow Profile](https://stackoverflow.com/users/4732082/jonspaceharper)
+[:material-github: GitHub](https://github.com/jon-harper)
+
+[:material-stack-overflow: Stack Overflow](https://stackoverflow.com/users/4732082/jonspaceharper)
 
 ## Experience
 
@@ -60,12 +64,18 @@ Samples of my Stack Overflow contributions:
 
 **Career Sabbatical** (December 2021 - January 2023)
 
-!!! warning "TODO"
+- Changed career focus to technical writing.
+- Year-long sabbatical to prepare a cross-discipline portfolio of work.
+- Resulting project, [OmniBox](https://jon-harper.github.io/OmniBox), praised by users for documentation.
+- Produced several smaller works and documented older projects:
+    - [E34M1](https://jon-harper.github.io/E34M1/)
+    - [QExt](https://github.com/jon-harper/QExt/)
+    - This resume
 
 ------
 **Top Shelf Solutions** (2002 - 2021)
 
-Served in dual roles for a family desktop publishing business.
+Served in dual roles for a desktop publishing and operations management business.
 
 *Assistant Operations Manager*
 
@@ -92,7 +102,7 @@ Served in dual roles for a family desktop publishing business.
 
 ------
 
-**Starbucks Coffee** (2005-2012, 2016-2021)
+**Starbucks Coffee** (2005 - 2012, 2016 - 2021)
 
 *Barista* & *Shift Supervisor*
 
@@ -113,7 +123,7 @@ In addition to the duties of a Barista:
 
 ------
 
-**Souper! Salad!/Grandy's** (2005-2010)
+**Souper! Salad!/Grandy's** (2005 - 2010)
 
 Contracted by San Antonio-based IT department as a first-call technician for DFW area:
 
@@ -124,9 +134,9 @@ Contracted by San Antonio-based IT department as a first-call technician for DFW
 
 ------
 
-**Souper! Salad!** (2003-2005)
+**Souper! Salad!** (2003 - 2005)
 
-*Assistant Manager* (2004-2005) / *Shift Supervisor* (2004) / *Waiter* (2003-2004)
+*Assistant Manager* (2004 - 2005) / *Shift Supervisor* (2004) / *Waiter* (2003 - 2004)
 
 In addition to normal management and wait staff duties:
 
@@ -138,14 +148,14 @@ In addition to normal management and wait staff duties:
 
 ### Education
 
-**The University of Texas at Dallas** (2000-2002)
+**The University of Texas at Dallas** (2000 - 2002)
 
 - Major: Computer Science/English
 
-### Additional Interests
+### Personal
 #### Hobbies
 
-- The C++ language (including history and evolution)
+- The C++ language (history and evolution)
 - Functional 3D printing and computer-aided design (CAD)
 - User interface design, typography, and iconography
 - Problem solving with Python

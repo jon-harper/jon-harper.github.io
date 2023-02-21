@@ -9,7 +9,7 @@ date: 2022-07-02
 
 !!! note "[Looking for my resume?](resume.md)"
 
-I first acquired a 3D printer in late 2019, and along with it, an interest in CAD. My dryer received a new, 3D-printed handle while I retired the metal coat hanger from its prior duties. I soon designed a [wall-mount for my hair trimmer](https://www.printables.com/model/354664-corded-electric-hair-trimmer-holder) and a [mount for the blades](https://www.printables.com/model/354663-wahl-hair-clipper-guard-holder), too.
+I acquired my first 3D printer in 2019, and along with it, an interest in CAD. My dryer received a new, 3D-printed handle while I retired the metal coat hanger from its prior duties. I soon designed a [wall-mount for my hair trimmer](https://www.printables.com/model/354664-corded-electric-hair-trimmer-holder) and a [mount for the blades](https://www.printables.com/model/354663-wahl-hair-clipper-guard-holder), too.
 
 Printing functional parts naturally fostered an interest in engineering plastics (such as ABS) that must be printed in enclosures. Six months later, I completed a wooden enclosure, and I continue to explore the possibilities of printing new materials. My free time now focuses on designing and documenting modular, easy to service 3D printers, wiring harnesses, and enclosures.
 

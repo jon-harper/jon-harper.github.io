@@ -16,7 +16,7 @@ I'm a technology- and information-oriented problem solver. I love to:
 - **script** in Python to simplify tasks; and
 - **learn** new technologies and ideas.
 
-You can find out more on my [about page](about.md).
+You can find out more in my [resume](resume.md).
 
 ## Projects
 
@@ -24,12 +24,26 @@ These are the projects that I currently develop/maintain.
 
 [cards lightbox=false (docs/assets/main_links.yml)]
 
-## Public Efforts and Other Works
+## Public Profiles and Other Works
 
-[cards cols="3" lightbox=false(docs/assets/project_links.yml)]
+
+<div markdown class="jh-grid-container jh-grid-3 jh-link-grid">
+
+[:material-github: GitHub](https://github.com/jon-harper/)
+
+[:material-stack-overflow: Stack Overflow](https://stackoverflow.com/users/4732082/jonspaceharper)
+
+[Printables.com](https://www.printables.com/social/511131-jonspaceharper/about)
+
+[:material-reddit: Reddit](https://reddit.com/user/jonspaceharper)
+
+</div>
 
 ## Contact
 
-How to reach me.
+<div markdown class="jh-grid-container jh-grid-3 jh-link-grid">
 
-[cards cols="3" lightbox=false(docs/assets/contact_links.yml)]
+[:material-linkedin: LinkedIn](https://linkedin.com/in/jonspaceharper)
+
+[:material-email: E-mail](mailto:jonspaceharper@@@gmail)
+</div>
