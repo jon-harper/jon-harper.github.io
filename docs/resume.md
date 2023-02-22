@@ -33,13 +33,14 @@ hide: toc
     - Networks and system administration
 - Actively learns and seeks new solutions, ideas, and techniques.
 
-## Samples of Work
+## Portfolio of Work
 
 ------
-### Documentation
+### Documentation Samples
 
 - **[OmniBox](https://jon-harper.github.io/OmniBox)**: 3D printer electronics case; extensive documentation includes illustrations and full assembly instructions.
 - **[E34M1](https://jon-harper.github.io/E34M1/)**: modified 3D printer toolhead; documentation has a lightweight layout for a small project.
+- **[QExt](https://jon-harper.github.io/)**: C++/Qt library documented with Doxygen.
 
 ### Technical Q&A
 
@@ -63,14 +64,13 @@ Samples of my Stack Overflow contributions:
 ### Career History
 
 **Career Sabbatical** (December 2021 - January 2023)
+!!! note inline end
+    See [Documentation Samples](#documentation-samples) above for more.
 
 - Changed career focus to technical writing.
 - Year-long sabbatical to prepare a cross-discipline portfolio of work.
-- Resulting project, [OmniBox](https://jon-harper.github.io/OmniBox), praised by users for documentation.
-- Produced several smaller works and documented older projects:
-    - [E34M1](https://jon-harper.github.io/E34M1/)
-    - [QExt](https://github.com/jon-harper/QExt/)
-    - This resume
+- Resulting project praised by users for its documentation.
+- Produced several smaller works and documented an older C++/Qt library.
 
 ------
 **Top Shelf Solutions** (2002 - 2021)
