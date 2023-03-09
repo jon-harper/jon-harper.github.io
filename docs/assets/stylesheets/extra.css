@@ -310,3 +310,11 @@
 .jh-grid-container>.jh-grid-img {
     margin: 0 1rem;
 }
+
+.jh-photo {
+    width: 250px;
+    float: right;
+    border-radius: 25px;
+    box-shadow: 1px 1px 3px 3px rgba(0, 0, 0, 0.7);
+    margin: 0rem 0rem 1rem 1rem;
+}

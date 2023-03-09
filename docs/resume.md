@@ -10,11 +10,15 @@ hide: toc
 
 ### Contact
 
-<div markdown class="jh-grid-container jh-grid-3 jh-link-grid">
+[![photo of me](img/headshot.jpg){class="jh-photo"}](img/headshot.jpg)
+
+<div markdown class="jh-grid-container jh-grid-3">
+<div markdown class="jh-grid-container jh-grid-1 jh-link-grid">
 
 [:material-linkedin: LinkedIn](https://linkedin.com/in/jonspaceharper)
 
-[:material-email: E-mail](mailto:jonspaceharper@@@gmail)
+[:material-email: E-mail](mailto:jonspaceharper@gmail.com)
+</div>
 </div>
 
 ### Qualifications
@@ -155,13 +159,15 @@ In addition to normal management and wait staff duties:
 ### Personal
 #### Hobbies
 
-- The C++ language (history and evolution)
-- Functional 3D printing and computer-aided design (CAD)
-- User interface design, typography, and iconography
-- Problem solving with Python
+- Functional 3D printing;
+- 
+- Problem solving with Python; and
+- Heated 3D printing enclosure development.
 
 #### Interests
 
-- Aerospace engineering & fluid dynamics
-- Data storage, compression, and management
-- Emerging technologies
+- The C++ language history and evolution;
+- CNC and additive manufacturing;
+- Digital environmentally-controlled enclosure design;
+- Aerospace engineering & fluid dynamics; and
+- Typography and iconography.
