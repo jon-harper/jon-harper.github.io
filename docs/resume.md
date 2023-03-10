@@ -42,8 +42,8 @@ hide: toc
 ------
 ### Documentation Samples
 
-- **[OmniBox](https://jon-harper.github.io/OmniBox)**: 3D printer electronics case; extensive documentation includes illustrations and full assembly instructions.
-- **[E34M1](https://jon-harper.github.io/E34M1/)**: modified 3D printer toolhead; documentation has a lightweight layout for a small project.
+- **[OmniBox](https://jon-harper.github.io/OmniBox)**: 3D printer electronics case; documentation includes illustrations and assembly instructions.
+- **[E34M1](https://jon-harper.github.io/E34M1/)**: modified 3D printer toolhead; small project with lightweight documentation.
 - **[QExt](https://jon-harper.github.io/)**: C++/Qt library documented with Doxygen.
 
 ### Technical Q&A
@@ -67,9 +67,9 @@ Samples of my Stack Overflow contributions:
 
 ### Career History
 
-**Career Sabbatical** (December 2021 - January 2023)
+**Career Sabbatical** (December 2021 - December 2022)
 !!! note inline end
-    See [Documentation Samples](#documentation-samples) above for more.
+    See [Documentation Samples](#documentation-samples) above for more detail.
 
 - Changed career focus to technical writing.
 - Year-long sabbatical to prepare a cross-discipline portfolio of work.
@@ -79,25 +79,18 @@ Samples of my Stack Overflow contributions:
 ------
 **Top Shelf Solutions** (2002 - 2021)
 
-Served in dual roles for a desktop publishing and operations management business.
+*Assistant Operations Manager (2012-2016)*
 
-*Assistant Operations Manager*
-
-- Designed meeting covers, headers, and other templates to satisfy branding guidelines.
-- Developed generic templates to simplify material generation for new clients.
-- Edited and proofread both internal and external materials for style, content, and branding comformity.
+- Designed meeting covers, headers, and other templates to satisfy client branding guidelines.
+- Developed templates to simplify material generation for new clients.
+- Edited & proofread internal & external materials for style, content, and branding comformity.
 - Followed client technologies and current IT trends.
-- Responsible for all personalized meeting materials.
 - Composed and edited SVP & C-level executive biographies.
-- Provided quality control for printed matter.
-- Assisted in preparation and shipping of meeting materials.
+- Provided quality control for printed matter and assisted in preparation and shipping.
 
-*IT Manager*
+*IT Manager (2003-2021)*
 
-- Oversaw the  lifecycle of a small business network over nearly 20 years:
-    - Responsible for backups, failover plans, and disaster restoration.
-    - Managed transition from local office server to cloud-based solutions.
-    - Provided all other IT needs for a 5- to 8-seat office network.
+- Oversaw the  lifecycle of a small (5-8 seat) business network over nearly 20 years.
 - Assisted with client IT needs:
     - Migrated client (The Harvard Group) to Office 365 and SharePoint in 2011-2012.
     - Transitioned phone and video conferencing IT services to lower overhead and add new capabilities.
@@ -116,7 +109,7 @@ In addition to the duties of a Barista:
     - Labeled and organized all back-of-house inventory.
     - Ensured all equipment regularly calibrated and cleaned; instructed others in care.
 - From 2005-2010, managed weekly store bulk order and overall inventory under two (2) store managers:
-    - Used spreadsheets to track 3- and 6-week rolling usage averages.
+    - Used spreadsheets to track 3- and 6-week rolling averages.
     - Lowered controllable costs and excess inventory; cut order placement time by half.
     - Nearly eliminated controllable product shortages.
 - In 2007-2008, assisted Watters & 121 store opening:

@@ -65,7 +65,6 @@ extra_css:
 
 nav:
   - index.md
-  # - about.md
   - resume.md
   - Projects:
     - projects/omnibox.md
