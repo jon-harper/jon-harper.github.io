@@ -24,17 +24,17 @@ hide: toc
 ### Qualifications
 
 - Skilled writer who strives for precision & brevity.
-- Excels at teaching concepts, translating jargon, and writing for the audience.
+- Excels at explaining concepts, translating technical language, and writing to the audience.
 - Broad technical background knowledge:
-    - Page layout/desktop publishing (Microsoft Word, Adobe Acrobat, Markdown, CSS)
-    - Graphic design (Adobe Photoshop & Illustrator, GIMP)
-    - Content versioning (git, SharePoint)
-    - Software development (C++, Python)
-    - Documentation generation (Doxygen, mkdocs)
-    - Rapid prototyping & CAD (FDM 3D printing, Fusion 360)
-    - Point-of-sale technical support
-    - Sales and inventory management
-    - Networks and system administration
+    - Page layout/desktop publishing (Microsoft Word & PowerPoint, Adobe Acrobat, Markdown, CSS),
+    - Graphic design (Adobe Photoshop & Illustrator, GIMP),
+    - Content versioning (git, SharePoint),
+    - Software development (C++, Python),
+    - Documentation generation (Doxygen, mkdocs),
+    - Rapid prototyping & CAD (FDM 3D printing, Fusion 360),
+    - Point-of-sale technical support,
+    - Sales and inventory management, and
+    - Networking & desktop system administration.
 - Actively learns and seeks new solutions, ideas, and techniques.
 
 ## Portfolio of Work
