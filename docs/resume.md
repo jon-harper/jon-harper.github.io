@@ -8,16 +8,18 @@ hide: toc
 
 # Resume: Jonathan (Jon) Harper
 
-### Contact
+### Links
 
 [![photo of me](img/headshot.jpg){class="jh-photo"}](img/headshot.jpg)
 
-<div markdown class="jh-grid-container jh-grid-3">
+<div markdown class="jh-grid-container jh-grid-2">
 <div markdown class="jh-grid-container jh-grid-1 jh-link-grid">
 
 [:material-linkedin: LinkedIn](https://linkedin.com/in/jonspaceharper)
 
 [:material-email: E-mail](mailto:jonspaceharper@gmail.com)
+
+[:material-download: PDF Resume](assets/Resume_Jonathan_Harper.pdf)
 </div>
 </div>
 
@@ -44,7 +46,7 @@ hide: toc
 
 - **[OmniBox](https://jon-harper.github.io/OmniBox)**: 3D printer electronics case; documentation includes illustrations and assembly instructions.
 - **[E34M1](https://jon-harper.github.io/E34M1/)**: modified 3D printer toolhead; small project with lightweight documentation.
-- **[QExt](https://jon-harper.github.io/)**: C++/Qt library documented with Doxygen.
+- **[QExt](https://jon-harper.github.io/)**: C++/Qt library documented with Doxygen and styled similarly to Qt 5.
 
 ### Technical Q&A
 
