@@ -41,16 +41,24 @@ hide: toc
 
 ## Portfolio of Work
 
-------
-### Documentation Samples
+### GitHub
 
-- **[OmniBox](https://jon-harper.github.io/OmniBox)**: 3D printer electronics case; documentation includes illustrations and assembly instructions.
+Profile: [:material-github: jon-harper](https://github.com/jon-harper)
+
+Notable Projects:
+
+- **[OmniBox](https://jon-harper.github.io/OmniBox)**: 3D printer electronics case; documentation includes written, illustrated, and video assembly instructions.
 - **[E34M1](https://jon-harper.github.io/E34M1/)**: modified 3D printer toolhead; small project with lightweight documentation.
 - **[QExt](https://jon-harper.github.io/)**: C++/Qt library documented with Doxygen and styled similarly to Qt 5.
 
-### Technical Q&A
+### Stack Overflow
 
-Samples of my Stack Overflow contributions:
+Profile: [:material-stack-overflow: jonspaceharper](https://stackoverflow.com/users/4732082/jonspaceharper)
+
+- \>4000 reputation
+- Primary topics: C++, Python, Qt, PyQt
+
+Notable Contributions:
 
 - Question: ["Replacing constants: when to use static constexpr and inline constexpr?"](https://stackoverflow.com/questions/54466591/replacing-constants-when-to-use-static-constexpr-and-inline-constexpr)
 - Question/Answer: ["What is the purpose of operator RestrictedBool in QScopedPointer?"](https://stackoverflow.com/questions/37012710/what-is-the-purpose-of-operator-restrictedbool-in-qscopedpointer)
@@ -59,24 +67,18 @@ Samples of my Stack Overflow contributions:
 - Answer: ["PyQt: is there an better way to set objectName in code?"](https://stackoverflow.com/questions/50726510/pyqt-is-there-an-better-way-to-set-objectname-in-code)
 - Answer: ["What is the asterisk for in signal and slot connections?"](https://stackoverflow.com/questions/38456924/what-is-the-asterisk-for-in-signal-and-slot-connections/38457771)
 
-### Public Profiles
-
-[:material-github: GitHub](https://github.com/jon-harper)
-
-[:material-stack-overflow: Stack Overflow](https://stackoverflow.com/users/4732082/jonspaceharper)
-
 ## Experience
 
 ### Career History
 
-**Career Sabbatical** (December 2021 - December 2022)
-!!! note inline end
-    See [Documentation Samples](#documentation-samples) above for more detail.
+**Career Development** (December 2021 - December 2022)
 
 - Changed career focus to technical writing.
-- Year-long sabbatical to prepare a cross-discipline portfolio of work.
-- Resulting project praised by users for its documentation.
-- Produced several smaller works and documented an older C++/Qt library.
+- Prepared a cross-discipline portfolio of public work.
+- Revited old projects to update documentation.
+- Fully documented OmniBox through five (5) major releases and one (1) minor release:
+    - Assembly guide contains both written/illustrated and video instructions.
+    - Projects repeatedly praised for documentation quality.
 
 ------
 **Top Shelf Solutions** (2002 - 2021)
