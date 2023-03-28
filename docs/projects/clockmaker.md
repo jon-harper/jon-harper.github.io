@@ -22,4 +22,12 @@ This project is still in initial stages. Content is added as it is completed but
 
 ## Links
 
-[cards cols="3" lightbox=false(docs/assets/clockmaker_links.yml)]
+<div markdown class="jh-grid-container jh-grid-2">
+<div markdown class="jh-card">
+<div markdown class="jh-grid-container jh-link-grid">
+[Clockmaker Project Page](https://jon-harper.github.io/clockmaker-project)
+
+[GitHub Repository](https://github.com/jon-harper/clockmaker-project)
+</div>
+</div>
+</div>

@@ -52,7 +52,15 @@ Model corruption halted immediate further work, but directly led to the developm
 
 ## Links
 
-[cards lightbox=false cols=3(docs/assets/clock3_links.yml)]
+<div markdown class="jh-grid-container jh-grid-2">
+<div markdown class="jh-card">
+<div markdown class="jh-grid-container jh-link-grid">
+[Clock 3 Project Page](https://jon-harper.github.io/clock-3)
+
+[GitHub Repository](https://github.com/jon-harper/clock-3)
+</div>
+</div>
+</div>
 
 Additional tools from this project:
 

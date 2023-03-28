@@ -49,7 +49,6 @@ Notable Projects:
 
 - **[OmniBox](https://jon-harper.github.io/OmniBox)**: 3D printer electronics case; documentation includes written, illustrated, and video assembly instructions.
 - **[E34M1](https://jon-harper.github.io/E34M1/)**: modified 3D printer toolhead; small project with lightweight documentation.
-- **[QExt](https://jon-harper.github.io/)**: C++/Qt library documented with Doxygen and styled similarly to Qt 5.
 
 ### Stack Overflow
 
@@ -58,7 +57,7 @@ Profile: [:material-stack-overflow: jonspaceharper](https://stackoverflow.com/us
 - \>4000 reputation
 - Primary topics: C++, Python, Qt, PyQt
 
-Notable Contributions:
+Sample Contributions:
 
 - Question: ["Replacing constants: when to use static constexpr and inline constexpr?"](https://stackoverflow.com/questions/54466591/replacing-constants-when-to-use-static-constexpr-and-inline-constexpr)
 - Question/Answer: ["What is the purpose of operator RestrictedBool in QScopedPointer?"](https://stackoverflow.com/questions/37012710/what-is-the-purpose-of-operator-restrictedbool-in-qscopedpointer)
@@ -78,7 +77,7 @@ Notable Contributions:
 - Revited old projects to update documentation.
 - Fully documented OmniBox through five (5) major releases and one (1) minor release:
     - Assembly guide contains both written/illustrated and video instructions.
-    - Projects repeatedly praised for documentation quality.
+    - OmniBox documentation praised by users for quality and thoroughness.
 
 ------
 **Top Shelf Solutions** (2002 - 2021)

@@ -18,10 +18,11 @@ OmniBox focuses on reusability, ease of service, and exceptional documentation. 
 - Broad support for common hardware;
 - Continuity and compatibility between releases (to be standardized with version 1.0);
 - Rich, clear documentation:
-    - Accessible format;
-    - Versioned documentation;
-    - Bill of materials that accomodates all configurations; and
-    - Illustrated assembly guide with video demonstrations.
+    - Accessibly formatted;
+    - Documentation for each release;
+    - Full bill of materials;
+    - Visual guided tour; and
+    - Assembly guide with video overviews and illustrated, step-by-step instructions.
 - Fusion 360 framework:
     - All parts are tagged with internal part numbers;
     - Bill of Material generation is partially automated through Python scripts;
@@ -35,7 +36,15 @@ As of February 2023, OmniBox has six public releases; v0.9.9 is the most recent.
 
 ## Links
 
-[cards cols="3" lightbox=false (docs/assets/omnibox_links.yml)]
+<div markdown class="jh-grid-container jh-grid-2">
+<div markdown class="jh-card">
+<div markdown class="jh-grid-container jh-link-grid">
+[OmniBox Documentation](https://jon-harper.github.io/OmniBox)
+
+[GitHub Repository](https://github.com/jon-harper/OmniBox)
+</div>
+</div>
+</div>
 
 ## Gallery
 
