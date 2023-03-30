@@ -156,7 +156,6 @@ In addition to normal management and wait staff duties:
 #### Hobbies
 
 - Functional 3D printing;
-- 
 - Problem solving with Python; and
 - Heated 3D printing enclosure development.
 
