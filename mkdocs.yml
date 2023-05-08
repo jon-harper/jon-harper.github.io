@@ -52,9 +52,6 @@ extra:
     - icon: fontawesome/brands/reddit
       link: https://reddit.com/user/jonspaceharper
       name: "Reddit: u/jonspaceharper"
-    - icon: fontawesome/regular/newspaper
-      link: https://post.news/jonspaceharper
-      name: "Post.news: jonspaceharper"
     - icon: simple/kofi
       link: https://ko-fi.com/jonspaceharper
       name: Support me on Ko-Fi!
@@ -66,9 +63,8 @@ extra_css:
 nav:
   - index.md
   - resume.md
-  - Projects:
-    - projects/omnibox.md
-    - projects/e34m1.md
-    - projects/clockmaker.md
-    - projects/clock3.md
+  - Documentation:
+    - OmniBox: https://jon-harper.github.io/OmniBox
+    - E34M1: https://jon-harper.github.io/E34M1
+    - The Clockmaker Project: https://jon-harper.github.io/clockmaker-project
 
