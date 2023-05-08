@@ -70,25 +70,25 @@ Sample Contributions:
 
 ### Career History
 
-**Career Development** (December 2021 - December 2022)
+**Career Development** (December 2021 - May 2023)
 
-- Changed career focus to technical writing.
-- Prepared a cross-discipline portfolio of public work.
-- Revited old projects to update documentation.
+- Pivoted career focus to technical writing; prepared a cross-discipline portfolio of public work.
 - Fully documented OmniBox through five (5) major releases and one (1) minor release:
     - Assembly guide contains both written/illustrated and video instructions.
     - OmniBox documentation praised by users for quality and thoroughness.
+- Developed and documented E34M1:
+    - Early adopters acted as stakeholders and set project goals.
+    - Tracked and documented all user contributions.
 
 ------
 **Top Shelf Solutions** (2002 - 2021)
 
 *Assistant Operations Manager (2012-2016)*
 
-- Designed meeting covers, headers, and other templates to satisfy client branding guidelines.
-- Developed templates to simplify material generation for new clients.
-- Edited & proofread internal & external materials for style, content, and branding comformity.
-- Followed client technologies and current IT trends.
-- Composed and edited SVP & C-level executive biographies.
+- Designed templates within client branding guidelines.
+- Proofread & edited internal & external materials for style, content, and branding comformity.
+- Closely followed client technologies and current IT trends.
+- Composed and edited SVP & C-level executive biographies, presentations, and other meeting materials.
 - Provided quality control for printed matter and assisted in preparation and shipping.
 
 *IT Manager (2003-2021)*
@@ -99,6 +99,7 @@ Sample Contributions:
     - Transitioned phone and video conferencing IT services to lower overhead and add new capabilities.
     - Documented each transition process, including installation and how-to guides.
     - Provided phone and email support to remote users and investigated network and software issues.
+- Provided Operations suport as-needed for a small business.
 
 ------
 
