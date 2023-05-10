@@ -36,7 +36,7 @@ A modular, 3D-printable electronics case for 3D printers.
 </div>
 <div markdown class="jh-card jh-grid-container jh-grid-2">
 <div markdown class="jh-grid-img">
-[![omnibox](img/omnibox.png){width="250px"}](https://jon-harper.github.io/E34M1)
+[![omnibox](img/e34m1/render.jpg)](https://jon-harper.github.io/E34M1)
 </div>
 <div markdown class="jh-grid-para">
 
