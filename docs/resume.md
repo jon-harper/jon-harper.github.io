@@ -10,7 +10,7 @@ hide: toc
 
 ### Links
 
-[![photo of me](img/headshot.jpg){class="jh-photo"}](img/headshot.jpg)
+![photo of me](img/headshot.jpg){class="jh-photo skip-lightbox"}
 
 <div markdown class="jh-grid-container jh-grid-2">
 <div markdown class="jh-grid-container jh-grid-1 jh-link-grid">
@@ -25,9 +25,10 @@ hide: toc
 
 ### Qualifications
 
-- Skilled writer who strives for precision & brevity.
+- Experienced IT professional and business writer seeking an entry-level technical writer role.
 - Excels at explaining concepts, translating technical language, and writing to the audience.
-- Broad technical background knowledge:
+- Actively seeks to learn new solutions and techniques.
+- Broad technical skill base:
     - Page layout/desktop publishing (Microsoft Word & PowerPoint, Adobe Acrobat, Markdown, CSS),
     - Graphic design (Adobe Photoshop & Illustrator, GIMP),
     - Content versioning (git, SharePoint),
@@ -35,9 +36,7 @@ hide: toc
     - Documentation generation (Doxygen, mkdocs),
     - Rapid prototyping & CAD (FDM 3D printing, Fusion 360),
     - Point-of-sale technical support,
-    - Sales and inventory management, and
     - Networking & desktop system administration.
-- Actively learns and seeks new solutions, ideas, and techniques.
 
 ## Portfolio of Work
 
@@ -45,10 +44,11 @@ hide: toc
 
 Profile: [:material-github: jon-harper](https://github.com/jon-harper)
 
-Notable Projects:
+Notable Documentation Projects:
 
 - **[OmniBox](https://jon-harper.github.io/OmniBox)**: 3D printer electronics case; documentation includes written, illustrated, and video assembly instructions.
-- **[E34M1](https://jon-harper.github.io/E34M1/)**: modified 3D printer toolhead; small project with lightweight documentation.
+- **[E34M1](https://jon-harper.github.io/E34M1/)**: modified toolhead for ZeroG 3D printers; also provides multimedia assembly instructions.
+- **[SUAFT](https://jon-harper.github.io/air_filter)**: activated carbon & HEPA filter for enclosed printers; documentation is simple and concise.
 
 ### Stack Overflow
 
