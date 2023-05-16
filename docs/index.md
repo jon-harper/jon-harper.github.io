@@ -45,6 +45,18 @@ A modular, 3D-printable electronics case for 3D printers.
 The EVA 3 toolhead adapted for ZeroG Mercury One 3D printers.
 </div>
 </div>
+<div markdown class="jh-card jh-grid-container jh-grid-2">
+<div markdown class="jh-grid-img">
+[![suaft](img/suaft.png){width="350px"}](https://jon-harper.github.io/air_filter)
+</div>
+<div markdown class="jh-grid-para">
+
+## [SUAFT](https://jon-harper.github.io/air_filter)
+
+A combination activated carbon and HEPA filter for enclosed 3D printing.
+</div>
+</div>
+
 </div>
 
 ## Public Profiles and Other Works
