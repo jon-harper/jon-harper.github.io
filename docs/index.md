@@ -6,6 +6,8 @@ date: 2022-06-16
 hide: toc
 ---
 
+# Welcome!
+
 ![What I May or May Not Look Like](img/doug.png){ data-title="I Kinda Look Like This" data-description="Sorta." width="250px" align="right" }
 
 I'm a technology- and information-oriented problem solver. I love to:
@@ -21,7 +23,7 @@ You can find out more in my [resume](resume.md).
 
 ## Projects
 
-These are some of the larger projects that I currently develop & maintain.
+These are some of the projects that I currently develop & maintain.
 
 <div markdown class="jh-grid-container jh-grid-1">
 <div markdown class="jh-card jh-grid-container jh-grid-2">
