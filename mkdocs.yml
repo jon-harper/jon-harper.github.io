@@ -17,21 +17,29 @@ theme:
   features:
     - navigation.instant
     - navigation.sections
+    - navigation.tracking
+    - toc.integrate
+    - toc.top
 
 markdown_extensions:
   - admonition
   - attr_list
   - abbr
+  - footnotes
   - md_in_html
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.superfences
   - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true 
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - neoteroi.cards
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 plugins:
   - glightbox:
@@ -63,8 +71,12 @@ extra_css:
 nav:
   - index.md
   - resume.md
+  - Articles:
+    - abs.md
+
   - Documentation:
     - OmniBox: https://jon-harper.github.io/OmniBox
     - E34M1: https://jon-harper.github.io/E34M1
+    - SUAFT: https://jon-harper.github.io/air_filter
     - The Clockmaker Project: https://jon-harper.github.io/clockmaker-project
 
