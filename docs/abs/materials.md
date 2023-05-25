@@ -10,9 +10,11 @@ date: 2023-05-19
 
 ## Material Comparisons
 
-### Print Temperatures
+Material composition varies between manufacturers and product lines. Filament manufacturers consider nozzle temperature when choosing a base resin, particularly for materials that have high requirements. As a result, the [Print Temperatures](#print-temperatures) section is a general guide developed by comparing multiple sources.
 
-Material composition varies between manufacturers and product lines. Many manufacturers tweak a product's formula for lower nozzle temperatures, particularly for filaments with high requirements. As a result, these numbers are only a general guide developed by comparing multiple sources.
+Values are sourced from [Polymaker](https://us.polymaker.com) for the remaining tables on this page. Polymaker's products include Technical Data Sheets, they carry a wide range of materials, and they are competitively priced.
+
+### Print Temperatures
 
 | Material | Nozzle Temp. | Bed Temp. | Air Temp. | Notes |
 |---|---|---|---|---|
@@ -26,8 +28,6 @@ Material composition varies between manufacturers and product lines. Many manufa
 | PC | 260-300°C | 80-120°C | 45°C+ | Must be annealed after printing to relieve stress. |
 
 ### Price
-
-The filaments below are primarily from [Polymaker](https://us.polymaker.com). Polymaker was chosen because they carry a wide range of materials at a market prices and offer Technical Data Sheets for their products.
 
 | Material | Unit Price ($/kg) | Source Filament |
 |----------|-------------------|-----------------|

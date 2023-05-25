@@ -19,8 +19,10 @@ theme:
     - navigation.sections
     - navigation.tracking
     - navigation.footer
-    - navigation.expand
+    # - navigation.expand
+    - navigation.indexes
     - toc.top
+    - toc.follow
 
 markdown_extensions:
   - admonition
@@ -76,6 +78,7 @@ nav:
   - Articles:
     - ABS 3D Printing:
       - abs/index.md
+      - abs/about.md
       - abs/printing.md
       - abs/materials.md
 
