@@ -18,6 +18,8 @@ theme:
     - navigation.instant
     - navigation.sections
     - navigation.tracking
+    - navigation.footer
+    - navigation.expand
     - toc.top
 
 markdown_extensions:
@@ -70,8 +72,12 @@ extra_css:
 nav:
   - index.md
   - resume.md
+
   - Articles:
-    - abs.md
+    - ABS 3D Printing:
+      - abs/index.md
+      - abs/printing.md
+      - abs/materials.md
 
   - Documentation:
     - OmniBox: https://jon-harper.github.io/OmniBox
