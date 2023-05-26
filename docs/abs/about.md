@@ -41,7 +41,7 @@ For purposes of this article, we will discuss three different categories of 3D-p
     - PETG (polyethylene terephthalate glycol)
     - TPU (thermoelastic polyurethane)[^a2]
 - Engineering plastics:
-    - **ABS (acrylonitrile butadiene styrene)**
+    - *ABS (acrylonitrile butadiene styrene)*
     - ASA (acrylonitrile budadient acrylate)
     - PA (Nylon, polyamide)
     - PC (polycarbonate)
@@ -80,7 +80,7 @@ Of this list, the #4 and #5 require an enclosure and #3 typically needs one.
 
 Note that the last item, uniform air temperature, is *not* related to using a part cooling fan; instead, it refers to using fans to evenly distribute heat around the print environment. This is largely beneficial when printing larger parts that may otherwise cool unevenly.
 
-The specific requirements for printing ABS are [on the next page](printing.md#requirements).
+The [specific requirements](printing.md#requirements) for printing ABS are on the next page.
 
 ### High-End Plastics
 
@@ -96,7 +96,7 @@ This article does not delve into high-end plastics, but they are important becau
 
 ## Material Considerations
 
-One of the largest uses of ABS is injection molding. Injection molding allows mass production at extremely low per-unit costs with a high up-front cost for the molds and prototype(s).[^b1]
+ABS is widely used in injection molding. Injection molding allows mass production at extremely low per-unit costs with a high up-front cost for the molds and prototype(s).[^b1]
 
 Prototyping ABS parts for injection molding was one of the first commercial uses of FDM 3D printing. 3D printed parts can be nearly as strong as an injection molded equivalents; this allows cheap prototypes before committing to an expensive mold. Under the right conditions, ABS is also easy to 3D print.
 
@@ -110,8 +110,8 @@ Below are some general properties of ABS plastic. We'll get into more detail in 
 - Thermoplastic (can be heated repeatedly without damage)
 - Affordable and easily sourced
 - Rigid & impact resistant
-- High continuous service temperature
-- Easily machined
+- High continuous use temperature
+- Can be machined
 - Can be painted 
 - Can be chemically glued
 - Good heat insulator
@@ -128,17 +128,17 @@ Below are some general properties of ABS plastic. We'll get into more detail in 
 - Fair chemical resistance
 - Difficult to recycle for consumers
 - Poor solvent resistance
-- Not food safe
-- Burning produces toxic off-gassing
+- Most resins are not food safe
+- Combustible under open flame
 
 </div>
 </div>
 
-ABS has several properties in the "Pros" list that are useful for manufacturers, particularly how easily it can be shaped and machined. ABS tolerates most temperatures in the home outside of open flame, though food safety and burning when exposed to open flame are both concerns.
+ABS has several properties in the "Pros" list that are useful for manufacturers, particularly how easily it can be shaped and machined. ABS tolerates most everyday temperatures, though food safety and burning when exposed to open flame are both concerns.
 
-Since both food safety and solvents are a problem, ABS is generally kept away from garages and kitchens. Lastly, ABS degrades under UV light and will yellow and crack over time when left in sunlight. A UV-stable substitute, ASA, is discussed in more detail under [Alternatives](materials.md#alternatives).
+Since both food safety and solvents are a problem, ABS is generally kept away from garages and kitchens. Lastly, ABS degrades is not UV-stable and yellows and cracks over time when left in sunlight. A UV-stable and weather-resistant substitute, ASA, is discussed in more detail under [Alternatives](materials.md#alternatives).
 
-ABS recycling is widely performed but is generally not available to consumers.
+Pre-consumer ABS recycling is performed, but ABS recycling is not generally available to consumers.
 
 [^a3]:
     For this reason, properties of ABS and many other plastics (density, etc.) are often given within a range.
@@ -182,3 +182,5 @@ ABS recycling is widely performed but is generally not available to consumers.
 *[delamination]: Delamination: separation of a 3D print's adjacent layers due to material warp. A print with delamination is structurally weak and should be discarded.
 *[anneal]: Anneal: To heat a material and allow to cool slowly in order to relieve internal stresses. Annealing plastic often takes hours.
 *[annealed]: Anneal: To heat a material and allow to cool slowly in order to relieve internal stresses. Annealing plastic often takes hours.
+*[warp]:
+    Warp: Warp is deformation of printed plastic from uneven cooling. Warp typically affects parts at the edges and causes "lift" or "curling".

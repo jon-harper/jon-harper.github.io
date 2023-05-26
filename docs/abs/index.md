@@ -23,6 +23,12 @@ An FDM 3D printer, manufactured by Prusa. Source: [European Space Agency](https:
 </figcaption>
 </figure>
 
+## Table of Contents
+
+1. [About ABS](about.md)
+2. [Printing ABS](printing.md)
+3. [Material Comparisons](materials.md)
+
 
 [^a1]: Specifically, the Creality Ender 3 Pro lists for around $100USD. Higher quality entry-level machines can be found for $250-$300.
 
@@ -53,3 +59,5 @@ An FDM 3D printer, manufactured by Prusa. Source: [European Space Agency](https:
 *[delamination]: Delamination: separation of a 3D print's adjacent layers due to material warp. A print with delamination is structurally weak and should be discarded.
 *[anneal]: Anneal: To heat a material and allow to cool slowly in order to relieve internal stresses. Annealing plastic often takes hours.
 *[annealed]: Anneal: To heat a material and allow to cool slowly in order to relieve internal stresses. Annealing plastic often takes hours.
+*[warp]:
+    Warp: Warp is deformation of printed plastic from uneven cooling. Warp typically affects parts at the edges and causes "lift" or "curling".
