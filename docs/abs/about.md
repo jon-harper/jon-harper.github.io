@@ -1,20 +1,20 @@
 ---
-title: 1. About ABS
+title: Part 1. About ABS
 summary: Material properties and considerations for printing with ABS.
 authors: Jon Harper
 date: 2023-05-19
 # hide: toc
 ---
 
-*ABS material properties and considerations in FDM 3D printing, page 1 of 3.*
+# Part 1: About ABS
 
 ## What is ABS?
 
 ABS is a type of thermoplastic. It does not have outstanding performance, but rather offers mostly good characteristics across a broad range.
 
-The name "acrylonitrile butadiene styrene" is an ingredient list, as ABS is made by polymerizing (chemically joining into long chains) these three materials, called *monomers*. Varying the ratio of each component produces slightly different characteristics.[^a3] Other polymers can be added to further tweak the final product's properties.
+The name "acrylonitrile butadiene styrene" is an ingredient list, as ABS is made by polymerizing (chemically joining into long chains) these three materials, called *monomers*. Varying the ratio of each component produces slightly different characteristics. For this reason, properties of ABS and other polymers are often given within a range. Other polymers can be added to further tweak the final product's properties.
 
-ABS is noteworthy for being easy and affordable to manufacture. Because it is an amorphous polymer, when heated it can be extruded and molded like glass. It is machinable at room temperature and can be chemically welded with many solvents. Combining these techniques allows manufacturers multiple ways to fabricate parts with ABS and contributes to the popularity of ABS in manufacturing.
+ABS is noteworthy for being easy and affordable to manufacture. Because it is an amorphous polymer, when heated it can be extruded and molded like glass. It is machinable at room temperature and can be chemically welded with common solvents like acetone. Combining these techniques allows manufacturers multiple ways to fabricate parts with ABS and contributes to the popularity of ABS in manufacturing.
 
 <figure markdown>
 ![a hand holding plastic resin](img/resin.jpg)
@@ -23,12 +23,12 @@ A bag of resin pellets. Source: [SuSanA Secretariat](https://www.flickr.com/peop
 </figcaption>
 </figure>
 
-Manufacturers of base ABS material create pellets called *plastic resin*. From there, manufactures melt the material, optionally adding colorants or other materials to modify the properties of the final product. The melted material is then formed into shape; for FDM filament manufacturers, this means stretching the material into filament (long, thin cylinders of a uniform diameter) and rolling them onto spools.
+Manufacturers of base ABS material create pellets called *plastic resin*. From there, manufactures melt the material, optionally adding colorants or other additives to modify the properties of the final product. The melted material is then formed into shape; for FDM filament manufacturers, this means stretching the material into filament (long, thin cylinders of a uniform diameter) and rolling them onto spools.
 
 <figure markdown>
 ![a roll of Orange Prusament filament](img/filament.jpg)
 <figcaption markdown>
-A spool roll of Orange Prusament filament. Source: Prusa Research
+A spool roll of Orange Prusament filament. Filament is normally available in 1.75mm and 2.85mm diameters. Source: Prusa Research
 </figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ Entry-level plastics have wide melt ranges and not all require a heated bed.
 
 Engineering plastics, including ABS, have widespread use in other manufacturing industries. Engineering plastics print at higher temperatures and require more environmental control than entry-level materials:
 
-1. Nozzle temperatures 230°C - 280°C (446°F - 536°F);
+1. Nozzle temperatures up to 285°C (545°F);
 2. Heated bed temperatures up to 110°C (248°F);
 3. Air temperatures 40°C (104°F) or higher;
 4. Air filtration or venting; and
@@ -89,14 +89,14 @@ Lastly, there are high-end plastics. Materials in this category are often used a
 As a rough cutoff, engineering plastics end and high-end plastics begin when a material requires any one of the the following:
 
 - Nozzle temperatures over 280°C (536°F);
-- Heated bed temperature over 110°C (230°F); and/or
+- Heated bed temperature over 120°C (248°F); and/or
 - Air temperatures over 60°C (140°F).
 
-This article does not delve into high-end plastics, but they are important because ABS is used as an affordable substitute (and a much more easily printed one).
+This article does not delve into high-end plastics, as they are outside the capabilities of all but the most expensive FDM printers.
 
 ## Material Considerations
 
-ABS is widely used in injection molding. Injection molding allows mass production at extremely low per-unit costs with a high up-front cost for the molds and prototype(s).[^b1]
+ABS is widely used in injection molding. Injection molding allows mass production at low per-unit costs with a high up-front cost for the molds and prototype(s).[^b1]
 
 Prototyping ABS parts for injection molding was one of the first commercial uses of FDM 3D printing. 3D printed parts can be nearly as strong as an injection molded equivalents; this allows cheap prototypes before committing to an expensive mold. Under the right conditions, ABS is also easy to 3D print.
 
@@ -140,9 +140,6 @@ Since both food safety and solvents are a problem, ABS is generally kept away fr
 
 Pre-consumer ABS recycling is performed, but ABS recycling is not generally available to consumers.
 
-[^a3]:
-    For this reason, properties of ABS and many other plastics (density, etc.) are often given within a range.
-
 [^a2]: TPU is a large family of polymers with equally mechanical properties. Most TPU sold as filament is flexible and has a Shore A hardness of 90-95. Flexibile filament imposes unique requirements that are outside the scope of this article.
 
 [^a4]: Without significant modification.
@@ -184,3 +181,4 @@ Pre-consumer ABS recycling is performed, but ABS recycling is not generally avai
 *[annealed]: Anneal: To heat a material and allow to cool slowly in order to relieve internal stresses. Annealing plastic often takes hours.
 *[warp]:
     Warp: Warp is deformation of printed plastic from uneven cooling. Warp typically affects parts at the edges and causes "lift" or "curling".
+*[resin]: Plastic resin: plastic pellets that are the source material for industrially-made plastics, including filament. They are melted and formed into a desired shape, then allowed to cool.

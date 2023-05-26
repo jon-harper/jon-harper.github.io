@@ -1,18 +1,36 @@
 ---
-title: 3. Material Comparisons
+title: Part 3. Material Comparisons
 summary: Comparison of commonly-printed materials.
 authors: Jon Harper
 date: 2023-05-19
 # hide: toc
 ---
 
-*ABS material properties and considerations in FDM 3D printing, page 3 of 3.*
+# Part 3: Material Comparisons
+
+## Alternatives
+
+Before substituting a more expensive or difficult-to-print material, consider a different formulation of ABS or a blend with additives. The simplest way to modify the characteristics of an ABS resin is to vary the ratio of the three ingredient monomers, and this is the reason different manufacturers offer ABS with varying properties. For the same reason, good filament manufacturers offer Technical Data Sheets on their products.
+
+### ASA and ABS Blends
+
+One issue with ABS is that it degrades under UV light (particularly direct sunlight). ASA is an alternative polymer that behaves much like ABS when printed, offers a higher heat tolerance, weather-resistance, and UV-stability. It is, however, more expensive than ABS, harder to source, and generally available in fewer colors.
+
+Instead of completely replacing with ASA or another filament, a blended resin can be used. Filament made from resin with additives can greatly enhance specific properties. Materials commonly added to ABS include PMMA (clarity), PC (heat resistance), and ASA (UV stability).
+
+### Fiber Fills
+
+Another option are fiber "fills". In the past five or so years, manufacturers began selling filaments with up to 30% fiber content. These glass- and [carbon-fiber](https://atomicfilament.com/collections/abs-3d-filament/products/carbon-fiber-ultra-black-abs) doped filaments have higher heat resistance, stiffness, and dimensional stability. Carbon-fiber-filled ABS (CF-ABS) is the most common form of ABS fill.
+
+Both CF-ABS and GF-ABS have similar print requirements to their non-filled counterparts, but notably require a hardened metal nozzle. Most FDM printers use brass for nozzles; the fibers are harder than brass and will erode a non-hardened nozzle.
+
+More ABS blends and alternatives are likely to make their way into filament. As FDM 3D printing popularity grew in the last decade, filament manufactures increased the variety of resins used to make filament. This trend will likely continue: plastic resin manufacturers sell a much wider array of resins than currently make their way into filaments. For example, Sabic distributes [more than 20 ABS resins grades](https://www.sabic.com/en/products/polymers/acrylonitrile-butadiene-styrene-abs/cycolac-resin). Larger filament manufacturers now carry filament in three or more ABS resin grades, but this is a far cry from Sabic's full catalogue.
 
 ## Material Comparisons
 
-Material composition varies between manufacturers and product lines. Filament manufacturers consider nozzle temperature when choosing a base resin, particularly for materials that have high requirements. As a result, the [Print Temperatures](#print-temperatures) section is a general guide developed by comparing multiple sources.
+Filament manufacturers consider nozzle temperature when choosing a base resin for their filament, particularly for materials that have high requirements. As a result, the [Print Temperatures](#print-temperatures) section contains averages developed from multiple sources.
 
-Values are sourced from [Polymaker](https://us.polymaker.com) for the remaining tables on this page. Polymaker's products include Technical Data Sheets, they carry a wide range of materials, and they are competitively priced.
+Values are sourced from [Polymaker](https://us.polymaker.com) for the remaining tables on this page. Polymaker was chosen because their products include Technical Data Sheets, they carry a wide range of materials, and they are competitively priced.
 
 ### Print Temperatures
 
@@ -43,12 +61,12 @@ Values are sourced from [Polymaker](https://us.polymaker.com) for the remaining 
 
 ### General Properties
 
-| Property/Material      | ABS  | PA6  | PC   | PLA  | PETG |
+| Property/Material      | ABS  | PA6  | PC   | PETG | PLA  |
 |------------------------|------|------|------|------|------|
-| Density (g/cm^3^)      | 1.12 | 1.12 | 1.19 | 1.19 | 1.25 |
-| HDT @ 0.45MPa (°C)     | 100  | 111  | 111  | 60   | 78   |
-| HDT @ 1.8MPa (°C)      | 98   | 70   | 107  | 58   | 75   |
-| Vicat Softening Temperature (°C) | 104 | 180 | 120 | 158 | 84 |
+| Density (g/cm^3^)      | 1.12 | 1.12 | 1.19 | 1.25 | 1.19 |
+| HDT @ 0.45MPa (°C)     | 100  | 111  | 111  | 78   | 60   |
+| HDT @ 1.8MPa (°C)      | 98   | 70   | 107  | 75   | 58   |
+| Vicat Softening Temperature (°C) | 104 | 180 | 120 | 84 | 158 |
 
 *Source: Polymaker*
 
@@ -56,35 +74,23 @@ Values are sourced from [Polymaker](https://us.polymaker.com) for the remaining 
 
 The layers used to make FDM printed materials cause the finished material to have different properties on the X- and Y-axes (horizontal) than the Z-axis (vertical), so values are given here for each (where available).
 
-| Property                         | ABS  | PA6  | PC   | PLA  | PETG |
+| Property                         | ABS  | PA6  | PC   | PETG | PLA  |
 |----------------------------------|------|------|------|------|------|
-| XY Axis Tensile Strength (MPa)   | 33   | 66   | 63   | 52   | 32   |
-| Z Axis Tensile Strength (MPa)    | 25   | 43   | 42   | 41   | 13   |
-| XY Axis Young's Modulus (GPa)    | 2.17 | 2.22 | 2.31 | 3.43 | 1.47 |
-| Z Axis Young's Modulus  (GPa)    | 1.84 | 2.56 | 2.26 | 3.01 | 1.09 |
-| Flexural Modulus (GPa)           | 2.8  | 1.67 | 2.2  | 3.28 | 1.17 |
-| Elongation at Break (%)          | 2.4  | 4.6  | 2.2  | 1.8  | 1.3  |
-| Charpy Impact Test (KJ/m^2^)      | 12.6 | 17.2 | 3.4  | 3.3  | 5.1  |
+| XY Axis Tensile Strength (MPa)   | 33   | 66   | 63   | 32   | 52   |
+| Z Axis Tensile Strength (MPa)    | 25   | 43   | 42   | 13   | 41   |
+| XY Axis Young's Modulus (GPa)    | 2.17 | 2.22 | 2.31 | 1.47 | 3.43 |
+| Z Axis Young's Modulus  (GPa)    | 1.84 | 2.56 | 2.26 | 1.09 | 3.01 |
+| Flexural Modulus (GPa)           | 2.8  | 1.67 | 2.2  | 1.17 | 3.28 |
+| Elongation at Break (%)          | 2.4  | 4.6  | 2.2  | 1.3  | 1.8  |
+| Charpy Impact Test (KJ/m^2^)      | 12.6 | 17.2 | 3.4  | 5.1  | 3.3  |
 
 *Source: Polymaker*
-
-### Alternatives
-
-Before substituting another material, consider a different formulation of ABS or a blend with additives. The simplest way to modify the characteristics of an ABS resin is to vary the ratio of the three ingredient monomers, and this is the reason different manufacturers offer ABS with varying properties. For the same reason, good filament manufacturers offer Technical Data Sheets on their products.
-
-One issue with ABS is that it degrades under UV light (particularly direct sunlight). ASA is an alternative that behaves much like ABS when printed, offers a higher heat tolerance, weather-resistance, and UV-stability. It is, however, more expensive than ABS, harder to source, and generally available in fewer colors.
-
-Filament made from resin with additives can greatly enhance specific properties, such as [flame retardance](https://atomicfilament.com/collections/abs-3d-filament/products/flame-retardant-black-abs-filament?variant=39943214891069) and [resistance to ESD](https://www.matterhackers.com/store/l/3dxtech-3dxstat-esd-safe-abs-filament/sk/MA9K94YF). Materials commonly added to ABS include PMMA (clarity), PC (heat resistance), and ASA (UV stability).
-
-Another option are fiber "fills". In the past five or so years, manufacturers began selling filaments with up to 30% fiber content. These glass- and [carbon-fiber](https://atomicfilament.com/collections/abs-3d-filament/products/carbon-fiber-ultra-black-abs) doped filaments have higher heat resistance, stiffness, and dimensional stability. Carbon-fiber-filled ABS (CF-ABS) is the most commonly found form of ABS fill.
-
-More ABS blends and alternatives are likely to make their way into filament. Thermoplastic resin manufacturers ([Sabic](https://www.sabic.com/en/products/polymers/acrylonitrile-butadiene-styrene-abs) is one example) sell a much wider array of resins than currently make their way into filaments. As FDM 3D printing popularity grew in the last decade, filament manufactures greatly increased the variety of resins used to make filament; this trend will likely continue.
 
 ## Summary
 
 ABS plastic is an excellent all-purpose plastic for 3D printing functional parts. Although it requires an enclosure to print safely and well, it is both the easiest engineering-grade plastic to print and one of the most affordable.
 
-End-users familiar with open-air filaments and inexperienced in ABS find that air temperature and gradual cooling is a critical factor in quality ABS prints.
+End-users familiar with open-air filaments and inexperienced in ABS find that enclosure air temperature and and appropriate cooling is a critical factor in quality ABS prints.
 
 When a UV-stable and weather-resistant alternative is needed, ASA can be substituted at a higher price point. Blends and fills are available to give ABS other desired properties.
 
@@ -136,3 +142,6 @@ When a UV-stable and weather-resistant alternative is needed, ASA can be substit
 *[delamination]: Delamination: separation of a 3D print's adjacent layers due to material warp. A print with delamination is structurally weak and should be discarded.
 *[anneal]: Anneal: To heat a material and allow to cool slowly in order to relieve internal stresses. Annealing plastic often takes hours.
 *[annealed]: Anneal: To heat a material and allow to cool slowly in order to relieve internal stresses. Annealing plastic often takes hours.
+*[warp]:
+    Warp: Warp is deformation of printed plastic from uneven cooling. Warp typically affects parts at the edges and causes "lift" or "curling".
+*[resin]: Plastic resin: plastic pellets that are the source material for industrially-made plastics, including filament. They are melted and formed into a desired shape, then allowed to cool.

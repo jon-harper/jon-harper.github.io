@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Welcome
 summary: Blog landing page.
 authors: Jon Harper
 date: 2022-06-16
@@ -20,6 +20,10 @@ I'm a technology- and information-oriented problem solver. I love to:
 - **learn** new technologies and ideas.
 
 You can find out more in my [resume](resume.md).
+
+## Articles
+
+[**ABS 3D Printing**](abs/index.md)
 
 ## Projects
 
@@ -58,7 +62,6 @@ The EVA 3 toolhead adapted for ZeroG Mercury One 3D printers.
 A combination activated carbon and HEPA filter for enclosed 3D printing.
 </div>
 </div>
-
 </div>
 
 ## Public Profiles and Other Works
