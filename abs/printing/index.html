@@ -88,7 +88,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#requirements" class="md-skip">
+        <a href="#pros-and-cons" class="md-skip">
           Skip to content
         </a>
       
@@ -366,6 +366,13 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#pros-and-cons" class="md-nav__link">
+    Pros and Cons
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#requirements" class="md-nav__link">
     Requirements
   </a>
@@ -400,23 +407,29 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#the-part-cooling-myth" class="md-nav__link">
-    The Part Cooling Myth
+  <a href="#common-issues" class="md-nav__link">
+    Common Issues
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
+    <nav class="md-nav" aria-label="Common Issues">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
   <a href="#bed-adhesion" class="md-nav__link">
     Bed Adhesion
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#pros-and-cons" class="md-nav__link">
-    Pros and Cons
+        
+          <li class="md-nav__item">
+  <a href="#the-part-cooling-myth" class="md-nav__link">
+    The Part Cooling Myth
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -584,6 +597,13 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#pros-and-cons" class="md-nav__link">
+    Pros and Cons
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#requirements" class="md-nav__link">
     Requirements
   </a>
@@ -618,23 +638,29 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#the-part-cooling-myth" class="md-nav__link">
-    The Part Cooling Myth
+  <a href="#common-issues" class="md-nav__link">
+    Common Issues
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
+    <nav class="md-nav" aria-label="Common Issues">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
   <a href="#bed-adhesion" class="md-nav__link">
     Bed Adhesion
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#pros-and-cons" class="md-nav__link">
-    Pros and Cons
+        
+          <li class="md-nav__item">
+  <a href="#the-part-cooling-myth" class="md-nav__link">
+    The Part Cooling Myth
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -656,15 +682,43 @@
   <h1>2. Printing ABS</h1>
 
 <p><em>ABS material properties and considerations in <abbr title="Fusion deposition modeling: a method of 3D printing material in layers by extruding heated plastic through a nozzle.">FDM</abbr> 3D printing, page 2 of 3.</em></p>
+<h2 id="pros-and-cons">Pros and Cons</h2>
+<p>What's it like to print and use ABS?</p>
+<div class="jh-grid-container jh-grid-2">
+<div class="jh-grid-para">
+<p><strong>Pros</strong></p>
+<ul>
+<li>Easily post-processed by sanding, acetone smoothing, drilling, etc.</li>
+<li>Excellent layer adhesion</li>
+<li>Minimal <abbr title="Warp: Warp is deformation of printed plastic from uneven cooling. Warp typically affects parts at the edges and causes &quot;lift&quot; or &quot;curling&quot;.">warp</abbr> for smaller parts</li>
+<li>Predictable shrinkage</li>
+</ul>
+</div>
+<div class="jh-grid-para">
+<p><strong>Cons</strong></p>
+<ul>
+<li>Prone to warping in uncontrolled/cooler print environments</li>
+<li>Toxic off-gassing from styrene</li>
+<li>Moisture adsorbtion affects print quality</li>
+<li>ABS supports are difficult to remove</li>
+</ul>
+</div>
+</div>
+<p>As in other manufacturing fields, printed ABS parts can be machined, sanded, drilled and otherwise post-processed as needed. </p>
+<p>ABS adheres to itself <em>very</em> well, so parts printed in ABS are hard to separate at the layer lines.<sup id="fnref:c3"><a class="footnote-ref" href="#fn:c3">3</a></sup> This has a downside, in that printed supports are difficult to impossible to remove from ABS prints without damaging them.<sup id="fnref:c4"><a class="footnote-ref" href="#fn:c4">4</a></sup></p>
+<p>ABS has a low, predictable shrink when allowed to cool gradually; this is an advantage over high-shrink materials like <abbr title="Polycarbonate: a family of polymers known for extreme hardness, resistance to heat, and clarity.">PC</abbr> that must be <abbr title="Anneal: To heat a material and allow to cool slowly in order to relieve internal stresses. Annealing plastic often takes hours.">annealed</abbr> after printing to relieve internal stress. Small parts have little difficulty with warping due to uneven cooling, as well.</p>
+<p>In imperfect conditions, generally due to too-low bed and air temperatures, ABS behaves very poorly. At room temperature, ABS is nearly impossible to print properly.</p>
+<p>A final note on moisture: ABS does not <em>ab</em>sorb moisture (take up), it <em>ad</em>sorbs it (becomes coated in it). Regardless of the how it is introduced, water turns to steam in the heat of 3D printer's nozzle and creates blemishes in the resulting print. As a result, ABS must be stored in low humidity.</p>
 <h2 id="requirements">Requirements</h2>
+<p>ABS needs all five of the general conditions for printing engineering plastics listed on the <a href="../about/#engineering-plastics">previous page</a>. Nevertheless, it is fairly forgiving once the air temperature is high enough.</p>
+<p>ABS prints best under these conditions:</p>
 <ol>
 <li>Nozzle temperature: 235°C - 255°C (455°F - 491°F)</li>
 <li>Heated bed: 90°C - 110°C (194°F - 230°F)</li>
-<li>Air temperature: 30°C - 75°C (86°F - 167°F)</li>
+<li>Air temperature: 35°C - 75°C (95°F - 167°F)</li>
 <li>Air filtration is required.</li>
-<li>Airflow improves print performance under certain conditions.</li>
+<li>Air circulation is recommended.</li>
 </ol>
-<p>ABS needs all five of general conditions for printing engineering plastics listed on the <a href="../about/#engineering-plastics">previous page</a>. Nevertheless, it can be surprisingly easy to print once the air temperature is high enough.</p>
 <p>Entry-level 3D printers are generally capable of handling the nozzle and bed temperatures required by ABS; the sole exception to this is discussed in the next section. The remaining requirements center around environmental control, and a good enclosure handles all of these.</p>
 <p>Note that some modified ABS materials (often called ABS+ or ABS Lite) can be printed at lower nozzle, bed, and air temperatures but also have lower <em>operating</em> temperatures. They may not be as performant in some areas, particularly heat tolerance.</p>
 <h3 id="extruding-abs">Extruding ABS</h3>
@@ -684,10 +738,10 @@
 <li>Environmental control,</li>
 <li>Air filtration or a venting system,</li>
 <li>Lighting,</li>
-<li>A large door or access hatch,</li>
-<li>Sound dampening, and</li>
-<li>(In some cases) active heating.</li>
+<li>A large door or access hatch, and </li>
+<li>Sound dampening</li>
 </ul>
+<p>Some enclosures have active heating; this is discussed more in the next section.</p>
 <p>3D printer enclosures are either integrated to the printer or external. With an external enclosure, an existing printer is installed inside an enclosure that may or may not have been designed for the specific printer. An integrated enclosure is built into the frame of the printer; on some printers this is sold as an optional add-on. Integration makes enclosure smaller and can add rigidity to the printer frame.</p>
 <div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">External Enclosure</label><label for="__tabbed_1_2">Integrated Enclosure</label></div>
 <div class="tabbed-content">
@@ -712,55 +766,32 @@ QIDI Tech printers with integrated enclosures. Source: public domain
 <h3 id="filtration-and-fire-safety">Filtration and Fire Safety</h3>
 <p>Temperature control does not have to be built-in to an enclosure, but it should be present for safety. An enclosure sufficient heat production (and insulation) may reach temperature that risk electrical fires. An enclosure should have a method to monitor the air temperature and automatically cools the air or shut down. The most common method of cooling is through an exhaust vent, whether filtered or unfiltered.<sup id="fnref:c5"><a class="footnote-ref" href="#fn:c5">2</a></sup></p>
 <p>Some enclosures have active heating elements to reach very high temperatures; these are uncommon outside of high-end commercial printers. For safety reasons, the hobbyist printer design group <a href="https://vorondesign.com/">VORON Design</a> notably does not allow discussion of active heating methods in their online communities.</p>
-<p>Continuous filtration or a venting mechanism is necessary to evacuate or trap styrene and other <abbr title="Volatile organic compounds: these off-gas from many common products and chemicals, including during 3D printing.">VOCs</abbr> given off by ABS. At a minimum, ABS air filtration requires coconut shell (acid-free) activated carbon to remove styrene from the air. The addition of a HEPA filter also removes larger microplastics that may also be hazardous.</p>
+<p>Continuous filtration or a venting mechanism is necessary to remove styrene and other <abbr title="Volatile organic compounds: these off-gas from many common products and chemicals, including during 3D printing.">VOCs</abbr> given off by ABS. At a minimum, ABS air filtration requires coconut shell (acid-free)<sup id="fnref:c6"><a class="footnote-ref" href="#fn:c6">5</a></sup> activated carbon to remove styrene from the air. The addition of a HEPA filter also removes larger microplastics that may also be hazardous.</p>
 <figure>
 <p><a class="glightbox" href="../img/suaft_filter.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="The SUAFT air filter" src="../img/suaft_filter.jpg" /></a></p>
 <figcaption>
-<p>An activated carbon and HEPA air filter with dedicated internal filter fan and external exhaust fan. Source: Jon Harper/<a href="https://jon-harper.github.io/air_filter">SUAFT</a></p>
+<p>An activated carbon and HEPA air filter with two fans: 1) dedicated internal filter fan (bottom) and 2) exhaust fan (top). Source: Jon Harper/<a href="https://jon-harper.github.io/air_filter">SUAFT</a></p>
 </figcaption>
 </figure>
-<h2 id="the-part-cooling-myth">The Part Cooling Myth</h2>
-<figure>
-<p><a class="glightbox" href="../img/part_fan.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="the blower on the left directs air through the duct and onto the nozzle at center" src="../img/part_fan.jpg" /></a></p>
-<figcaption>
-<p>The blower at top left directs air through the duct and to a point just underneath the nozzle at center. Source: Jon Harper.</p>
-</figcaption>
-</figure>
-<p>A common myth about ABS is that it should be printed without a part cooling fan. Part cooling fans blow air on the plastic extruded from a 3D printer's nozzle. This "sets" the material by quickly cooling it and helps to prevent sagging other blemishes. Materials like <abbr title="Polylactic acid: a brittle plastic with a low melting point; widely used for 3D printing.">PLA</abbr> benefit greatly from part cooling fans.</p>
-<p>ABS is prone to warp and layer separation when cooled too quickly. A belief developed that part cooling fans cause this; rather, this is a sign that the ambient air temperature is not hot enough. At around 45°C (113°F), ABS behaves much like <abbr title="Polylactic acid: a brittle plastic with a low melting point; widely used for 3D printing.">PLA</abbr> printed at room temperature and needs a part cooling fan. After the initial cooling blast of air, the enclosure's high air temperature allows the ABS to continue cooling more gradually, preventing warp and <abbr title="Delamination: separation of a 3D print's adjacent layers due to material warp. A print with delamination is structurally weak and should be discarded.">delamination</abbr>.</p>
-<p>To resolve issues with entry-level materials, the answer is often "more part cooling". In many cases, issues in ABS printing are solved with a hotter enclosure first, <em>then</em> adding more part cooling.</p>
-<h2 id="bed-adhesion">Bed Adhesion</h2>
+<h2 id="common-issues">Common Issues</h2>
+<p>We've set the conditions and requirements for printing ABS. </p>
+<h3 id="bed-adhesion">Bed Adhesion</h3>
 <p>Heated beds have a <em>build plate</em> or <em>build surface</em> to keep printed plastic in a slightly amorphous state (like melted glass or putty). Material in this state is slightly pliable and sticky; this helps keep a printed part in place.</p>
 <p>A build plate is typically covered with or made from a material designed to stick to plastic. The most common material for this is a thin layer of <abbr title="Polyetherimide: a plastic similar to PEEK with a higher temperature range and adhesive properties; frequently used on 3D printer beds.">PEI</abbr>, and ABS performs well on <abbr title="Polyetherimide: a plastic similar to PEEK with a higher temperature range and adhesive properties; frequently used on 3D printer beds.">PEI</abbr> sheets.</p>
 <p>Textured surfaces are used to better bind a print to the build plate than a smooth surface can by giving better "grip". The surface texture increases the plastic's contact area and overall adhesion.</p>
-<p>Finally, glue sticks and hairspray are sometimes needed, including with ABS. Adhesives <em>also</em> become sticky when heated, so a thin coat of glue stick will keep a printed part in place when hot and release it when cooled. These added adhesives are also popular because they can be reused several times once applied.</p>
-<h2 id="pros-and-cons">Pros and Cons</h2>
-<p>We've set the conditions and requirements for printing ABS. What's it like to print and use ABS?</p>
-<div class="jh-grid-container jh-grid-2">
-<div class="jh-grid-para">
-<p><strong>Pros</strong></p>
-<ul>
-<li>Easily post-processed by sanding, acetone smoothing, drilling, etc.</li>
-<li>Excellent layer adhesion</li>
-<li>Minimal warp for smaller parts</li>
-<li>Predictable shrinkage</li>
-</ul>
-</div>
-<div class="jh-grid-para">
-<p><strong>Cons</strong></p>
-<ul>
-<li>Prone to warping in uncontrolled/cooler print environments</li>
-<li>Toxic off-gassing from styrene</li>
-<li>Moisture adsorbtion affects print quality</li>
-<li>ABS supports are difficult to remove</li>
-</ul>
-</div>
-</div>
-<p>As in other manufacturing fields, printed ABS parts can be machined, sanded, drilled and otherwise post-processed as needed. </p>
-<p>ABS adheres to itself <em>very</em> well, so parts printed in ABS are hard to separate at the layer lines.<sup id="fnref:c3"><a class="footnote-ref" href="#fn:c3">3</a></sup> This has a downside, in that printed supports are difficult to impossible to remove from ABS prints without damaging them.<sup id="fnref:c4"><a class="footnote-ref" href="#fn:c4">4</a></sup></p>
-<p>ABS has a low, predictable shrink when allowed to cool gradually; this is an advantage over high-shrink materials like <abbr title="Polycarbonate: a family of polymers known for extreme hardness, resistance to heat, and clarity.">PC</abbr> that must be <abbr title="Anneal: To heat a material and allow to cool slowly in order to relieve internal stresses. Annealing plastic often takes hours.">annealed</abbr> after printing to relieve internal stress. Small parts have little difficulty with warping due to uneven cooling, as well.</p>
-<p>In imperfect conditions, generally due to too-low bed and air temperatures, ABS behaves very poorly. At room temperature, ABS is nearly impossible to print properly.</p>
-<p>A final note on moisture: ABS does not <em>ab</em>sorb moisture (take up), it <em>ad</em>sorbs it (becomes externally coated in it). This is an issue with ABS printing; moisture-coated filament produces pockets of steam inside the heater block. These pockets exit the nozzle with a distinctive noise and produce imperfections in the resulting print.</p>
+<p>Glue sticks and hairspray are sometimes needed, including with ABS. Adhesives <em>also</em> become sticky when heated, so a thin coat of glue stick will keep a printed part in place when hot and release it when cooled. These added adhesives are also popular because they can be reused several times without reapplication.</p>
+<p>A last resort is called a <em>brim</em>. A brim is extra material that surrounds the first layer of a print, usually by tracing the outline of the part in widening tracks. This gives the adhesion of a much larger part but must be removed after the print is finished.</p>
+<h3 id="the-part-cooling-myth">The Part Cooling Myth</h3>
+<figure>
+<p><a class="glightbox" href="../img/part_fan.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="the blower on the left directs air through the duct and onto the nozzle at center-right" src="../img/part_fan.jpg" /></a></p>
+<figcaption>
+<p>The blower at top left directs air through the duct and to a point just underneath the nozzle at center-right. Source: Jon Harper.</p>
+</figcaption>
+</figure>
+<p>A common myth about ABS is that it should be printed without a part cooling fan. These fans blow air on filament exiting the nozzle. This quickly cools the material to "set" it and helps to prevent sagging and other blemishes. Materials like <abbr title="Polylactic acid: a brittle plastic with a low melting point; widely used for 3D printing.">PLA</abbr> benefit greatly from part cooling fans.</p>
+<p>ABS is prone to <abbr title="Warp: Warp is deformation of printed plastic from uneven cooling. Warp typically affects parts at the edges and causes &quot;lift&quot; or &quot;curling&quot;.">warp</abbr> and <abbr title="Delamination: separation of a 3D print's adjacent layers due to material warp. A print with delamination is structurally weak and should be discarded.">delamination</abbr> when cooled too quickly, and a belief developed that part cooling fans contribute to this. Warp is generally caused by inadequate bed adhesion, and <abbr title="Delamination: separation of a 3D print's adjacent layers due to material warp. A print with delamination is structurally weak and should be discarded.">delamination</abbr> is a sign that the air temperature is not high enough.</p>
+<p>When the air is at least 45°C (113°F), ABS behaves much like <abbr title="Polylactic acid: a brittle plastic with a low melting point; widely used for 3D printing.">PLA</abbr> printed at room temperature and needs a part cooling fan. After the initial cooling blast of air, the enclosure's high air temperature allows the ABS to continue cooling more gradually, preventing <abbr title="Warp: Warp is deformation of printed plastic from uneven cooling. Warp typically affects parts at the edges and causes &quot;lift&quot; or &quot;curling&quot;.">warp</abbr> and <abbr title="Delamination: separation of a 3D print's adjacent layers due to material warp. A print with delamination is structurally weak and should be discarded.">delamination</abbr>.</p>
+<p>To resolve issues with entry-level materials, the answer is often "more part cooling". In many cases, issues in ABS printing are solved with a hotter enclosure first, <em>then</em> adding more part cooling.</p>
 <div class="footnote">
 <hr />
 <ol>
@@ -776,6 +807,9 @@ QIDI Tech printers with integrated enclosures. Source: public domain
 <li id="fn:c4">
 <p>Supports are sacrificial material that is added to a 3D print. If a design includes an area with nothing directly underneath, something must keep the hot plastic from falling while it cools. Supports are added to a print (generally automatically by software) to keep the plastic in place.</p>
 <p>Supports are broken or cut off after printing; with ABS, the layer adhesions is sufficient to make support removal destructive to the print.&#160;<a class="footnote-backref" href="#fnref:c4" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+</li>
+<li id="fn:c6">
+<p>Using activated carbon containing acid causes metal to oxidise (i.e., rust).&#160;<a class="footnote-backref" href="#fnref:c6" title="Jump back to footnote 5 in the text">&#8617;</a></p>
 </li>
 </ol>
 </div>
