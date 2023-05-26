@@ -76,7 +76,7 @@ Engineering plastics, including ABS, have widespread use in other manufacturing 
 4. Air filtration or venting; and
 5. Benefit from uniform air temperature.
 
-Of this list, the #4 and #5 require an enclosure and #3 typically needs one.
+Of the list above, #4 and #5 require an enclosure and #3 typically needs one.
 
 Note that the last item, uniform air temperature, is *not* related to using a part cooling fan; instead, it refers to using fans to evenly distribute heat around the print environment. This is largely beneficial when printing larger parts that may otherwise cool unevenly.
 
