@@ -11,7 +11,7 @@ hide: toc
 
 ## Overview
 
-The expiration of key patents in 2009 led the way for the development of additive manufacturing as an industry and hobby. This explosive growth continues with new materials and new methods of 3D printing them. [Concrete](https://www.mudbots.com/), [titanium](https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/titanium/), [chocolate](https://cocoapress.com/), and [glass](https://nobula3d.com/) are regularly 3D printed, but FDM machines that model thermoplastic remain the most common. Stores sell a basic FDM printer for $100[^a1], while many commercial FDM printers list for $10,000 or more.
+The expiration of key patents in 2009 led the way for the development of additive manufacturing as an industry and hobby. This explosive growth continues with new materials and new methods of 3D printing them. [Concrete](https://www.mudbots.com/), [titanium](https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/titanium/), [chocolate](https://cocoapress.com/), and [glass](https://nobula3d.com/) are regularly 3D printed, but FDM machines that model thermoplastic filament remain the most common. Stores sell a basic FDM printer for $100[^a1], while many commercial FDM printers list for $10,000 or more.
 
 The intended audience of this article are individuals: 1) in manufacturing or adjacent industries, 2) who have seen FDM 3D prints and perhaps can identify a 3D printer, but 3) have minimal or no hands-on experience operating one.
 

@@ -23,7 +23,9 @@ A bag of resin pellets. Source: [SuSanA Secretariat](https://www.flickr.com/peop
 </figcaption>
 </figure>
 
-Manufacturers of base ABS material create pellets called *plastic resin*. From there, manufactures melt the material, optionally adding colorants or other additives to modify the properties of the final product. The melted material is then formed into shape; for FDM filament manufacturers, this means stretching the material into filament (long, thin cylinders of a uniform diameter) and rolling them onto spools.
+Manufacturers of ABS and other thermoplastics create pellets of plastic *resin* to distribute, commonly called *nurdles*. From there, manufactures melt the resin, optionally adding colorants or other additives to modify the appearance and other properties of the final product.
+
+Once melted, the ABS is formed into shape; for FDM filament manufacturers, this means stretching the material into *filament* (long, thin cylinders of a uniform diameter) and rolling them onto spools.
 
 <figure markdown>
 ![a roll of Orange Prusament filament](img/filament.jpg)
@@ -34,7 +36,7 @@ A spool roll of Orange Prusament filament. Filament is normally available in 1.7
 
 ## Material Categories
 
-For purposes of this article, we will discuss three different categories of 3D-printable plastics:
+For purposes of this article, we will discuss three different categories of 3D-printable plastics.
 
 - Entry-level plastics: 
     - PLA (polylactic acid)
@@ -52,7 +54,7 @@ For purposes of this article, we will discuss three different categories of 3D-p
     - PEI (Ultem, polyetherimide)
     - PMMA (Acrlic, poly(methyl methacrylate))
 
-This list is an incomplete sample. Some materials, like PC and PP, qualify as engineering or high-end depending on the formulation used. 
+This list is for the purposes of discussion only; it is not a standard. Some materials, like PC, qualify as engineering or high-end depending on the formulation used.
 
 ### Entry-Level Plastics
 
@@ -84,7 +86,7 @@ The [specific requirements](printing.md#requirements) for printing ABS are on th
 
 ### High-End Plastics
 
-Lastly, there are high-end plastics. Materials in this category are often used as heat-resistant materials in manufacturing. Printing these plastics requires the use of other materials that can tolerate even higher temperatures. As a result, high-end plastics require a machine carefully designed to safely print at extreme temperatures.[^a6] These are typically commercial printers or bespoke hobbyist machines.
+Lastly, there are high-end plastics. Materials in this category are often used in manufacturing for aerospace, medical, and other industries. Printing these plastics requires the use of materials that can tolerate extreme temperatures. FDM printing high-end plastics requires a carefully insulated and well-protected build environment.[^a6] These are typically commercial printers or bespoke hobbyist machines.
 
 As a rough cutoff, engineering plastics end and high-end plastics begin when a material requires any one of the the following:
 
@@ -116,7 +118,7 @@ Below are some general properties of ABS plastic. We'll get into more detail in 
 - Can be chemically glued
 - Good heat insulator
 - Excellent electrical insulator
-- Can be sterilized for single medical use
+- Some resins can be sterilized for medical use
 - Easily recycled in industrial conditions
 
 </div>
@@ -126,21 +128,23 @@ Below are some general properties of ABS plastic. We'll get into more detail in 
 
 - Not UV-stable (degrades in sunlight)
 - Fair chemical resistance
-- Difficult to recycle for consumers
 - Poor solvent resistance
 - Most resins are not food safe
 - Combustible under open flame
+- Not consumer recycleable
 
 </div>
 </div>
 
 ABS has several properties in the "Pros" list that are useful for manufacturers, particularly how easily it can be shaped and machined. ABS tolerates most everyday temperatures, though food safety and burning when exposed to open flame are both concerns.
 
-Since both food safety and solvents are a problem, ABS is generally kept away from garages and kitchens. Lastly, ABS degrades is not UV-stable and yellows and cracks over time when left in sunlight. A UV-stable and weather-resistant substitute, ASA, is discussed in more detail under [Alternatives](materials.md#alternatives).
+Because solvents are a problem, ABS is generally kept away from garages and kitchens.
 
-Pre-consumer ABS recycling is performed, but ABS recycling is not generally available to consumers.
+ABS is not UV-stable and yellows and cracks over time when left in sunlight. A UV-stable and weather-resistant substitute, ASA, is discussed in more detail under [Alternatives](materials.md#alternatives).
 
-[^a2]: TPU is a large family of polymers with equally mechanical properties. Most TPU sold as filament is flexible and has a Shore A hardness of 90-95. Flexibile filament imposes unique requirements that are outside the scope of this article.
+Pre-consumer ABS recycling is performed, but ABS recycling is not available to consumers (post-consumer recycling).
+
+[^a2]: TPU is a large family of polymers that are flexible. Most TPU sold as filament has a Shore A hardness of 90-95 and feels like soft rubber. Flexibile filament imposes unique requirements that are outside the scope of this article.
 
 [^a4]: Without significant modification.
 
@@ -148,7 +152,8 @@ Pre-consumer ABS recycling is performed, but ABS recycling is not generally avai
     During the extrusion process, all plastics off-gas VOCs and microparticles of plastic. Some plastics are typically printed in open air, but **lack of unpleasant odor does not equal safety**. An activated carbon/HEPA filter combination in the same room as a 3D printer (preferably near the build area) is considered sufficient for open-air printing, but research is ongoing.
 
 [^a6]: 
-    For example, PEI is used to coat 3D printer heated beds, which can reach 125°C or more.
+    For example, PEI is used to coat 3D printer heated beds, which can reach 125°C or more. Considerations for high-temperature enclosures are discussed in Part 2.
+
 [^b1]: 
     A familiar use of injection-molded ABS is in the manufacture of LEGO bricks.
 
