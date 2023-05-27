@@ -39,7 +39,7 @@ As in other manufacturing fields, printed ABS parts can be machined, sanded, dri
 
 ABS adheres to itself *very* well, so parts printed in ABS are hard to separate at the layer lines.[^c3] This has a downside, in that printed supports are difficult to impossible to remove from ABS prints without damaging them.[^c4]
 
-ABS has a low, predictable shrink when allowed to cool gradually; this is an advantage over high-shrink materials like PC that must be annealed after printing to relieve internal stress. Small parts have little difficulty with warping due to uneven cooling, as well.
+ABS has a low, predictable shrink when allowed to cool gradually; this is an advantage over high-shrink materials like PC that must be annealed after printing to relieve internal stress. Small ABS parts have little difficulty with warping due to uneven cooling.
 
 In imperfect conditions, generally due to too-low bed and air temperatures, ABS behaves very poorly. At room temperature, ABS is nearly impossible to print properly.
 
@@ -130,11 +130,9 @@ We've set the conditions and requirements for printing ABS. What else is needed 
 
 ### Bed Adhesion
 
-Heated beds have a *build plate* or *build surface* to keep printed plastic in a slightly amorphous state (like melted glass or putty). Material in this state is slightly pliable and sticky; this helps keep a printed part in place.
+Heated beds are topped with a *build plate* or *build surface*. This build plate is heated to keep the bottom of a printed part pliable and sticky; this helps to keep the part adhered to the plate. A build plate is typically covered with, or made from, a material designed to stick to plastic. The most common material for this is a thin layer of PEI, and ABS performs well on PEI sheets.
 
-A build plate is typically covered with or made from a material designed to stick to plastic. The most common material for this is a thin layer of PEI, and ABS performs well on PEI sheets.
-
-Textured surfaces are used to better bind a print to the build plate than a smooth surface can by giving better "grip". The surface texture increases the plastic's contact area and overall adhesion.
+A standard build plate is as flat as possible. Textured build plates are often used to provide more adhesion than a smooth surface can by increasing the plastic's contact area with the plate.
 
 <figure markdown>
 ![Glue sticks are an easy adhesion enhancer.](img/glue_sticks.jpeg){width="480px"}

@@ -16,11 +16,11 @@ Before substituting a more expensive or difficult-to-print material, consider a 
 
 One issue with ABS is that it degrades under UV light (particularly direct sunlight). ASA is an alternative polymer that behaves much like ABS when printed, offers a higher heat tolerance, weather-resistance, and UV-stability. It is, however, more expensive than ABS, harder to source, and generally available in fewer colors.
 
-Instead of completely replacing with ASA or another filament, a blended resin can be used. Filament made from resin with additives can greatly enhance specific properties. Materials commonly added to ABS include PMMA (clarity), PC (heat resistance), and ASA (UV stability).
+Instead of completely replacing with ASA or another filament, a blended resin can be used. Filament made from resin with additives can greatly enhance specific properties. Materials commonly added to ABS include PMMA (translucency), PC (heat resistance), and ASA (UV stability, weatherability).
 
 ### Fiber Fills
 
-Another option are fiber "fills". In the past five or so years, manufacturers began selling filaments with up to 30% fiber content. These glass- and [carbon-fiber](https://atomicfilament.com/collections/abs-3d-filament/products/carbon-fiber-ultra-black-abs) doped filaments have higher heat resistance, stiffness, and dimensional stability. Carbon-fiber-filled ABS (CF-ABS) is the most common form of ABS fill.
+Another option are fiber "fills". In the past five or so years, manufacturers began selling filaments with up to 30% fiber content. These [glass-](https://www.3dxtech.com/product/fibrex-abs-gf/) and [carbon-fiber](https://atomicfilament.com/collections/abs-3d-filament/products/carbon-fiber-ultra-black-abs) doped filaments have higher heat resistance, stiffness, and dimensional stability than regular ABS. Carbon-fiber-filled ABS (CF-ABS) is the most common form of ABS fill.
 
 Both CF-ABS and GF-ABS have similar print requirements to their non-filled counterparts, but notably require a hardened metal nozzle. Most FDM printers use brass for nozzles; the fibers are harder than brass and will erode a non-hardened nozzle.
 
@@ -37,7 +37,7 @@ Values are sourced from [Polymaker](https://us.polymaker.com) for the remaining 
 | Material | Nozzle Temp. | Bed Temp. | Air Temp. | Notes |
 |---|---|---|---|---|
 | PLA | 180-220°C | 25-65°C | 15-30°C | Most common 3D-printed material due to low melting point. |
-| TPU | 210-250°C | 25-60°C | 15-30°C | High flexibility makes this material difficult to print for most. |
+| TPU | 210-250°C | 25-60°C | 15-30°C | High flexibility makes this material difficult to print. |
 | PETG | 230-250°C | 70-80°C | 15°-30°C | PETG is at the upper range of capabilities for most entry-level printers. |
 | **ABS** | **230-250°C** | **90-110°C** | **45°C+** |  |
 | ASA | 235-255°C | 90-110°C | 45°C+ |  |
