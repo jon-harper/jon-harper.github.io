@@ -7,24 +7,24 @@ hide: toc
 ---
 
 *First published May 24, 2023*<br>
-*Last updated May 26, 2023*
+*Last updated May 27, 2023*
 
 ## Overview
 
-The expiration of key patents in 2009 led the way for the development of additive manufacturing as an industry and hobby. This explosive growth continues with new materials and new methods of 3D printing them. [Concrete](https://www.mudbots.com/), [titanium](https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/titanium/), [chocolate](https://cocoapress.com/), and [glass](https://nobula3d.com/) are regularly 3D printed, but FDM machines that model thermoplastic filament remain the most common. Stores sell a basic FDM printer for $100[^a1], while many commercial FDM printers list for $10,000 or more.
+The expiration of key patents in 2009 led the way for the development of additive manufacturing as an industry and hobby. This explosive growth continues with new materials and new methods of 3D printing them. [Concrete](https://www.mudbots.com/), [titanium](https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering/titanium/), [chocolate](https://cocoapress.com/), and [glass](https://nobula3d.com/) are regularly 3D printed, but FDM machines that model thermoplastic filament remain the most common. Stores sell a basic FDM printer for $100USD[^a1], while many commercial FDM printers list for $10,000 or more.
 
-The intended audience of this article are individuals: 1) in manufacturing or adjacent industries, 2) who have seen FDM 3D prints and perhaps can identify a 3D printer, but 3) have minimal or no hands-on experience operating one.
+The intended audience of this article are individuals 1) in manufacturing or adjacent industries, 2) who have seen FDM 3D prints and perhaps can identify a 3D printer, but 3) have minimal or no hands-on experience operating one.
 
 The topic of this article is a specific 3D-printable plastic, acrylonitrile butadiene styrene (ABS): 
 
 - The material properties that make it attractive,
 - What printing ABS requires, and
-- A comparison with 3D-printable thermoplastics.
+- A comparison with other 3D-printable thermoplastics.
 
 <figure markdown>
 ![a hand holding plastic resin](img/printer.jpg)
 <figcaption markdown>
-An FDM 3D printer, manufactured by Prusa. Source: [European Space Agency](https://www.esa.int/ESA_Multimedia/Images/2020/04/3D_printer_EAC#.XqbGVblUaYs.link)
+An FDM 3D printer, manufactured by Prusa.<br>Source: [European Space Agency](https://www.esa.int/ESA_Multimedia/Images/2020/04/3D_printer_EAC#.XqbGVblUaYs.link)
 </figcaption>
 </figure>
 

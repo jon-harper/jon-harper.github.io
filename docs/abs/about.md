@@ -23,14 +23,14 @@ A bag of resin pellets. Source: [SuSanA Secretariat](https://www.flickr.com/peop
 </figcaption>
 </figure>
 
-Manufacturers of ABS and other thermoplastics create pellets of plastic *resin* to distribute, commonly called *nurdles*. From there, manufactures melt the resin, optionally adding colorants or other additives to modify the appearance and other properties of the final product.
+Manufacturers of ABS and other thermoplastics create pellets of plastic *resin* to distribute, commonly called *nurdles*. From there, manufacturers melt the resin, optionally adding colorants or other additives to modify the appearance and other properties of the final product.
 
-Once melted, the ABS is formed into shape; for FDM filament manufacturers, this means stretching the material into *filament* (long, thin cylinders of a uniform diameter) and rolling them onto spools.
+Once melted, the ABS is formed into shape; for FDM filament manufacturers, this means stretching the material into *filament* (long, thin cylinders of a uniform diameter) and rolling it on to spools.
 
 <figure markdown>
 ![a roll of Orange Prusament filament](img/filament.jpg)
 <figcaption markdown>
-A spool roll of Orange Prusament filament. Filament is normally available in 1.75mm and 2.85mm diameters. Source: Prusa Research
+A spool roll of Orange Prusament filament. Filament is normally available in 1.75mm and 2.85mm diameters.<br>Source: Prusa Research
 </figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ This article does not delve into high-end plastics, as they are outside the capa
 
 ABS is widely used in injection molding. Injection molding allows mass production at low per-unit costs with a high up-front cost for the molds and prototype(s).[^b1]
 
-Prototyping ABS parts for injection molding was one of the first commercial uses of FDM 3D printing. 3D printed parts can be nearly as strong as an injection molded equivalents; this allows cheap prototypes before committing to an expensive mold. Under the right conditions, ABS is also easy to 3D print.
+Prototyping ABS parts for injection molding was one of the first commercial uses of FDM 3D printing. 3D printed parts can be nearly as strong as their injection molded equivalents; this allows cheap prototypes before committing to an expensive mold. Under the right conditions, ABS is also easy to 3D print.
 
 Below are some general properties of ABS plastic. We'll get into more detail in the next section about how ABS behaves when printed.
 

@@ -43,7 +43,7 @@ ABS has a low, predictable shrink when allowed to cool gradually; this is an adv
 
 In imperfect conditions, generally due to too-low bed and air temperatures, ABS behaves very poorly. At room temperature, ABS is nearly impossible to print properly.
 
-A final note on moisture: ABS does not *ab*sorb moisture (take up), it *ad*sorbs it (becomes coated in it). Regardless of the how it is introduced, water turns to steam in the heat of 3D printer's nozzle and creates blemishes in the resulting print. As a result, ABS must be stored in low humidity, below 30%.
+A final note on moisture: ABS does not *ab*sorb moisture (take up), it *ad*sorbs it (becomes coated in it). Regardless of the how it is introduced, water turns to steam in the heat of the 3D printer's nozzle and creates blemishes in the resulting print. As a result, ABS must be stored in low humidity, below 30%.
 
 ## Requirements
 
@@ -83,15 +83,17 @@ Low-end hotends pass the PTFE tube through the heatbreak to butt against the noz
 
 An enclosure protects an in-progress 3D print from environmental changes. A cardboard box covering a 3D printer is an enclosure, albeit hazardous and makeshift. Mylar tents are a common and less dangerous option. Quality enclosures are more permanent and made of durable materials[^c2]; they may provide a range of features:
 
-- Access method(s): usually a front door; sometimes access hatch(es) as well,
-- Environmental control,
-- Air filtration or a venting system,
-- Lighting, and 
-- Sound dampening.
+1. Access method(s): 
+    - A front door
+    - (Occasionally) top or side hatch(es)
+2. Environmental control,
+3. Air filtration or a venting system,
+4. Lighting, and 
+5. Sound dampening.
 
-Enclosures use the waste heat from the nozzle and heated bed to warm up. Some enclosures are actively heated; this is discussed more in the next section.
+Enclosures use the waste heat from the nozzle and heated bed to warm up. Some enclosures have actively heated chambers; this is discussed more in the next section.
 
-3D printer enclosures are either integrated to the printer or external. With an external enclosure, an existing printer is installed inside an enclosure that may or may not have been designed for the specific printer. An integrated enclosure is built into the frame of the printer; on some printers this is sold as an optional add-on. Integration makes the enclosure smaller and can add rigidity to the printer frame.
+3D printer enclosures are either external or integrated to the printer. An external enclosure may or may not have been designed for the specific printer. An integrated enclosure is built into the frame of the printer; on some printers this is sold as an optional add-on. Integration makes the chamber smaller and can add rigidity to the printer frame.
 
 === "External Enclosure"
     <figure markdown>
@@ -111,16 +113,16 @@ Enclosures use the waste heat from the nozzle and heated bed to warm up. Some en
 
 ### Filtration and Fire Safety
 
-Temperature control does not have to be built-in to an enclosure, but for safety, it should be present. An enclosure with sufficient heat production (and insulation) may reach temperatures that risk electrical fires. An enclosure should have the ability to monitor the air temperature and cool the air. The most common method of cooling is through an exhaust vent, whether filtered or unfiltered.[^c5]
+Temperature control does not have to be built in to an enclosure but should be present for safety. An enclosure with sufficient heat production (and insulation) may reach temperatures that risk electrical fires. An enclosure should have the ability to monitor the air temperature and cool the air. The most common method of cooling is through an exhaust vent, whether filtered or unfiltered.[^c5]
 
-Some enclosures have active heating elements to reach extreme temperatures; these are uncommon outside of high-end commercial printers.[^c7] For safety reasons, the hobbyist printer design group [VORON Design](https://vorondesign.com/) notably does not allow discussion of active heating methods in their online communities.
+Some enclosures have active heating elements[^c1] to reach extreme temperatures; these are uncommon outside of high-end commercial printers.[^c7] For safety reasons, the hobbyist printer design group [VORON Design](https://vorondesign.com/) notably does not allow discussion of actively heated chambers in their online communities.
 
 Continuous filtration or a venting mechanism is necessary to remove styrene and other VOCs given off by ABS. At a minimum, ABS air filtration requires coconut shell (acid-free)[^c6] activated carbon to remove styrene from the air. Adding a HEPA filter removes larger microplastics that may also be hazardous.
 
 <figure markdown>
 ![The SUAFT air filter](img/suaft_filter.jpg)
 <figcaption markdown>
-An activated carbon and HEPA air filter with two fans: 1) dedicated internal filter fan (bottom) and 2) exhaust fan (top). Source: Jon Harper/[SUAFT](https://jon-harper.github.io/air_filter)
+An activated carbon and HEPA air filter with two fans: 1) dedicated internal filter fan (bottom) and 2) exhaust fan (top). <br>Source: Jon Harper/[SUAFT](https://jon-harper.github.io/air_filter)
 </figcaption>
 </figure>
 
@@ -132,12 +134,12 @@ We've set the conditions and requirements for printing ABS. What else is needed 
 
 Heated beds are topped with a *build plate* or *build surface*. This build plate is heated to keep the bottom of a printed part pliable and sticky; this helps to keep the part adhered to the plate. A build plate is typically covered with, or made from, a material designed to stick to plastic. The most common material for this is a thin layer of PEI, and ABS performs well on PEI sheets.
 
-A standard build plate is as flat as possible. Textured build plates are often used to provide more adhesion than a smooth surface can by increasing the plastic's contact area with the plate.
+A standard build plate is as smooth as possible. Textured build plates are often used with ABS to increase the plastic's contact area with the plate.
 
 <figure markdown>
-![Glue sticks are an easy adhesion enhancer.](img/glue_sticks.jpeg){width="480px"}
+![Glue sticks are an easy adhesion aid.](img/glue_sticks.jpeg){width="480px"}
 <figcaption markdown>
-Glue sticks are a common adhesion enhancer.
+Glue sticks are a common adhesion aid and releasing agent.
 </figcaption>
 </figure>
 
@@ -154,28 +156,30 @@ The blower at top left directs air through the duct and to a point just undernea
 </figcaption>
 </figure>
 
-Part cooling fans blow air on filament exiting the nozzle. This quickly cools the material to "set" it to prevent sagging and other blemishes. Materials like PLA benefit greatly from part cooling fans.
+Part cooling fans blow air on filament as it exits the nozzle. This quickly cools the material, "setting" it to prevent sagging and other blemishes. Materials like PLA benefit greatly from part cooling fans.
 
 A common myth is that ABS should be printed without a part cooling fan. ABS is prone to warp and delamination when cooled too quickly, and a belief developed that part cooling fans contribute to this. Warp is generally caused by inadequate bed adhesion, and delamination is a sign that the air temperature is not high enough.
 
-When the air is at least 45°C (113°F), ABS behaves much like PLA printed at room temperature and needs a part cooling fan. After the initial cooling blast of air, the enclosure's high air temperature allows the ABS to continue cooling more gradually.
+When the air is at least 45°C (113°F), ABS behaves much like PLA printed at room temperature and needs a part cooling fan. After the initial cooling blast of air, the enclosure's high air temperature allows the ABS to continue cooling gradually.
 
-To resolve issues with entry-level materials, the answer is often "more part cooling". In many cases, issues in ABS printing are solved with a hotter enclosure first, *then* adding more part cooling.
+To resolve issues with entry-level materials, the answer is often "more part cooling". In many cases, issues in ABS printing are solved with a hotter enclosure before adding more part cooling.
 
 [^c3]: Parts with weak layer adhesion are like flakey pastries and easily split into layers. The flaky dessert Baklava is a good example.
 
 [^c4]:
     Supports are sacrificial material that is added to a 3D print. If a design includes an area with nothing directly underneath, something must keep the hot plastic from falling while it cools. Supports are added to a print (generally automatically by software) to keep the plastic in place.
     
-    Supports are broken or cut off after printing; with ABS, the layer adhesions is sufficient to make support removal destructive to the print.
+    Supports are broken or cut off after printing; with ABS, the layer adhesion is sufficient to make support removal destructive to the print.
 
 [^c8]: 
-    PTFE's operating temperature ranges from 250°C to 260°C, but the material may begin to off-gas at slightly lower temperatures. Additionally, thermistors are less accurate at higher temperatures. There is no agreed safe margin, but values ranging from 235-245°C are most commonly used.
+    PTFE's operating temperature ranges from 250°C to 260°C, but the material may begin to off-gas at slightly lower temperatures. Additionally, thermistors are less accurate at higher temperatures. There is not an agreed safe margin, but values ranging from 235-245°C are most commonly used.
 
 [^c2]: Materials used to manufacture enclosures vary from metals like steel or aluminum to woods and plastics. Acrylic (PMMA) is commonly used for windows and doors for visibility.
 
 [^c5]: 
-    An unfiltered exhaust ducts air outside the building, usually out a window or through the ceiling.
+    An unfiltered exhaust vents air outside the building through a duct, usually out a window or through the ceiling.
+
+[^c1]: Often using a positive-temperature coefficient (PTC) heater. 
 
 [^c7]: The [3DXTECH GearBox HT2](https://www.3dxtech.com/3d-printer-gearbox/) advertises 250°C air temperatures.
 
