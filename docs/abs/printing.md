@@ -28,7 +28,7 @@ What's it like to print and use ABS?
 **Cons**
 
 - Prone to warping in uncontrolled/cooler print environments
-- Toxic off-gassing from styrene
+- Styrene off-gassing requires filtration
 - Moisture adsorbtion affects print quality
 - ABS supports are difficult to remove
 
@@ -38,6 +38,13 @@ What's it like to print and use ABS?
 As in other manufacturing fields, printed ABS parts can be machined, sanded, drilled and otherwise post-processed as needed. 
 
 ABS adheres to itself *very* well, so parts printed in ABS are hard to separate at the layer lines.[^c3] This has a downside, in that printed supports are difficult to impossible to remove from ABS prints without damaging them.[^c4]
+
+<figure markdown>
+![graphic demonstrating supports](img/supports.png)
+<figcaption markdown>
+Supports allow printing "in mid air" but must be removed when the print is complete.
+</figcaption>
+</figure>
 
 ABS has a low, predictable shrink when allowed to cool gradually; this is an advantage over high-shrink materials like PC that must be annealed after printing to relieve internal stress. Small ABS parts have little difficulty with warping due to uneven cooling.
 

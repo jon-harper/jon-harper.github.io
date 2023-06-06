@@ -23,7 +23,7 @@ A bag of resin pellets. Source: [SuSanA Secretariat](https://www.flickr.com/peop
 </figcaption>
 </figure>
 
-Manufacturers of ABS and other thermoplastics create pellets of plastic *resin* to distribute, commonly called *nurdles*. From there, manufacturers melt the resin, optionally adding colorants or other additives to modify the appearance and other properties of the final product.
+Raw ABS and other thermoplastics are distributed as pellets of plastic *resin* commonly called *nurdles*. Manufacturers melt the resin, optionally adding colorants or other additives to modify the appearance and other properties of the final product.
 
 Once melted, the ABS is formed into shape; for FDM filament manufacturers, this means stretching the material into *filament* (long, thin cylinders of a uniform diameter) and rolling it on to spools.
 
@@ -43,7 +43,7 @@ For purposes of this article, we will discuss three different categories of 3D-p
     - PETG (polyethylene terephthalate glycol)
     - TPU (thermoelastic polyurethane)[^a2]
 - Engineering plastics:
-    - *ABS (acrylonitrile butadiene styrene)*
+    - **ABS (acrylonitrile butadiene styrene)**
     - ASA (acrylonitrile budadient acrylate)
     - PA (Nylon, polyamide)
     - PC (polycarbonate)
