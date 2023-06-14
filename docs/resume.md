@@ -25,30 +25,34 @@ hide: toc
 
 ### Qualifications
 
-- Experienced IT professional and business writer seeking an entry-level technical writer role.
+- Experienced IT professional and business writer seeking an entry-level, full-time technical writer role.
 - Excels at explaining concepts, translating technical language, and writing to the audience.
-- Actively seeks to learn new solutions and techniques.
+- Actively seeks new solutions and new technologies to learn.
 - Broad technical skill base:
-    - Page layout/desktop publishing (Microsoft Word & PowerPoint, Adobe Acrobat, Markdown, CSS),
+    - Page layout/desktop publishing (Microsoft Word, Excel, PowerPoint, Adobe Acrobat, Markdown, CSS),
     - Graphic design (Adobe Photoshop & Illustrator, GIMP),
     - Content versioning (git, SharePoint),
     - Software development (C++, Python),
-    - Documentation generation (Doxygen, mkdocs),
+    - Documentation (Doxygen, mkdocs),
     - Rapid prototyping & CAD (FDM 3D printing, Fusion 360),
     - Point-of-sale technical support,
     - Networking & desktop system administration.
 
 ## Portfolio of Work
 
-### GitHub
+### Projects
 
-Profile: [:material-github: jon-harper](https://github.com/jon-harper)
+GitHub Profile: [:material-github: jon-harper](https://github.com/jon-harper)
 
 Notable Documentation Projects:
 
 - **[OmniBox](https://jon-harper.github.io/OmniBox)**: 3D printer electronics case; documentation includes written, illustrated, and video assembly instructions.
 - **[E34M1](https://jon-harper.github.io/E34M1/)**: modified toolhead for ZeroG 3D printers; also provides multimedia assembly instructions.
 - **[SUAFT](https://jon-harper.github.io/air_filter)**: activated carbon & HEPA filter for enclosed printers; documentation is simple and concise.
+
+### Articles
+
+[An Introduction to Fusion Deposition Modeling ABS Plastic](abs/index.md)
 
 ### Stack Overflow
 
