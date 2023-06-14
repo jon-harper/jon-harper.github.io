@@ -40,7 +40,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - neoteroi.cards
+  # - neoteroi.cards
   - pymdownx.tasklist:
       custom_checkbox: true
 
@@ -68,7 +68,7 @@ extra:
       name: Support me on Ko-Fi!
 
 extra_css:
-  - assets/stylesheets/neoteroi.css
+  # - assets/stylesheets/neoteroi.css
   - assets/stylesheets/extra.css
 
 nav:
