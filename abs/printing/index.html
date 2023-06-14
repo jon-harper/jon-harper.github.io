@@ -21,7 +21,7 @@
         <link rel="next" href="../materials/">
       
       <link rel="icon" href="../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.7">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.15">
     
     
       
@@ -29,10 +29,10 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.ded33207.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.26e3688c.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.a0c5b2b5.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ecc896b0.min.css">
       
       
 
@@ -47,8 +47,6 @@
         <style>:root{--md-text-font:"Noto Sans";--md-code-font:"Roboto Mono"}</style>
       
     
-    
-      <link rel="stylesheet" href="../../assets/stylesheets/neoteroi.css">
     
       <link rel="stylesheet" href="../../assets/stylesheets/extra.css">
     
@@ -694,7 +692,7 @@
 <ul>
 <li>Easily post-processed by sanding, acetone smoothing, drilling, etc.</li>
 <li>Excellent layer adhesion</li>
-<li>Minimal <abbr title="Warp: Warp is deformation of printed plastic from uneven cooling. Warp typically affects parts at the edges and causes &quot;lift&quot; or &quot;curling&quot;.">warp</abbr> for smaller parts</li>
+<li>Minimal <abbr title="Warp: Warp is deformation of printed plastic from uneven cooling. Warp typically affects parts at the edges and causes &quot;lift&quot; or &quot;curling&quot;.">warp</abbr> with small parts</li>
 <li>Predictable shrinkage</li>
 </ul>
 </div>
@@ -702,7 +700,7 @@
 <p><strong>Cons</strong></p>
 <ul>
 <li>Prone to warping in uncontrolled/cooler print environments</li>
-<li>Toxic off-gassing from styrene</li>
+<li>Styrene off-gassing requires filtration</li>
 <li>Moisture adsorbtion affects print quality</li>
 <li>ABS supports are difficult to remove</li>
 </ul>
@@ -710,11 +708,17 @@
 </div>
 <p>As in other manufacturing fields, printed ABS parts can be machined, sanded, drilled and otherwise post-processed as needed. </p>
 <p>ABS adheres to itself <em>very</em> well, so parts printed in ABS are hard to separate at the layer lines.<sup id="fnref:c3"><a class="footnote-ref" href="#fn:c3">1</a></sup> This has a downside, in that printed supports are difficult to impossible to remove from ABS prints without damaging them.<sup id="fnref:c4"><a class="footnote-ref" href="#fn:c4">2</a></sup></p>
+<figure>
+<p><a class="glightbox" href="../img/supports.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="graphic demonstrating supports" src="../img/supports.png" /></a></p>
+<figcaption>
+<p>Supports allow printing "in mid air" but must be removed when the print is complete. ABS is generally not printable with supports.</p>
+</figcaption>
+</figure>
 <p>ABS has a low, predictable shrink when allowed to cool gradually; this is an advantage over high-shrink materials like <abbr title="Polycarbonate: a family of polymers known for extreme hardness, resistance to heat, and clarity.">PC</abbr> that must be <abbr title="Anneal: To heat a material and allow to cool slowly in order to relieve internal stresses. Annealing plastic often takes hours.">annealed</abbr> after printing to relieve internal stress. Small ABS parts have little difficulty with warping due to uneven cooling.</p>
 <p>In imperfect conditions, generally due to too-low bed and air temperatures, ABS behaves very poorly. At room temperature, ABS is nearly impossible to print properly.</p>
 <p>A final note on moisture: ABS does not <em>ab</em>sorb moisture (take up), it <em>ad</em>sorbs it (becomes coated in it). Regardless of the how it is introduced, water turns to steam in the heat of the 3D printer's nozzle and creates blemishes in the resulting print. As a result, ABS must be stored in low humidity, below 30%.</p>
 <h2 id="requirements">Requirements</h2>
-<p>ABS needs all five of the general conditions for printing engineering plastics listed on the <a href="../about/#engineering-plastics">previous page</a>. Nevertheless, it is fairly forgiving once the air temperature is high enough.</p>
+<p>ABS needs all five of the general conditions for printing engineering plastics listed in <a href="../about/#engineering-plastics">Part 1</a>. Nevertheless, it is fairly forgiving once the air temperature reaches about 45°C (113°F).</p>
 <p>ABS prints best under these conditions:</p>
 <ol>
 <li>Nozzle temperature: 230°C - 250°C (446°F - 482°F)</li>
@@ -783,7 +787,7 @@ QIDI Tech printers with integrated enclosures. Source: public domain
 </figcaption>
 </figure>
 <h2 id="common-issues">Common Issues</h2>
-<p>We've set the conditions and requirements for printing ABS. What else is needed to succesfully print ABS?</p>
+<p>We've set the conditions and requirements for printing ABS. What else will help when printing ABS?</p>
 <h3 id="bed-adhesion">Bed Adhesion</h3>
 <p>Heated beds are topped with a <em>build plate</em> or <em>build surface</em>. This build plate is heated to keep the bottom of a printed part pliable and sticky; this helps to keep the part adhered to the plate. A build plate is typically covered with, or made from, a material designed to stick to plastic. The most common material for this is a thin layer of <abbr title="Polyetherimide: a plastic similar to PEEK with a higher temperature range and adhesive properties; frequently used on 3D printer beds.">PEI</abbr>, and ABS performs well on <abbr title="Polyetherimide: a plastic similar to PEEK with a higher temperature range and adhesive properties; frequently used on 3D printer beds.">PEI</abbr> sheets.</p>
 <p>A standard build plate is as smooth as possible. Textured build plates are often used with ABS to increase the plastic's contact area with the plate.</p>
@@ -803,7 +807,7 @@ QIDI Tech printers with integrated enclosures. Source: public domain
 </figcaption>
 </figure>
 <p>Part cooling fans blow air on filament as it exits the nozzle. This quickly cools the material, "setting" it to prevent sagging and other blemishes. Materials like <abbr title="Polylactic acid: a brittle plastic with a low melting point; widely used for 3D printing.">PLA</abbr> benefit greatly from part cooling fans.</p>
-<p>A common myth is that ABS should be printed without a part cooling fan. ABS is prone to <abbr title="Warp: Warp is deformation of printed plastic from uneven cooling. Warp typically affects parts at the edges and causes &quot;lift&quot; or &quot;curling&quot;.">warp</abbr> and <abbr title="Delamination: separation of a 3D print's adjacent layers due to material warp. A print with delamination is structurally weak and should be discarded.">delamination</abbr> when cooled too quickly, and a belief developed that part cooling fans contribute to this. Warp is generally caused by inadequate bed adhesion, and <abbr title="Delamination: separation of a 3D print's adjacent layers due to material warp. A print with delamination is structurally weak and should be discarded.">delamination</abbr> is a sign that the air temperature is not high enough.</p>
+<p>A common myth is that ABS should be printed without a part cooling fan. ABS is prone to <abbr title="Warp: Warp is deformation of printed plastic from uneven cooling. Warp typically affects parts at the edges and causes &quot;lift&quot; or &quot;curling&quot;.">warp</abbr> and <abbr title="Delamination: separation of a 3D print's adjacent layers due to material warp. A print with delamination is structurally weak and should be discarded.">delamination</abbr> when cooled too quickly, and a belief developed that part cooling fans directly cause this. Warp is generally caused by inadequate bed adhesion, and <abbr title="Delamination: separation of a 3D print's adjacent layers due to material warp. A print with delamination is structurally weak and should be discarded.">delamination</abbr> is a sign that the air temperature is not high enough.</p>
 <p>When the air is at least 45°C (113°F), ABS behaves much like <abbr title="Polylactic acid: a brittle plastic with a low melting point; widely used for 3D printing.">PLA</abbr> printed at room temperature and needs a part cooling fan. After the initial cooling blast of air, the enclosure's high air temperature allows the ABS to continue cooling gradually.</p>
 <p>To resolve issues with entry-level materials, the answer is often "more part cooling". In many cases, issues in ABS printing are solved with a hotter enclosure before adding more part cooling.</p>
 <div class="footnote">
@@ -915,7 +919,7 @@ QIDI Tech printers with integrated enclosures. Source: public domain
     <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.sections", "navigation.tracking", "navigation.footer", "navigation.indexes", "toc.top", "toc.follow"], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../../assets/javascripts/bundle.51198bba.min.js"></script>
+      <script src="../../assets/javascripts/bundle.b4d07000.min.js"></script>
       
     
   <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
