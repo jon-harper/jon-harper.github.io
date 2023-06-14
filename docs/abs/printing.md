@@ -19,7 +19,7 @@ What's it like to print and use ABS?
 
 - Easily post-processed by sanding, acetone smoothing, drilling, etc.
 - Excellent layer adhesion
-- Minimal warp for smaller parts
+- Minimal warp with small parts
 - Predictable shrinkage
 
 </div>
@@ -42,7 +42,7 @@ ABS adheres to itself *very* well, so parts printed in ABS are hard to separate 
 <figure markdown>
 ![graphic demonstrating supports](img/supports.png)
 <figcaption markdown>
-Supports allow printing "in mid air" but must be removed when the print is complete.
+Supports allow printing "in mid air" but must be removed when the print is complete. ABS is generally not printable with supports.
 </figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ A final note on moisture: ABS does not *ab*sorb moisture (take up), it *ad*sorbs
 
 ## Requirements
 
-ABS needs all five of the general conditions for printing engineering plastics listed on the [previous page](about.md#engineering-plastics). Nevertheless, it is fairly forgiving once the air temperature is high enough.
+ABS needs all five of the general conditions for printing engineering plastics listed in [Part 1](about.md#engineering-plastics). Nevertheless, it is fairly forgiving once the air temperature reaches about 45°C (113°F).
 
 ABS prints best under these conditions:
 
@@ -135,7 +135,7 @@ An activated carbon and HEPA air filter with two fans: 1) dedicated internal fil
 
 ## Common Issues
 
-We've set the conditions and requirements for printing ABS. What else is needed to succesfully print ABS?
+We've set the conditions and requirements for printing ABS. What else will help when printing ABS?
 
 ### Bed Adhesion
 
@@ -165,7 +165,7 @@ The blower at top left directs air through the duct and to a point just undernea
 
 Part cooling fans blow air on filament as it exits the nozzle. This quickly cools the material, "setting" it to prevent sagging and other blemishes. Materials like PLA benefit greatly from part cooling fans.
 
-A common myth is that ABS should be printed without a part cooling fan. ABS is prone to warp and delamination when cooled too quickly, and a belief developed that part cooling fans contribute to this. Warp is generally caused by inadequate bed adhesion, and delamination is a sign that the air temperature is not high enough.
+A common myth is that ABS should be printed without a part cooling fan. ABS is prone to warp and delamination when cooled too quickly, and a belief developed that part cooling fans directly cause this. Warp is generally caused by inadequate bed adhesion, and delamination is a sign that the air temperature is not high enough.
 
 When the air is at least 45°C (113°F), ABS behaves much like PLA printed at room temperature and needs a part cooling fan. After the initial cooling blast of air, the enclosure's high air temperature allows the ABS to continue cooling gradually.
 

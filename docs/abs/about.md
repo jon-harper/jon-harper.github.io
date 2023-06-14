@@ -10,11 +10,15 @@ date: 2023-05-19
 
 ## What is ABS?
 
-ABS is a type of thermoplastic. It does not have outstanding performance, but rather offers mostly good characteristics across a broad range.
+### Introduction
 
-The name "acrylonitrile butadiene styrene" is an ingredient list, as ABS is made by polymerizing (chemically joining into long chains) these three materials, called *monomers*. Varying the ratio of each component produces slightly different characteristics. For this reason, properties of ABS and other polymers are often given within a range. Other polymers can be added to further tweak the final product's properties.
+ABS is a type of thermoplastic. It offers acceptable to excellent performance across a broad range, generally more cheaply than alternative materials.
+
+The name "acrylonitrile butadiene styrene" is an ingredient list: ABS is made by polymerizing, or chemically joining into long chains, these three materials, called *monomers*. Varying the ratio of each monomer produces slightly different performance (for this reason, properties of ABS and other polymers are often given within a range). Other polymers can be added to further tweak the final product's properties.
 
 ABS is noteworthy for being easy and affordable to manufacture. Because it is an amorphous polymer, when heated it can be extruded and molded like glass. It is machinable at room temperature and can be chemically welded with common solvents like acetone. Combining these techniques allows manufacturers multiple ways to fabricate parts with ABS and contributes to the popularity of ABS in manufacturing.
+
+### Manufacturing ABS
 
 <figure markdown>
 ![a hand holding plastic resin](img/resin.jpg)
@@ -34,9 +38,57 @@ A spool roll of Orange Prusament filament. Filament is normally available in 1.7
 </figcaption>
 </figure>
 
+### General Properties
+
+ABS is widely used in injection molding. Injection molding allows mass production at low per-unit costs with a high up-front cost for the molds and prototype(s).[^b1]
+
+Prototyping ABS parts for injection molding was one of the first commercial uses of FDM 3D printing. 3D printed parts can be nearly as strong as their injection molded equivalents; this allows cheap prototypes before committing to an expensive mold. Under the right conditions, ABS is also easy to 3D print.
+
+Below are some general properties of ABS plastic. We'll get into more detail in [Part 2](printing.md) about how ABS behaves when printed.
+
+<div markdown class="jh-grid-container jh-grid-2">
+<div markdown class="jh-grid-para">
+
+**Pros**
+
+- Thermoplastic (can be heated repeatedly without damage)
+- Affordable and easily sourced
+- Rigid & impact resistant
+- High continuous use temperature
+- Can be machined
+- Can be painted 
+- Can be chemically glued
+- Good heat insulator
+- Excellent electrical insulator
+- Some resins can be sterilized for medical use
+- Easily recycled in industrial conditions
+
+</div>
+<div markdown class="jh-grid-para">
+
+**Cons**
+
+- Not UV-stable (degrades in sunlight)
+- Fair chemical resistance
+- Poor solvent resistance
+- Most resins are not food safe
+- Combustible under open flame
+- Not consumer recycleable
+
+</div>
+</div>
+
+ABS has several properties in the "Pros" list that are useful for manufacturers, particularly how easily it can be shaped and machined. ABS tolerates most everyday temperatures, though food safety and burning when exposed to open flame are both concerns.
+
+Because solvents are a problem, ABS is generally kept away from garages and kitchens.
+
+ABS is not UV-stable and yellows and cracks over time when left in sunlight. A UV-stable and weather-resistant substitute, ASA, is discussed in more detail in [Part 3](materials.md) under [Alternatives](materials.md#alternatives).
+
+Pre-consumer ABS recycling is performed, but ABS recycling is not available to consumers (post-consumer recycling).
+
 ## Material Categories
 
-For purposes of this article, we will discuss three different categories of 3D-printable plastics.
+ABS is not the only FDM-printable plastic. For purposes of this article, we will discuss three different categories of 3D-printable plastics.
 
 - Entry-level plastics: 
     - PLA (polylactic acid)
@@ -96,53 +148,7 @@ As a rough cutoff, engineering plastics end and high-end plastics begin when a m
 
 This article does not delve into high-end plastics, as they are outside the capabilities of all but the most expensive FDM printers.
 
-## Material Considerations
 
-ABS is widely used in injection molding. Injection molding allows mass production at low per-unit costs with a high up-front cost for the molds and prototype(s).[^b1]
-
-Prototyping ABS parts for injection molding was one of the first commercial uses of FDM 3D printing. 3D printed parts can be nearly as strong as their injection molded equivalents; this allows cheap prototypes before committing to an expensive mold. Under the right conditions, ABS is also easy to 3D print.
-
-Below are some general properties of ABS plastic. We'll get into more detail in the next section about how ABS behaves when printed.
-
-<div markdown class="jh-grid-container jh-grid-2">
-<div markdown class="jh-grid-para">
-
-**Pros**
-
-- Thermoplastic (can be heated repeatedly without damage)
-- Affordable and easily sourced
-- Rigid & impact resistant
-- High continuous use temperature
-- Can be machined
-- Can be painted 
-- Can be chemically glued
-- Good heat insulator
-- Excellent electrical insulator
-- Some resins can be sterilized for medical use
-- Easily recycled in industrial conditions
-
-</div>
-<div markdown class="jh-grid-para">
-
-**Cons**
-
-- Not UV-stable (degrades in sunlight)
-- Fair chemical resistance
-- Poor solvent resistance
-- Most resins are not food safe
-- Combustible under open flame
-- Not consumer recycleable
-
-</div>
-</div>
-
-ABS has several properties in the "Pros" list that are useful for manufacturers, particularly how easily it can be shaped and machined. ABS tolerates most everyday temperatures, though food safety and burning when exposed to open flame are both concerns.
-
-Because solvents are a problem, ABS is generally kept away from garages and kitchens.
-
-ABS is not UV-stable and yellows and cracks over time when left in sunlight. A UV-stable and weather-resistant substitute, ASA, is discussed in more detail under [Alternatives](materials.md#alternatives).
-
-Pre-consumer ABS recycling is performed, but ABS recycling is not available to consumers (post-consumer recycling).
 
 [^a2]: TPU is a large family of polymers that are flexible. Most TPU sold as filament has a Shore A hardness of 90-95 and feels like soft rubber. Flexibile filament imposes unique requirements that are outside the scope of this article.
 

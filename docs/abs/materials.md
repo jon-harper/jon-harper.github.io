@@ -22,6 +22,12 @@ One issue with ABS is that it degrades under UV light (particularly direct sunli
 
 Instead of completely replacing with ASA or another filament, a blended resin can be used. Filament made from resin with additives can greatly enhance specific properties. Materials commonly added to ABS include PMMA (translucency), PC (heat resistance), and ASA (UV stability, weatherability).
 
+As ASA grows in popularity and more manufacturers carry ASA filament, prices will drop and sourcing options increase.
+
+### PC-ABS Blends
+
+Blending ABS and PC is a popular method of introducing fire retardance to ABS.
+
 ### Fiber "Fills"
 
 Fiber "fills" are another option. Within the last few years, manufacturers began selling filaments with up to 30% fiber content. These [glass-](https://www.3dxtech.com/product/fibrex-abs-gf/) and [carbon-fiber](https://atomicfilament.com/collections/abs-3d-filament/products/carbon-fiber-ultra-black-abs) doped filaments have higher heat resistance, greater  stiffness, and improved dimensional stability than regular ABS. Carbon-fiber-filled ABS (CF-ABS) is the most common form of ABS fill.
@@ -67,12 +73,12 @@ Prices are current May 2023.
 
 ### General Properties
 
-| Property/Material      | ABS  | PA6  | PC   | PETG | PLA  |
-|------------------------|------|------|------|------|------|
-| Density (g/cm^3^)      | 1.12 | 1.12 | 1.19 | 1.25 | 1.19 |
-| HDT @ 0.45MPa (°C)     | 100  | 111  | 111  | 78   | 60   |
-| HDT @ 1.8MPa (°C)      | 98   | 70   | 107  | 75   | 58   |
-| Vicat Softening Temperature (°C) | 104 | 180 | 120 | 84 | 158 |
+| Property/Material      | ABS  | ASA   | PA6  | PC   | PC-ABS | PETG | PLA  |
+|------------------------|------|-------|------|------|--------|------|------|
+| Density (g/cm^3^)      | 1.12 |  1.13 | 1.12 | 1.19 | 1.1    | 1.25 | 1.19 |
+| HDT @ 0.45MPa (°C)     | 100  | 102   | 111  | 114  | 106 | 78  | 60   |
+| HDT @ 1.8MPa (°C)      | 98   | 100   | 70   | 99   | 112 | 75   | 58   |
+| Vicat Softening Temperature (°C) | 104 | 105 | 117  | 120 | 135 | 84 | 158 |
 
 *Source: Polymaker*
 
@@ -80,21 +86,21 @@ Prices are current May 2023.
 
 The layers used to make FDM printed materials cause the finished material to have different properties on the X- and Y-axes (horizontal) than the Z-axis (vertical), so values are given here for each (where available).
 
-| Property                         | ABS  | PA6  | PC   | PETG | PLA  |
-|----------------------------------|------|------|------|------|------|
-| XY Axis Tensile Strength (MPa)   | 33   | 66   | 63   | 32   | 52   |
-| Z Axis Tensile Strength (MPa)    | 25   | 43   | 42   | 13   | 41   |
-| XY Axis Young's Modulus (GPa)    | 2.17 | 2.22 | 2.31 | 1.47 | 3.43 |
-| Z Axis Young's Modulus  (GPa)    | 1.84 | 2.56 | 2.26 | 1.09 | 3.01 |
-| Flexural Modulus (GPa)           | 2.8  | 1.67 | 2.2  | 1.17 | 3.28 |
-| Elongation at Break (%)          | 2.4  | 4.6  | 2.2  | 1.3  | 1.8  |
-| Charpy Impact Test (KJ/m^2^)      | 12.6 | 17.2 | 3.4  | 5.1  | 3.3  |
+| Property                         | ABS  | ASA  | PA6  | PC   | PC-ABS | PETG | PLA  |
+|----------------------------------|------|------|------|------|--------|------|------|
+| XY Axis Tensile Strength (MPa)   | 33   | 43.8 | 66   | 59.7 | 39.9   | 32   | 52   |
+| Z Axis Tensile Strength (MPa)    | 25   | 32   | 43   | 29.1 | 22.9   | 13   | 41   |
+| XY Axis Young's Modulus (GPa)    | 2.17 | 2.79 | 2.22 | 2.05 | 1.84   | 1.47 | 3.43 |
+| Z Axis Young's Modulus  (GPa)    | 1.84 | 1.96 | 2.56 | 1.84 | 1.68   | 1.09 | 3.01 |
+| Flexural Modulus (GPa)           | 2.8  | 3.2  | 1.67 | 2.0  | 2.08   | 1.17 | 3.28 |
+| Elongation at Break (%)          | 2.4  | 6.7  | 4.6  | 12.25 | 4.2    | 1.3  | 1.8  |
+| Charpy Impact Test (KJ/m^2^)     | 12.6 | 10.3 | 17.2 | 25.1  | 25.8   | 5.1  | 3.3  |
 
 *Source: Polymaker*
 
 ## Summary
 
-ABS plastic is an excellent all-purpose plastic for 3D printing functional parts. Although it requires an enclosure to print safely and well, it is both the easiest engineering-grade plastic to print and one of the most affordable.
+ABS plastic is an excellent all-purpose plastic for 3D printing functional parts. Although it requires an enclosure to print safely and well, it is both the easiest engineering-grade plastic to print and the most affordable.
 
 End-users familiar who are familiar with open-air filaments and inexperienced in ABS find that chamber temperature and appropriate cooling are a critical factors in quality ABS prints.
 
