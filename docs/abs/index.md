@@ -6,8 +6,12 @@ date: 2023-05-19
 hide: toc
 ---
 
+# An Introduction to Fusion Deposition Modeling ABS Plastic
+
+*A guide for manufacturing professionals new to 3D printing.*
+
 *First published May 24, 2023*<br>
-*Last updated May 27, 2023*
+*Last updated June 14, 2023*
 
 ## Overview
 

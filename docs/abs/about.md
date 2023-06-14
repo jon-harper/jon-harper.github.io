@@ -12,11 +12,11 @@ date: 2023-05-19
 
 ### Introduction
 
-ABS is a type of thermoplastic. It offers acceptable to excellent performance across a broad range, generally more cheaply than alternative materials.
+ABS is a type of thermoplastic. It is noteworthy for its wide use in manufacturing, as it offers acceptable to excellent performance across a broad range at a low material cost.
 
-The name "acrylonitrile butadiene styrene" is an ingredient list: ABS is made by polymerizing, or chemically joining into long chains, these three materials, called *monomers*. Varying the ratio of each monomer produces slightly different performance (for this reason, properties of ABS and other polymers are often given within a range). Other polymers can be added to further tweak the final product's properties.
+The name "acrylonitrile butadiene styrene" is an ingredient list: ABS is made by polymerizing, or chemically joining into long chains, these three materials, called *monomers*. Varying the ratio of each monomer modifies the resulting material (for this reason, properties of ABS and other polymers are often given within a range). In addition, other polymers can be added to further tweak the final product's properties.
 
-ABS is noteworthy for being easy and affordable to manufacture. Because it is an amorphous polymer, when heated it can be extruded and molded like glass. It is machinable at room temperature and can be chemically welded with common solvents like acetone. Combining these techniques allows manufacturers multiple ways to fabricate parts with ABS and contributes to the popularity of ABS in manufacturing.
+Because ABS is an amorphous polymer, when heated it can be extruded and molded like glass. It is machinable at room temperature and is chemically weldable with common solvents like acetone. Combining these techniques allows manufacturers multiple ways to fabricate parts with ABS and contributes its popularity in manufacturing.
 
 ### Manufacturing ABS
 
@@ -27,9 +27,9 @@ A bag of resin pellets. Source: [SuSanA Secretariat](https://www.flickr.com/peop
 </figcaption>
 </figure>
 
-Raw ABS and other thermoplastics are distributed as pellets of plastic *resin* commonly called *nurdles*. Manufacturers melt the resin, optionally adding colorants or other additives to modify the appearance and other properties of the final product.
+ABS and other thermoplastics are distributed as pellets of plastic *resin* commonly called *nurdles*. Manufacturers melt this base resin, adding colorants or other additives to modify the appearance and properties of the final product. From there, the molten ABS is formed into shape and cooled.
 
-Once melted, the ABS is formed into shape; for FDM filament manufacturers, this means stretching the material into *filament* (long, thin cylinders of a uniform diameter) and rolling it on to spools.
+For FDM filament manufacturers, the molten ABS is stretched into long, thin cylinders of a uniform diameter called *filament* and rolled on to spools.
 
 <figure markdown>
 ![a roll of Orange Prusament filament](img/filament.jpg)
@@ -42,7 +42,7 @@ A spool roll of Orange Prusament filament. Filament is normally available in 1.7
 
 ABS is widely used in injection molding. Injection molding allows mass production at low per-unit costs with a high up-front cost for the molds and prototype(s).[^b1]
 
-Prototyping ABS parts for injection molding was one of the first commercial uses of FDM 3D printing. 3D printed parts can be nearly as strong as their injection molded equivalents; this allows cheap prototypes before committing to an expensive mold. Under the right conditions, ABS is also easy to 3D print.
+Prototyping ABS parts for injection molding was one of the first commercial uses of FDM 3D printing. 3D printed parts can be nearly as strong as their injection molded equivalents; this allows cheap prototypes before committing to an expensive mold.
 
 Below are some general properties of ABS plastic. We'll get into more detail in [Part 2](printing.md) about how ABS behaves when printed.
 
@@ -78,7 +78,7 @@ Below are some general properties of ABS plastic. We'll get into more detail in 
 </div>
 </div>
 
-ABS has several properties in the "Pros" list that are useful for manufacturers, particularly how easily it can be shaped and machined. ABS tolerates most everyday temperatures, though food safety and burning when exposed to open flame are both concerns.
+ABS has numerous useful properties, particularly how easily it can be shaped and machined. ABS tolerates most everyday temperatures, though food safety and burning when exposed to open flame are both concerns.
 
 Because solvents are a problem, ABS is generally kept away from garages and kitchens.
 
