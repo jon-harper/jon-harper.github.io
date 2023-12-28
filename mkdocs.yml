@@ -19,7 +19,6 @@ theme:
     - navigation.sections
     - navigation.tracking
     - navigation.footer
-    # - navigation.expand
     - navigation.indexes
     - toc.top
     - toc.follow
@@ -38,8 +37,8 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true 
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   # - neoteroi.cards
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -68,7 +67,6 @@ extra:
       name: Support me on Ko-Fi!
 
 extra_css:
-  # - assets/stylesheets/neoteroi.css
   - assets/stylesheets/extra.css
 
 nav:
