@@ -5,8 +5,6 @@ authors: Jon Harper
 date: 2024-03-19
 ---
 
-
-
 ## Overview
 
 
@@ -103,6 +101,12 @@ Enclosures and air temperature control are often integrated, and higher-quality 
 
 ## Materials
 
+Filament is made of polymers, but these are rarely made of a single base monomer. A polymer made of multiple monomers is called a copolymer; for example, ABS is a copolymer of three monomers (acrylonitrile, butadiene, and styrene). Manufacturers vary the ratio of the three ingredients to tweak the resulting material's properties, but anything containing all three is considered ABS. 
+
+Filament manufacturers are increasingly offering a variety of resin blends, blurring the lines between materials. PC-ABS, for example, blends polycarbonate and ABS. The resulting material is easier to print and cheaper than polycarbonate, with superior performance to ABS against heat and chemicals.
+
+Fills are filaments that include materials that are not plastics. Carbon and glass fiber are often added to increase heat tolerance, material stiffness, and reduce shrinkage when cooling (called dimensional stability). Other additives include wood and hemp pulp and metal flakes. These are cosmetic fills that give the resulting material the look an texture of the additive.
+
 ### Categories
 
 #### Consumer/Entry-Level Plastics
@@ -119,7 +123,9 @@ These are widely used commercial plastics. They generally require an enclosure, 
 
 - ABS (acrylonitrile butadiene styrene)
 - ASA (acrylonitrile budadient acrylate)
-- PA (Nylon, polyamide)
+- PA6 (Nylon 6, polycaprolactam)
+- PA66 (Nylon 66, Nylon 6-6)
+- PA12 (Nylon 12, polylaurolactam)
 - PC (polycarbonate)
 - PP (polypropylene)
 
@@ -131,4 +137,27 @@ High-end plastics require printers specifically engineered to handle extreme con
 - PEEK (polyether ether ketone)
 - PEI (Ultem, polyetherimide)
 - PMMA (Acrylic, Plexiglass, poly(methyl methacrylate))
+
+### Uses
+
+- Purpose and cost drive material choice.
+- General overview of material uses.
+
+#### PLA
+
+#### PETG
+
+#### TPU
+
+#### ABS
+
+#### ASA
+
+#### PA6, PA66, and Copolymers
+
+#### PA12
+
+#### PC
+
+#### PP
 
