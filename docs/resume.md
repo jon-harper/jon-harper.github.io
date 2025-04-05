@@ -3,7 +3,6 @@ title: Resume
 summary: Jonathan Harper Resume / Curriculum Vitae
 authors: Jon Harper
 date: 2022-06-16
-hide: toc
 ---
 
 # Resume: Jonathan (Jon) Harper
@@ -18,41 +17,35 @@ hide: toc
 [:material-linkedin: LinkedIn](https://linkedin.com/in/jonspaceharper)
 
 [:material-email: E-mail](mailto:jonspaceharper@gmail.com)
-
-[:material-download: PDF Resume](assets/Resume_Jonathan_Harper.pdf)
+<!-- 
+[:material-download: PDF Resume](assets/Resume_Jonathan_Harper.pdf) -->
 </div>
 </div>
 
 ### Qualifications
 
-- Experienced IT professional and business writer seeking an entry-level, full-time technical writer role.
+- Experienced IT professional and business writer with CAD and software development background.
 - Excels at explaining concepts, translating technical language, and writing to the audience.
 - Actively seeks new solutions and new technologies to learn.
-- Broad technical skill base:
-    - Page layout/desktop publishing (Microsoft Word, Excel, PowerPoint, Adobe Acrobat, Markdown, CSS),
-    - Graphic design (Adobe Photoshop & Illustrator, GIMP),
-    - Content versioning (git, SharePoint),
-    - Software development (C++, Python),
-    - Documentation (Doxygen, mkdocs),
-    - Rapid prototyping & CAD (FDM 3D printing, Fusion 360),
-    - Point-of-sale technical support,
-    - Networking & desktop system administration.
+- Broad technical skill base, including:
+    - Page layout/desktop publishing (Microsoft Word, Excel, PowerPoint, Adobe Acrobat, Markdown, CSS);
+    - Graphic design (Adobe Photoshop & Illustrator, GIMP);
+    - Content versioning (git, SharePoint);
+    - Software development (C++, Python);
+    - Documentation (Doxygen, mkdocs); and
+    - Rapid prototyping & CAD (FDM 3D printing, Fusion 360).
 
 ## Portfolio of Work
 
 ### Projects
 
-GitHub Profile: [:material-github: jon-harper](https://github.com/jon-harper)
+[:material-github: GitHub Profile](https://github.com/jon-harper)
 
-Notable Documentation Projects:
+Notable Projects:
 
 - **[OmniBox](https://jon-harper.github.io/OmniBox)**: 3D printer electronics case; documentation includes written, illustrated, and video assembly instructions.
 - **[E34M1](https://jon-harper.github.io/E34M1/)**: modified toolhead for ZeroG 3D printers; also provides multimedia assembly instructions.
 - **[SUAFT](https://jon-harper.github.io/air_filter)**: activated carbon & HEPA filter for enclosed printers; documentation is simple and concise.
-
-### Articles
-
-[An Introduction to Fusion Deposition Modeling ABS Plastic](abs/index.md)
 
 ### Stack Overflow
 
@@ -74,15 +67,11 @@ Sample Contributions:
 
 ### Career History
 
-**Career Development** (December 2021 - May 2023)
+**Career Development** (December 2021 - 2024)
 
-- Pivoted career focus to technical writing; prepared a cross-discipline portfolio of public work.
-- Fully documented OmniBox through five (5) major releases and one (1) minor release:
-    - Assembly guide contains both written/illustrated and video instructions.
-    - OmniBox documentation praised by users for quality and thoroughness.
-- Developed and documented E34M1:
-    - Early adopters acted as stakeholders and set project goals.
-    - Tracked and documented all user contributions.
+- Pivoted to technical writing; prepared a cross-discipline portfolio of works.
+- Developed and documented several end-to-end [projects](#projects).
+- Co-authored and edited the [Mercury One.1 documentation](https://docs.zerog.one/assets/mercury_one_1_instruction_18-02-2024.pdf).
 
 ------
 **Top Shelf Solutions** (2002 - 2021)
@@ -92,18 +81,18 @@ Sample Contributions:
 - Designed templates within client branding guidelines.
 - Proofread & edited internal & external materials for style, content, and branding comformity.
 - Closely followed client technologies and current IT trends.
-- Composed and edited SVP & C-level executive biographies, presentations, and other meeting materials.
-- Provided quality control for printed matter and assisted in preparation and shipping.
+- Composed and edited SVP & C-level executive biographies, presentations, and other client meeting materials.
+- Provided quality control and assisted in preparation and shipping.
 
 *IT Manager (2003-2021)*
 
-- Oversaw the  lifecycle of a small (5-8 seat) business network over nearly 20 years.
+- Oversaw the  lifecycle of a small (5-8 seat) business network.
 - Assisted with client IT needs:
     - Migrated client (The Harvard Group) to Office 365 and SharePoint in 2011-2012.
     - Transitioned phone and video conferencing IT services to lower overhead and add new capabilities.
     - Documented each transition process, including installation and how-to guides.
     - Provided phone and email support to remote users and investigated network and software issues.
-- Provided Operations suport as-needed for a small business.
+- Provided operations support as-needed for a small business.
 
 ------
 
@@ -154,20 +143,3 @@ In addition to normal management and wait staff duties:
 ### Education
 
 **The University of Texas at Dallas** (2000 - 2002)
-
-- Major: Computer Science/English
-
-### Personal
-#### Hobbies
-
-- Functional 3D printing;
-- Problem solving with Python; and
-- Heated 3D printing enclosure development.
-
-#### Interests
-
-- The C++ language history and evolution;
-- CNC and additive manufacturing;
-- Digital environmentally-controlled enclosure design;
-- Aerospace engineering & fluid dynamics; and
-- Typography and iconography.

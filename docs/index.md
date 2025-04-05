@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: About Me
 summary: Blog landing page.
 authors: Jon Harper
 date: 2022-06-16
@@ -10,7 +10,7 @@ hide: toc
 
 ![What I May or May Not Look Like](img/doug.png){ data-title="I Kinda Look Like This" data-description="Sorta." width="250px" align="right" }
 
-I'm a technology- and information-oriented problem solver. I love to:
+I'm Jon (also jonspaceharper), a technology- and information-oriented problem solver. I love to:
 
 - **write** to document and educate;
 - **teach** and discuss ideas and concepts;
@@ -20,10 +20,6 @@ I'm a technology- and information-oriented problem solver. I love to:
 - **learn** new technologies and ideas.
 
 You can find out more in my [resume](resume.md).
-
-## Articles
-
-[**ABS 3D Printing**](abs/index.md)
 
 ## Projects
 
@@ -83,5 +79,5 @@ A combination activated carbon and HEPA filter for enclosed 3D printing.
 
 [:material-linkedin: LinkedIn](https://linkedin.com/in/jonspaceharper)
 
-[:material-email: E-mail](mailto:jonspaceharper@@@gmail)
+[:material-email: E-mail](mailto:jonspaceharper@fixme.gmail.com)
 </div>

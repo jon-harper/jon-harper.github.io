@@ -73,16 +73,8 @@ nav:
   - index.md
   - resume.md
 
-  - Articles:
-    - ABS 3D Printing:
-      - abs/index.md
-      - abs/about.md
-      - abs/printing.md
-      - abs/materials.md
-
-  - Documentation:
+  - Project Portfolio:
     - OmniBox: https://jon-harper.github.io/OmniBox
     - E34M1: https://jon-harper.github.io/E34M1
     - SUAFT: https://jon-harper.github.io/air_filter
-    - The Clockmaker Project: https://jon-harper.github.io/clockmaker-project
 
